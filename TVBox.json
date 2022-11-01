@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://ghproxy.com/https://github.com/taojinliang123/ys/raw/main/7e3af56feec4fad36613aab4ab38e646.jpg",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/07180853.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
     "sites": [
         {
             "key": "360_spider",
@@ -11,7 +11,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "",
-            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/360.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
        {
             "key": "桉t4",
@@ -21,7 +21,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key" : "Gitcafe",
@@ -32,7 +32,7 @@
             "quickSearch" : 1,
             "filterable" : 1,
             "ext" : "8f0b3f0dc1834f309f077ea5549e99a8",
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key":"AliPS",
@@ -43,7 +43,7 @@
             "quickSearch":1,
             "filterable":1,
             "ext": "4acb3ad2f2254ba1b566279f7cd98ba3",
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key" : "csp_QQ",
@@ -53,7 +53,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key" : "csp_MGTV",
@@ -63,7 +63,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key" : "csp_IQIYI",
@@ -73,7 +73,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "csp_CZSPP",
@@ -83,7 +83,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://pan.css.lc/api/v3/file/get/88974/%E5%8E%82%E9%95%BF%E5%A4%A9%E7%A9%BA.jar?sign=d5kqKvOODinlC9SKuDu8yS3jZcdYoW9diFtW28q0thY%3D%3A0"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar?sign=d5kqKvOODinlC9SKuDu8yS3jZcdYoW9diFtW28q0thY%3D%3A0"
         },
         {
             "key": "csp_Tkys",
@@ -93,7 +93,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://pan.css.lc/api/v3/file/get/88974/%E5%8E%82%E9%95%BF%E5%A4%A9%E7%A9%BA.jar?sign=d5kqKvOODinlC9SKuDu8yS3jZcdYoW9diFtW28q0thY%3D%3A0"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar?sign=d5kqKvOODinlC9SKuDu8yS3jZcdYoW9diFtW28q0thY%3D%3A0"
         },
         {
             "key": "Lezhu_spider",
@@ -103,7 +103,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar?raw=true"
         },
         {
             "key": "Bili",
@@ -114,7 +114,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitea.com/dxa/6/raw/branch/main/bili.json",
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar?raw=true"
         },
         {
             "key": "KanSJ_spider",
@@ -125,7 +125,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "",
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "293视频",
@@ -136,7 +136,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "",
-            "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "csp_Wmkk",
@@ -146,7 +146,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "3EDY",
@@ -156,7 +156,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "csp_kuaikan",
@@ -166,7 +166,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
        {
 		"key": "csp_BBBb",
@@ -177,7 +177,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
-		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
+		"jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
 		},  
 
         {
@@ -188,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "Auete(SP)",
@@ -207,7 +207,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
         },
         {
             "key": "csp_Dy1990",
@@ -228,7 +228,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "阿里Token",
-            "jar": "https://pan.css.lc/api/v3/file/get/79576/%E5%B7%A7%E8%AE%A1.jar?sign=hJBFdqcS2EbRA1raux2zBENY8GuW-vRTCAK61RuIoUs%3D%3A0"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar?sign=hJBFdqcS2EbRA1raux2zBENY8GuW-vRTCAK61RuIoUs%3D%3A0"
         },
         {
             "key": "csp_Cokemv",

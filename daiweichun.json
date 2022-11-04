@@ -6,6 +6,17 @@
 
 "sites": [
     
+	{
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
+        },
 		{
             "key":"WARNING",
             "name":"WARNING"

@@ -1,11 +1,7 @@
 {
 "wallpaper":" ",
 "spider":"./jar/index.jar",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L3R2Lmpzb24="]}]}],
 
-"lives": [
-       {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYXRpYW4yMDIyL1kvcmF3L2JyYW5jaC9tYXN0ZXIvemJ5LnR4dA=="]}]}],	
-	
 "sites": [
     
 	{"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},

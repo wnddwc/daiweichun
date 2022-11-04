@@ -7,6 +7,721 @@
 "sites": [
     
 	{
+            "key": "桉t4",
+            "name": "豆瓣榜单",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
+        },
+        {
+            "key" : "csp_QQ",
+            "name" : "腾讯（官）",
+            "type" : 3,
+            "api" : "csp_QQ",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key" : "csp_MGTV",
+            "name" : "芒果（官）",
+            "type" : 3,
+            "api" : "csp_MGTV",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key" : "csp_IQIYI",
+            "name" : "爱奇艺（官）",
+            "type" : 3,
+            "api" : "csp_IQIYI",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
+        },
+        {
+            "key": "csp_CZSPP",
+            "name": "厂长影视(SP)",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/czzy.jar"
+        },
+        {
+            "key": "Lezhu_spider",
+            "name": "乐猪(爬虫)",
+            "api": "csp_Lezhu",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
+        },
+        {
+            "key":"csp_Alist",
+            "name":"Alist合集[SP]",
+            "type":3,
+            "api":"csp_Alist",
+            "searchable":1,
+            "quickSearch":0,
+            "filterable":0,
+            "ext":"https://wzs1973.github.io/alist.json",
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+            
+        },
+        {
+            "key": "KanSJ_spider",
+            "name": "看视界",
+            "api": "csp_KanSJ",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+        },
+          {
+            "key": "csp_Bttoo",
+            "name": "Bttoo",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/spider20221008.jar"
+        },
+        {
+            "key": "csp_SP293",
+            "name": "293影视",
+            "type": 3,
+            "api": "csp_SP293",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/spider20221008.jar"
+        },
+        {
+            "key": "csp_Mjxq",
+            "name": "美剧星球",
+            "type": 3,
+            "api": "csp_Mjxq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/spider20221008.jar"
+        },
+        {
+            "key": "csp_Wmkk",
+            "name": "完美看看",
+            "api": "csp_Wmkk",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
+        },
+        {
+            "key": "3EDY",
+            "name": "3EDY(EXO)",
+            "type": 3,
+            "api": "csp_EEEDY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
+        },
+        {
+            "key": "csp_kuaikan",
+            "name": "👀快看(SP)",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+        },
+       {
+      "key": "csp_Ysgc",
+      "name": "影视工厂[SP]",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+   {
+      "key": "csp_AppTT",
+      "name": "兔兔影视[SP]",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+       {
+      "key": "csp_Auete",
+      "name": "奥特影视[SP]",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+    {
+      "key": "csp_Zjdr",
+      "name": "追剧达人[SP]",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+    {
+      "key": "csp_ZJMiao",
+      "name": "追剧猫[SP]",
+      "type": 3,
+      "api": "csp_ZJMiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+    {
+      "key": "csp_Bili",
+      "name": "哔哩哔哩[SP]",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/Bili/Bili.json",
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "南柯电影[SP]",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+ {
+		"key": "csp_BBBb",
+		"name": "b站大杂烩",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
+		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
+		},  
+
+        {
+            "key": "csp_apple",
+            "name": "小苹果(SP)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+        },
+        {
+            "key": "Auete(SP)",
+            "name": "Auete(SP)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_77",
+            "name": "77(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
+        },
+        {
+            "key": "csp_Dy1990",
+            "name": "1990电影(SP)",
+            "type": 3,
+            "api": "csp_DY1990",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": ""
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "阿里Token",
+            "jar": "https://pan.css.lc/api/v3/file/get/79576/%E5%B7%A7%E8%AE%A1.jar?sign=hJBFdqcS2EbRA1raux2zBENY8GuW-vRTCAK61RuIoUs%3D%3A0"
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "Cokemv(SP)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "csp_xpath_网络搜集库huaya",
+            "name": "虎牙",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+        },
+        {
+            "key": "csp_biubiu_tsw",
+            "name": "听书网(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/tingshu.json"
+        },
+        {
+            "key": "csp_biubiu_yklg",
+            "name": "夜空蓝光(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/Yklg.json"
+        },
+        {
+            "key": "csp_biubiu_juziTV",
+            "name": "桔子TV(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/juzitv.json"
+        },
+        {
+            "key": "csp_biubiu_kukebuzhichisousuo",
+            "name": "酷客-不支持搜索(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/kuke.json"
+        },
+        {
+            "key": "csp_biubiu_acmv",
+            "name": "爱车MV(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/acmv.json"
+        },
+        {
+            "key": "csp_biubiu_vidhub",
+            "name": "VIDHUB(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/VIBHUB.json"
+        },
+        {
+            "key": "csp_biubiu_ssdy",
+            "name": "双十电影(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ssdy.json"
+        },
+        {
+            "key": "csp_biubiu_djw",
+            "name": "豆角网(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/djw.json"
+        },
+        {
+            "key": "csp_biubiu_lgyy",
+            "name": "蓝光影院(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/lgyy.json"
+        },
+        {
+            "key": "csp_biubiu_zxzj",
+            "name": "在线之家(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/zxzj.json"
+        },
+        {
+            "key": "csp_biubiu_jh",
+            "name": "剧嗨(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/jh.json"
+        },
+        {
+            "key": "csp_biubiu_kmys",
+            "name": "快猫影视(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/kmys.json"
+        },
+        {
+            "key": "csp_biubiu_yyds",
+            "name": "YYDS影院(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/YYDS.json"
+        },
+        {
+            "key": "csp_biubiu_29dyy",
+            "name": "29电影院(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/29dyy.json"
+        },
+        {
+            "key": "csp_biubiu_gptv",
+            "name": "瓜皮TV(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/gptv.json"
+        },
+        {
+            "key": "csp_biubiu_ysgc",
+            "name": "影视工场(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ysgc.json"
+        },
+        {
+            "key": "csp_biubiu_ggtv",
+            "name": "GGTV(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ggtv.json"
+        },
+        {
+            "key": "csp_xpath_chok8dy",
+            "name": "CHOK吧电影院-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/chok8.json"
+        },        {
+            "key": "csp_xpath_lgyy",
+            "name": "蓝光影院-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/lgyy.json"
+        },
+        {
+            "key": "csp_xpath_gfys",
+            "name": "干饭影视-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/gfys.json"
+        },
+        {
+            "key": "csp_xpath_dmxq",
+            "name": "大米星球-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/dmxq.json"
+        },
+        {
+            "key": "csp_xpath_tkys",
+            "name": "天空影视-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/tkys.json"
+        },
+        {
+            "key": "csp_xpath_ddg",
+            "name": "达达龟-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/ddg.json"
+        },
+        {
+            "key": "csp_xpath_555dy",
+            "name": "555电影-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/555dy.json"
+        },
+        {
+            "key": "csp_xpath_nmys",
+            "name": "农民影视(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/nmys.json"
+        },
+        {
+            "key": "csp_xpath_kqmv",
+            "name": "酷奇MV(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/kuqimv.json"
+        },
+        {
+            "key": "csp_xpath_135kk",
+            "name": "135看看(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/135kk.json"
+        },
+        {
+            "key": "csp_xpath_zbkyy",
+            "name": "真不卡(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/zhenbuka.json"
+        },
+        {
+            "key": "csp_xpath_ftys",
+            "name": "饭团影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/fantuan.json"
+        },
+        {
+            "key": "csp_xpath_jpys",
+            "name": "极品影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jpys.json"
+        },
+        {
+            "key": "csp_xpath_saohuody",
+            "name": "骚火电影(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/saohuody.json"
+        },
+        {
+            "key": "csp_xpath_348dy",
+            "name": "348电影(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/348dianying.json"
+        },
+        {
+            "key": "csp_xpath_dadagui",
+            "name": "达达龟(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
+        },
+        {
+            "key": "csp_xpath_jubaibai",
+            "name": "剧白白(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jubaibai.json"
+        },
+        {
+            "key": "csp_xpath_juhuang",
+            "name": "剧荒TV(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/juhuangtv.json"
+        },
+        {
+            "key": "csp_xpath_yanaifei",
+            "name": "鸭奈飞(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/yanaifei.json"
+        },
+        {
+            "key": "csp_xpath_tiantian",
+            "name": "天天影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/tiantianyingshi.json"
+        },
+        {
+            "key": "csp_xpath_auete",
+            "name": "Auete影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/Auete.json"
+        },
+        {
+            "key": "csp_xpath_cokemv",
+            "name": "Cokemv(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/cokemv.json"
+        },
+        {
+            "key": "Gimy",
+            "name": "GimyTV(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
+        },
+        {
+            "key": "csp_xpath_libv",
+            "name": "Libvio(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/libv.json"
+        },
+        {
+            "key": "csp_xpath_lezhutv",
+            "name": "乐猪TV(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMac",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/lezhutv.json"
+        },
+	{
             "key": "360_spider",
             "name": "360影视",
             "api": "csp_SP360",

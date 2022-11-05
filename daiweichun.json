@@ -3,7 +3,8 @@
 "spider":"./jar/index.jar",
 
 "sites": [
-{
+
+	{
       "key": "富二代资源",
       "name": "富二代",
       "type": 1,

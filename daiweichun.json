@@ -3,8 +3,7 @@
 "spider":"./jar/index.jar",
 
 "sites": [
-     
-	 {
+{
       "key": "富二代资源",
       "name": "富二代",
       "type": 1,
@@ -12,6 +11,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },     
+
     },
     },
 	{"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},

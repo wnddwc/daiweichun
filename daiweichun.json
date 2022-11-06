@@ -7,7 +7,7 @@
 "sites": [
 
 {"key":"麻豆视频资源站","name":"麻豆视频","type":0,"api":"http://www.madouse.la/api.php/provide/vod/l","searchable":0,"quickSearch":0},
-  {"key":"富二代资源","name":"富二代视频","type":0,"api":"http://f2dcj6.com/sapi.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},	
+  {"key":"富二代资源","name":"富二代视频","type":0,"api":"http://f2dcj6.com/sapi","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_一站VIP影视","name":"一站VIP影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},

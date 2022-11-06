@@ -5,7 +5,7 @@
 	
 
 "sites": [
-
+{"key":"csp_appysv2_抖阴","name":"抖阴影视 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.888dav.com/api.php/provide/vod"},
 
 
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},

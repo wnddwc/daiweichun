@@ -1,6 +1,13 @@
 {
 "wallpaper":" ",
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
+
+	
+
+	
+ "lives": [
+       {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3hpYXRpYW4yMDIyL1kvcmF3L2JyYW5jaC9tYXN0ZXIvemJ5LnR4dA=="]}]}],	
+	
 	
 	
 

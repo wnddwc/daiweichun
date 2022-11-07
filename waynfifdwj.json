@@ -2,6 +2,25 @@
     "wallpaper": "https://ghproxy.com/https://github.com/taojinliang123/ys/raw/main/7e3af56feec4fad36613aab4ab38e646.jpg",
      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
     "sites": [
+	    
+		    
+	     {
+            "key": "csp_xpath_印度歌舞",
+            "name": "印度歌舞",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/waynfifdwj.json"
+        }, 
+	    
+	    
+	    
+	    
+	    
+	    
+	    
         {
             "key": "360_spider",
             "name": "360影视",

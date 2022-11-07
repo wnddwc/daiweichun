@@ -3,20 +3,7 @@
      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
     "sites": [
 	    
-		    
-	     {
-            "key": "csp_xpath_印度歌舞",
-            "name": "印度歌舞",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/waynfifdwj.json"
-        }, 
-	    
-	    
-	    
+	
 	    
 	    
 	    

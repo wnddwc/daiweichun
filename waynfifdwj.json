@@ -3,7 +3,17 @@
      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
     "sites": [
 	    
-	
+{
+      "key": "女团MV",
+      "name": "女团MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A5%B3%E5%9B%A2MV.json"
+    },
+	    
     {
       "key": "印度歌舞",
       "name": "📚印度歌舞",

@@ -2,8 +2,17 @@
     "wallpaper": "https://ghproxy.com/https://github.com/taojinliang123/ys/raw/main/7e3af56feec4fad36613aab4ab38e646.jpg",
      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
     "sites": [
-
-	    
+{
+      "key": "csp_XYQBiu_聚合短视频",
+      "name": "📽️短视频聚合",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%81%9A%E5%90%88%E7%9F%AD%E8%A7%86%E9%A2%91.json"
+    },
+	    	    
 {
       "key": "女团MV",
       "name": "女团MV",

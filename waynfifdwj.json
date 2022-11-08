@@ -3,9 +3,6 @@
      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
     "sites": [
 
-
-{"key":"csp_appysv2_短视频","name":"短视频 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E7%9F%AD%E8%A7%86%E9%A2%91.json"},
-	    
 	    
 {
       "key": "女团MV",

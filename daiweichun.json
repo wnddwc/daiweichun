@@ -17,15 +17,15 @@
 
 {
       "key": "*探探资源",
+      "name": "*探探资源{
+      "key": "*探探资源",
       "name": "*探探资源",
       "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod",
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
- 
-	
 {
       "key": "csp_XYQBiu_聚合短视频",
       "name": "📽️短视频聚合",

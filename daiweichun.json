@@ -1010,7 +1010,7 @@
             "quickSearch": 1,
             "filterable": 1        },	
  
-  
+  {"key":"富二代资源","name":"富二代资源","type":0,"api":"http://f2dcj6.com/sapi","searchable":0,"quickSearch":0},
   {"key":"afasu","name":"🐞Afasu🈲","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"我要啪啪资源站","name":"我要啪啪资源站","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"AV集中淫资源站","name":"AV集中淫资源站","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":0,"quickSearch":0},

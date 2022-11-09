@@ -17,26 +17,6 @@
 
     
 	
-{
-      "key": "探探资源",
-      "name": "探探资源",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
-
-	
- {
-      "key": "富二代资源",
-      "name": "富二代资源",
-      "type": 1,
-      "api":"http://f2dcj6.com/index.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
 	
 	
 	
@@ -1664,12 +1644,11 @@
       "filterable": 0
     },
     	{"key":"ASMR","name":"🈲ASMR(网络声优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},  
-    {
-      "key": "zp137",
-      "name": "探探资源（慢）",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+{
+      "key": "探探资源",
+      "name": "探探资源",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0

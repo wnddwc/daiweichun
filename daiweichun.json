@@ -2,14 +2,13 @@
 "wallpaper":" ",
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
 	
-"lives": [
+ "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"
+      "url": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="
     }
   ],
-	
 	
 	
 "sites": [

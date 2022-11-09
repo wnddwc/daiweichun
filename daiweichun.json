@@ -2,7 +2,8 @@
 "wallpaper":" ",
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",
 
-	
+"lives": [
+       {"group": "redirect","channels": [{"name": "redirect","urls": ["https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV%E5%BD%B1%E8%A7%86.txt"]}]}],	
 
 	
 

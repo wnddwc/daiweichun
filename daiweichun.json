@@ -15,6 +15,9 @@
 	
 "sites": [
 
+{"key":"csp_appysv2_探探资源","name":"探探资源 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https ://apittzy.com/api.php/provide/vod"},
+
+	
 {
       "key": "csp_XYQBiu_聚合短视频",
       "name": "📽️短视频聚合",

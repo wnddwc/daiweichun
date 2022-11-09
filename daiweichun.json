@@ -26,17 +26,15 @@
       "quickSearch": 1,
       "filterable": 0
     },	
-	
-{
+	{
       "key": "富二代资源",
       "name": "富二代资源",
       "type": 1,
-      "api": "http://f2dcj6.com/sapi/?ac=list",
+      "api": "http://f2dcj6.com/sapi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-
 	
 	
 	

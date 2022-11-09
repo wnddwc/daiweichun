@@ -270,8 +270,17 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/ydgw.json"
     },
-	
-	
+{
+            "key":"csp_555",
+            "name":"555(sp)",
+            "type":3,
+            "api":"csp_Dy555",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar"
+            
+        },
 
 	{
             "key": "桉t4",

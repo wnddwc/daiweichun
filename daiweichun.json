@@ -17,6 +17,23 @@
 
 
 
+{
+            "key": "test",
+            "name": "test",
+            "type": 1,
+            "api": "http://121.205.88.71:309/api.php/provide/vod",
+            "playUrl": "",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "电影",
+                "连续剧",
+                "动漫",
+                "综艺"
+            ]
+        },
 	
 	
 	

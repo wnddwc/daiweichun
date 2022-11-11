@@ -2,6 +2,12 @@
 "wallpaper":" ",
  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/999.jar",	
 "lives": [
+	
+{"key":"csp_appysv2_test","name":"test","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.520lesou.com/xcyy_api.php/v1.vod"},
+	
+	
+	
+	
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
 
 "sites": [

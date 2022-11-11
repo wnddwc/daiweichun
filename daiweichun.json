@@ -8,7 +8,16 @@
 
 {"key":"csp_appysv2_test","name":"test","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.520lesou.com/xcyy_api.php/v1.vod"},
 
-	
+ {
+      "key": "印度歌舞",
+      "name": "📚印度歌舞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/ydgw.json"
+    },	
 	
 	
 {
@@ -30,8 +39,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A5%B3%E5%9B%A2MV.json"
-    },	
-{"key":"麻豆视频资源站","name":"麻豆视频","type":0,"api":"http://www.madouse.la/api.php/provide/vod/l","searchable":0,"quickSearch":0},	
+    },		
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_一站VIP影视","name":"一站VIP影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dpp8.xyz/api.php/v1.vod"},
 {"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
@@ -251,18 +259,7 @@
 {"key":"MBO影视","name":"MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"https://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-	
-	
-    {
-      "key": "印度歌舞",
-      "name": "📚印度歌舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/ydgw.json"
-    },
+{"key":"麻豆视频资源站","name":"麻豆视频","type":0,"api":"http://www.madouse.la/api.php/provide/vod/l","searchable":0,"quickSearch":0},
 {
             "key":"csp_555",
             "name":"555(sp)",

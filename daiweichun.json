@@ -7,11 +7,7 @@
 "sites": [
 
 {"key":"csp_appysv2_芒果影视","name":"芒果影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.520lesou.com/xcyy_api.php/v1.vod"},
-	
-
-{"key":"csp_appysv2_测试","name":"测试","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://74.211.97.149:1234/xgapp.php/v2/video_detail"},
-	
-	
+			
  {
       "key": "印度歌舞",
       "name": "📚印度歌舞",

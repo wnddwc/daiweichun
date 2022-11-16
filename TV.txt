@@ -1,4 +1,5 @@
 ⚛️央视综合,#genre#
+CCTV6,https://cctvwbcdtxy.liveplay.myqcloud.com/cctvwbcd/cdrmjzcctv6_1_td.m3u8
 CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
 CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
 CCTV2,http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT

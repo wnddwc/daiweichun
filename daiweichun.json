@@ -18,7 +18,7 @@
       "filterable": 1,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/ydgw.json"
     },	
-	
+	{"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://jx.fqzy.cc/jx.php?url=","searchable":1,"quickSearch":1},
 	
 {
       "key": "csp_XYQBiu_聚合短视频",

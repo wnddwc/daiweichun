@@ -13,7 +13,7 @@
 {"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"酷豆资源","name":"酷豆资源","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"酷豆资源2","name":"酷豆资源2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-	
+{"key":"奶茶资源","name":"奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},	
 	
 	
 	

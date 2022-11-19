@@ -5,8 +5,8 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
 
 "sites": [
-{"key":"csp_appysv2_555电影","name":"555电影〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
-{"key":"csp_appysv2_APP影视","name":"↓APP影视↓","type":0,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"csp_appysv2_555电影","name":"555电影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
+
 	
 	
 	

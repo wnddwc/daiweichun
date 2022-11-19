@@ -12,6 +12,27 @@
 {"key":"csp_appysv2_迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"csp_appysv2_影库","name":"影库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},	
 {
+"key":"drpy_js_海盗听书",
+"name":"听书|海盗听书[DRPY]",
+"type":3,
+"api":"./JS/lib/drpy.min.js",
+"ext":"./JS/js/海盗听书.js",
+"playerType":"2"
+},
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+{
       "key": "csp_XYQBiu_聚合短视频",
       "name": "📽️短视频聚合",
       "type": 3,

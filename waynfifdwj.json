@@ -7,6 +7,19 @@
 	
 	
     "sites": [
+{"key":"Yanet","name":"鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
+
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 {"key":"csp_appysv2_555电影","name":"555电影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
 {"key":"csp_appysv2_萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"csp_appysv2_迷你库","name":"迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
@@ -29,20 +42,7 @@
 "https://ah.jkyw.xyz/xiaobai/NPXCK/云盘/ko.txt"},
 {"key": "push_agent","name":"🌸阿里推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
 "ext":
-"https://ah.jkyw.xyz/xiaobai/NPXCK/云盘/ko.txt"},
-
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+"https://ah.jkyw.xyz/xiaobai/NPXCK/云盘/ko.txt"},	    
 {
       "key": "csp_XYQBiu_聚合短视频",
       "name": "📽️短视频聚合",

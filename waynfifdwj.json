@@ -9,7 +9,7 @@
     "sites": [
 {"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},		    
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},
-{"key":"蓝光电影","name":"蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1},	    
+{"key":"神马电影","name":"神马电影","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},    
 	    
 	    
 	    

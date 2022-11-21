@@ -7,8 +7,11 @@
 	
 	
     "sites": [
-{"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},	    
-{"key":"dm77_spider","name":"齐齐动漫","api":"csp_DM77","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":""},	    
+{"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},		    
+{"key":"棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
+
+	    
+	    
 	    
 	    
 	    

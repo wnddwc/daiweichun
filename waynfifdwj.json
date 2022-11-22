@@ -7,7 +7,15 @@
 	
 	
     "sites": [  
-
+ {
+      "key": "csp_Vofl",
+      "name": "🎈Voflix┃SP",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	    
 	    
 	    
@@ -209,16 +217,7 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/spider20221008.jar"
         },
-        {
-            "key": "csp_Wmkk",
-            "name": "完美看看",
-            "api": "csp_Wmkk",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "jar": "https://pan.css.lc/api/v3/file/get/88967/%E7%9C%8B%E8%A7%86%E7%95%8C.txt?sign=6cV7du5arLoAejkJ_TL0TxtVVt2OCq49wK8NfVVms94%3D%3A0"
-        },
+     
         {
             "key": "3EDY",
             "name": "3EDY(EXO)",

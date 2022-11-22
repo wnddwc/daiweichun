@@ -16,11 +16,20 @@
       "quickSearch": 1,
       "filterable": 1
     },    
-{
-      "key": "csp_Dy1010",
-      "name": "❤双十┃SP",
+  {
+      "key": "csp_zxzj",
+      "name": "📗在线┃SP",
       "type": 3,
-      "api": "csp_Dy1010",
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Smdyy",
+      "name": "🐴神马┃SP",
+      "type": 3,
+      "api": "csp_Smdyy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

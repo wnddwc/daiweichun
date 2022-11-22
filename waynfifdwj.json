@@ -8,10 +8,10 @@
 	
     "sites": [  
  {
-      "key": "csp_Vofl",
-      "name": "🎈Voflix┃SP",
+      "key": "csp_Lib",
+      "name": "🎉Lib┃SP",
       "type": 3,
-      "api": "csp_Voflix",
+      "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

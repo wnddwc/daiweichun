@@ -34,15 +34,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_Lgyy",
-      "name": "🌀蓝光┃SP",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 	    
 	    
 	    
@@ -166,18 +158,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/%E5%B7%A7%E8%AE%A1.jar?raw=true"
-        },
-        {
-            "key":"csp_Alist",
-            "name":"Alist合集[SP]",
-            "type":3,
-            "api":"csp_Alist",
-            "searchable":1,
-            "quickSearch":0,
-            "filterable":0,
-            "ext":"https://wzs1973.github.io/alist.json",
-      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-            
         },
         {
             "key": "KanSJ_spider",

@@ -8,7 +8,15 @@
 	
     "sites": [  
 {"key":"mtv_pc_完美看看","name":"🔥完美看看","type":3,"api":"csp_Wmkk"          ,"filterable":1,"quickSearch":1,"searchable":1},
-	    
+{"key":"csp_xBPQ_6080",
+"name":"️6080xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"http://www.zhufangyuan.com/vodshow/{cateId}--------{catePg}---.html"},
+
 	    
 	    
 	    

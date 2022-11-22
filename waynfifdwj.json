@@ -25,15 +25,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
- {
-      "key": "csp_ny",
-      "name": "🐮念影┃SP",
-      "type": 3,
-      "api": "csp_Nianying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 	    
 	    
 	    
@@ -129,16 +121,6 @@
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
         },
         {
-            "key" : "csp_QQ",
-            "name" : "腾讯（官）",
-            "type" : 3,
-            "api" : "csp_QQ",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
-        },
-        {
             "key" : "csp_MGTV",
             "name" : "芒果（官）",
             "type" : 3,
@@ -157,16 +139,6 @@
             "quickSearch" : 1,
             "filterable" : 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
-        },
-        {
-            "key": "csp_CZSPP",
-            "name": "厂长影视(SP)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/czzy.jar"
         },
         {
             "key": "Lezhu_spider",

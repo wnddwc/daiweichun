@@ -10,12 +10,13 @@
 {"key":"mtv_pc_完美看看","name":"🔥完美看看","type":3,"api":"csp_Wmkk"          ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"mtv_pc_哔滴影视","name":"🔥哔滴影视","type":3,"api":"csp_Bdys01"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/酷奇视频.json"},	    
-	    
-	  {"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/虎牙直播.json"},
-{"key":"mtv_xp_极品影视","name":"💦极品影视","type":3,"api":"csp_XPathMac"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/极品影视.json"},
-{"key":"mtv_xp_极品直链","name":"💦极品直链","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/极品直链.json"},
-{"key":"mtv_xp_三五电影","name":"💦三五电影","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/三五电影.json"},
-	    
+{"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/虎牙直播.json"},
+
+{"key":"mtv_xp_特狗影视","name":"💦特狗影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/特狗影视.json"},
+{"key":"mtv_xp_爱港剧源","name":"💦爱港剧源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/爱港剧源.json"},
+{"key":"mtv_xp_TVB云播" ,"name":"💦TVB云播" ,"type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/TVB云播.json"},
+{"key":"mtv_xp_霸气影院","name":"💦霸气影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/霸气影院.json"},
+
 	    
 	    
 	    

@@ -7,6 +7,17 @@
 	
 	
 "sites": [
+{"key":"mtv_pc_完美看看","name":"🔥完美看看","type":3,"api":"csp_Wmkk"          ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"mtv_pc_哔滴影视","name":"🔥哔滴影视","type":3,"api":"csp_Bdys01"        ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/酷奇视频.json"},	    
+{"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/虎牙直播.json"},
+{"key":"mtv_xp_爱港剧源","name":"💦爱港剧源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/爱港剧源.json"},
+{"key":"mtv_xp_蓝光影院","name":"💦蓝光影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/蓝光影院.json"},
+ {"key":"mtv_xp_动漫巴士","name":"💦动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/动漫巴士.json"},
+{"key":"mtv_xp_异次动漫","name":"💦异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/异次动漫.json"},
+{"key":"mtv_xp_去看动漫","name":"💦去看动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/去看动漫.json"},
+{"key":"mtv_xp_风车动漫","name":"💦风车动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/风车动漫.json"},
+{"key":"mtv_xp_维奇动漫","name":"💦维奇动漫","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/维奇动漫.json"},
 {
       "key": "csp_77",
       "name": "👒七七┃SP",

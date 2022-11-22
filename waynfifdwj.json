@@ -7,15 +7,7 @@
 	
 	
     "sites": [  
- {
-      "key": "csp_fant",
-      "name": "🍙饭团┃SP",
-      "api": "csp_Fantuan",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1
-    },
+
 	    
 	    
 	    
@@ -257,16 +249,7 @@
       "filterable": 1,
       "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
     },
-   {
-      "key": "csp_AppTT",
-      "name": "兔兔影视[SP]",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },
+
        {
       "key": "csp_Auete",
       "name": "奥特影视[SP]",

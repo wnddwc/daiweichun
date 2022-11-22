@@ -8,14 +8,9 @@
 	
     "sites": [  
 {"key":"mtv_pc_完美看看","name":"🔥完美看看","type":3,"api":"csp_Wmkk"          ,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_xBPQ_6080",
-"name":"️6080xBPQ",
-"type":3,
-"api":"csp_xBPQ",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"http://www.zhufangyuan.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"mtv_pc_哔滴影视","name":"🔥哔滴影视","type":3,"api":"csp_Bdys01"        ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_厂长影视","name":"🔥厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://la.kstore.space/download/3092/MaooXB/资源包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
+{"key":"mtv_pc_三亿影视","name":"🔥三亿影视","type":3,"api":"csp_EEEDY"         ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://la.kstore.space/download/3092/MaooXB/资源包2.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
 
 	    
 	    

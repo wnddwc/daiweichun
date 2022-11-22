@@ -6,7 +6,23 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
 	
 	
-    "sites": [   
+    "sites": [  
+ {
+      "key": "csp_AppTT",
+      "name": "🐰tutu┃SP",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	    
+	    
+	    
+	    
+	    
+	    
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 {"key":"NoSearch_csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},		    
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":2,"quickSearch":1,"filterable":1},

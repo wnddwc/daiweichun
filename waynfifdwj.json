@@ -8,6 +8,14 @@
 	
     "sites": [  
 {"key":"mtv_pc_视界影视","name":"🔥视界影视","type":3,"api":"csp_KanSJ"         ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_xBPQ_6080",
+"name":"️6080xBPQ",
+"type":3,
+"api":"csp_xBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"http://www.zhufangyuan.com/vodshow/{cateId}--------{catePg}---.html"},
 	    
 	    
 	    

@@ -7,34 +7,27 @@
 	
 	
     "sites": [  
-  {
-      "key": "csp_77",
-      "name": "👒七七┃SP",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },    
-  {
-      "key": "csp_zxzj",
-      "name": "📗在线┃SP",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
-      "key": "csp_Bd",
-      "name": "💥bidi┃SP",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
+{"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv"        ,"searchable":1,"quickSearch":1,"filterable":1},
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	    
 	    
 	    
@@ -71,6 +64,33 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%81%9A%E5%90%88%E7%9F%AD%E8%A7%86%E9%A2%91.json"
     },
+  {
+      "key": "csp_77",
+      "name": "👒七七┃SP",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+  {
+      "key": "csp_zxzj",
+      "name": "📗在线┃SP",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "csp_Bd",
+      "name": "💥bidi┃SP",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	    
 	    	    
 {
       "key": "女团MV",

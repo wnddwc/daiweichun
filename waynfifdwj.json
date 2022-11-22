@@ -7,15 +7,15 @@
 	
 	
     "sites": [  
-   {
-      "key": "csp_Czsapp",
-      "name": "📔厂长┃SP",
+ {
+      "key": "csp_Ysgc",
+      "name": "🏭工厂┃SP",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_Ysgc",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },  
+    }, 
 	    
 	    
 	    

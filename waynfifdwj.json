@@ -7,16 +7,15 @@
 	
 	
     "sites": [  
- {
-      "key": "csp_Ysgc",
-      "name": "🏭工厂┃SP",
+  {
+      "key": "csp_77",
+      "name": "👒七七┃SP",
       "type": 3,
-      "api": "csp_Ysgc",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
-	    
+    },    
 	    
 	    
 	    

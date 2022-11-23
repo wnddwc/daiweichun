@@ -73,7 +73,66 @@
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_3qu.py"
 	},
-
+{
+		"key": "py_voflix",
+		"name": "Voflix（PY）",
+		"type": 3,
+		"api": "py_voflix",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_voflix.py"
+	},
+ {
+		"key": "py_bilimd",
+		"name": "B站影视（PY）",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilimd.py"
+	}, 
+{
+		"key": "py_gimytv",
+		"name": "剧迷（PY）",
+		"type": 3,
+		"api": "py_gimytv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_gimytv.py"
+	}, 
+{
+		"key": "py_genmov",
+		"name": "跟剧（PY）",
+		"type": 3,
+		"api": "py_genmov",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_genmov.py"
+	},
+ {
+		"key": "py_huya",
+		"name": "虎牙（PY）",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_huya.py"
+	}, 
+{
+		"key": "py_douyu",
+		"name": "斗鱼（PY）",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_douyu.py"
+	},
 	    
 	    
 	    

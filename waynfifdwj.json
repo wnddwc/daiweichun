@@ -43,7 +43,57 @@
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilivd.py"
 	},
-    
+ {
+		"key": "py_mac",
+		"name": "mac（PY）",
+		"type": 3,
+		"api": "py_mac",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_mac.py"
+	},
+{
+		"key": "py_ikan",
+		"name": "爱看影视（PY）",
+		"type": 3,
+		"api": "py_ikan",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_ikan.py"
+	},
+{
+		"key": "py_qie",
+		"name": "企鹅体育（PY）",
+		"type": 3,
+		"api": "py_qie",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_qie.py"
+	},
+{
+		"key": "py_3qu",
+		"name": "3QU（PY）",
+		"type": 3,
+		"api": "py_3qu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_3qu.py"
+	},
+{
+		"key": "py_freezb",
+		"name": "体育直播（PY）",
+		"type": 3,
+		"api": "py_freezb",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_freezb.py"
+	},
+
 	    
 	    
 	    

@@ -33,7 +33,40 @@
 {"key":"csp_AppTT","name":"🐰图图影视〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar;md5;cfa8b6dee6f44dd7ee4e135935b70f11"},	    
 {"key": "小熊","name": "🐨小熊TV","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/29897/0809.jar?sign=-ADwQooya6o0mzghR-DwN7yH9WzjgT4knTgwbwpqFDw%3D%3A0"},
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"},
-	    
+{
+      "key": "youku",
+      "name": "👑优酷（官）",
+      "type": 0,
+      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "奇幻片",
+        "少儿",
+        "其他片"
+      ]
+    },	    
+{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/13412/top88.jar?sign=7e1d9fzPniW6Aw3EPw--LvPTOZjwKazppbLoRHkcGDk%3D%3A0"},
 
 	    
 	    
@@ -196,8 +229,7 @@
         },
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://jx.fqzy.cc/jx.php?url=","searchable":1,"quickSearch":1},	    
 	    
-    {"key":"csp_appysv2_芒果影视","name":"芒果影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.520lesou.com/xcyy_api.php/v1.vod"},
-        {
+      {
             "key": "360_spider",
             "name": "360影视",
             "api": "csp_SP360",
@@ -218,15 +250,6 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
         },
-        {
-            "key" : "csp_MGTV",
-            "name" : "芒果（官）",
-            "type" : 3,
-            "api" : "csp_MGTV",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/999.jar"
         },
         {
             "key" : "csp_IQIYI",

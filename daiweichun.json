@@ -7,6 +7,17 @@
 	
 	
 "sites": [
+{
+            "key": "csp_CZSPP_厂长资源",
+            "name": "厂长资源〔抓瓦〕",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"
+        },
 {"key":"mtv_xp_花猫影视","name":"💦花猫影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/花猫影视.json"},
 {"key":"mtv_xp_数字直链","name":"💦数字影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/数字影视.json"},
 {"key":"mtv_xp_数字看片","name":"💦数字看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/数字看片.json"},

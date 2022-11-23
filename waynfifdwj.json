@@ -17,8 +17,18 @@
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_cctv.py"
 	}, 
-	    
-	    
+{"key":"YQK_spider","name":"⚽一起看世界杯","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/64524/qj1122.jar?sign=hapAQ7YXfCdIIpK5-rhp7miTPrPV64ZDRV4rojXSNJU%3D%3A0"},
+	
+	{
+      "key": "csp_XYQ_lu1",
+      "name": "️📺电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://52bsj.vip:81/api/v3/file/get/61542/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json?sign=JxgjHlxu8_IP1SK2AbvPOnG3dnOnOtvJE4V3TM0Vp1w%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"
+    },    
 	    
 	    
 	    

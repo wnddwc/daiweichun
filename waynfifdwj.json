@@ -35,15 +35,12 @@
 {"key":"mtv_xp_红领巾源","name":"💦红领巾源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/红领巾源.json"},
 {"key":"mtv_xp_尼克影视","name":"💦尼克影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/尼克影视.json"},
 {"key":"mtv_xp_看看影视","name":"💦看看影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/看看影视.json"},
-
 {"key":"mtv_xp_花猫影视","name":"💦花猫影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/花猫影视.json"},
 {"key":"mtv_xp_数字直链","name":"💦数字影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/数字影视.json"},
 {"key":"mtv_xp_数字看片","name":"💦数字看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/数字看片.json"},
 {"key":"mtv_xp_比特影视","name":"💦比特影视","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/比特影视.json"},
 {"key":"mtv_xp_在线电影","name":"💦在线电影","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/在线电影.json"},
 {"key":"mtv_xp_云播看看","name":"💦云播看看","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/云播看看.json"},
-{"key":"mtv_xp_奈飞中文","name":"💦奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/奈飞中文.json"},
-{"key":"mtv_pc_悟空影视","name":"💦悟空影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/悟空影视.json"},
 {"key":"mtv_zh_暖光影视","name":"💦暖光影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"mtv_zh_刺猬影视","name":"💦刺猬影视","type":3,"api":"csp_AppYsV2"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
     

@@ -24,7 +24,6 @@
 {"key":"mtv_xp_六度影视","name":"💦六度影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/六度影视.json"},
 {"key":"mtv_xp_创艺影视","name":"💦创艺影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/创艺影视.json"},
 {"key":"mtv_xp_城市电影","name":"💦城市电影","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/城市电影.json"},
-
 {"key":"mtv_xp_尘落电影","name":"💦尘落电影","type":3,"api":"csp_XPath"         ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/尘落电影.json"},
 {"key":"mtv_xp_三九影视","name":"💦三九影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/三九影视.json"},
 {"key":"mtv_xp_豆角影视","name":"💦豆角影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/豆角影视.json"},
@@ -35,13 +34,9 @@
 {"key":"mtv_xp_美剧网源","name":"💦美剧网源","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/美剧网源.json"},
 {"key":"mtv_xp_红领巾源","name":"💦红领巾源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/红领巾源.json"},
 {"key":"mtv_xp_尼克影视","name":"💦尼克影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/尼克影视.json"},
-{"key":"mtv_xp_小熊影视","name":"💦小熊影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/小熊影视.json"},
-{"key":"mtv_xp_小强影迷","name":"💦小强影迷","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/小强影迷.json"},
 {"key":"mtv_xp_看看影视","name":"💦看看影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/看看影视.json"},
-{"key":"mtv_xp_剧白直链","name":"💦剧白直链","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/剧白直链.json"},
-{"key":"mtv_xp_剧白影视","name":"💦剧白影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/剧白影视.json"},
-{"key":"mtv_xp_达龟直链","name":"💦达龟直链","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/达龟直链.json"},
-{"key":"mtv_xp_达龟影视","name":"💦达龟影视","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/达龟影视.json"},
+
+ {"key":"mtv_xp_达龟影视","name":"💦达龟影视","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cn.kstore.space/download/3092/MaooXB/达龟影视.json"},
 {"key":"mtv_xp_北川影视","name":"💦北川影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/北川影视.json"},
 {"key":"mtv_xp_花猫影视","name":"💦花猫影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/花猫影视.json"},
 {"key":"mtv_xp_瓜皮影视","name":"💦瓜皮影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/瓜皮影视.json"},

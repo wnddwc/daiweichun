@@ -7,6 +7,11 @@
 	
 	
 "sites": [
+{"key":"mtv_xp_口袋影院","name":"💦口袋影院","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/口袋影院.json"},
+{"key":"mtv_xp_克拉影视","name":"💦克拉影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/克拉影视.json"},
+{"key":"mtv_xp_奇优影院","name":"💦奇优影院","type":3,"api":"csp_XBiubiu"       ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/奇优影院.json"},
+{"key":"mtv_xp_六度影视","name":"💦六度影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/六度影视.json"},
+{"key":"mtv_xp_创艺影视","name":"💦创艺影视","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/创艺影视.json"},
 {"key":"mtv_pc_完美看看","name":"🔥完美看看","type":3,"api":"csp_Wmkk"          ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"mtv_pc_哔滴影视","name":"🔥哔滴影视","type":3,"api":"csp_Bdys01"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cn.kstore.space/download/3092/MaooXB/酷奇视频.json"},	    

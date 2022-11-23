@@ -31,7 +31,19 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
 		},
-	    
+{"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/789kp.json"},
+{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dadagui.json"},
+{
+		"key": "py_bilivd",
+		"name": "B站（PY）",
+		"type": 3,
+		"api": "py_bilivd",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilivd.py"
+	},
+    
 	    
 	    
 	    

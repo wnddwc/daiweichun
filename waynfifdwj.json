@@ -43,16 +43,6 @@
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_bilivd.py"
 	},
- {
-		"key": "py_mac",
-		"name": "mac（PY）",
-		"type": 3,
-		"api": "py_mac",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_mac.py"
-	},
 {
 		"key": "py_ikan",
 		"name": "爱看影视（PY）",
@@ -82,16 +72,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_3qu.py"
-	},
-{
-		"key": "py_freezb",
-		"name": "体育直播（PY）",
-		"type": 3,
-		"api": "py_freezb",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/PY/py_freezb.py"
 	},
 
 	    

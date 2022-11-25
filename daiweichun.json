@@ -745,6 +745,14 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
+{
+			"key": "❤老鸭资源",
+			"name": "❤老鸭资源",
+			"type": 1,
+			"api": "https://api.apilyzy.com/api.php/provide/vod/",
+			"searchable": 0,
+			"quickSearch": 0
+		},
 {"key":"我要啪啪资源站","name":"我要啪啪资源站","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"AV集中淫资源站","name":"AV集中淫资源站","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"夜夜撸资源站","name":"夜夜撸资源站","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":0,"quickSearch":0},

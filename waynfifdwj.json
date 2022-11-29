@@ -17,8 +17,14 @@
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
-{ "key":"douban","name":"🍀公众号:应用多多,更新时间:2022/11/17","type":4, "api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch":0,"filterable": 0 },	    
-	    
+  
+    {
+      "key": "drpy_js_看视界",
+      "name": "🎉看视界🎉",
+      "type": 3,
+      "api": "https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/js/ksj.js"
+    },	    
 	    
 	    
 	    

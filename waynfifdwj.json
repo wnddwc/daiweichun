@@ -45,15 +45,7 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
     },	    
-{
-      "key": "csp_剧荒",
-      "name": "⛱️剧荒TV",
-      "type": 3,
-      "api": "csp_Juhuang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 	    
 	    
 	    

@@ -46,35 +46,14 @@
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
     },	    
 {
-      "key": "csp_xBPQ_真不卡",
-      "name": "🚀真不卡XB",
+      "key": "csp_剧荒",
+      "name": "⛱️剧荒TV",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/真不卡.json"
+      "filterable": 1
     },
-    {
-      "key": "搭讪",
-      "name": "💋多多搭讪",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/json/dashan.json"
-    },
-    {
-      "key": "搭配",
-      "name": "💃多多搭配",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duodapei.json"
-    },	    
 	    
 	    
 	    

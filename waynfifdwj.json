@@ -6,8 +6,7 @@
 	
 	
     "sites": [
-{"key":"csp_appysv2_鑫总资源","name":"测试","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:3334/api.php/provide/vod/?ac=detail"},
-
+{"key":"csp_appysv2_测试","name":"测试","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://42.51.37.161:3334/api.php/provide/vod/?ac=detail"},
 {
 			"key": "小苹果",
 			"name": "[默认]防尬",

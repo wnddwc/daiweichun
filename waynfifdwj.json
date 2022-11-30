@@ -45,7 +45,16 @@
       "filterable": 1,
       "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/789ba.json"
     },	    
-	    
+{
+      "key": "csp_xb_lib",
+      "name": "🍲LIB(XB)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": " https://www.libvio.me/type/{cateId}-{catePg}.html"
+    },	    
 	    
 	    
 	    

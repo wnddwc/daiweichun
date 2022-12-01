@@ -27,16 +27,6 @@
             "ext": "",
             "jar":"https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/360.jar"
         },
-{
-            "key": "桉t4",
-            "name": "豆瓣榜单",
-            "type": 4,
-            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
-        },
         {
             "key" : "csp_MGTV",
             "name" : "芒果（官）",
@@ -169,36 +159,6 @@
 		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
 		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
 		},  
-
-        {
-            "key": "csp_apple",
-            "name": "小苹果(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
-        },
-        {
-            "key": "Auete(SP)",
-            "name": "Auete(SP)",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_77",
-            "name": "77(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
-        },	    
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
    {
       "key": "csp_xpath_独播库",

@@ -282,16 +282,6 @@
 {"key": "Gitcafe","name": "🌸阿里纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext":
 "https://ah.jkyw.xyz/xiaobai/NPXCK/云盘/ko.txt"},
-{
-      "key": "csp_XYQBiu_聚合短视频",
-      "name": "📽️短视频聚合",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%81%9A%E5%90%88%E7%9F%AD%E8%A7%86%E9%A2%91.json"
-    },
   {
       "key": "csp_77",
       "name": "👒七七┃SP",
@@ -318,29 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },	    
-	    	    
-{
-      "key": "女团MV",
-      "name": "女团MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A5%B3%E5%9B%A2MV.json"
-    },
-	    
-    {
-      "key": "印度歌舞",
-      "name": "📚印度歌舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/ydgw.json"
-    },  
+    },	 
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://jx.fqzy.cc/jx.php?url=","searchable":1,"quickSearch":1},	    
 	    
 

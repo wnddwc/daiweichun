@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://ghproxy.com/https://github.com/taojinliang123/ys/raw/main/7e3af56feec4fad36613aab4ab38e646.jpg",
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tang.jar",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
 	

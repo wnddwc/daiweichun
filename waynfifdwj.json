@@ -16,9 +16,9 @@
 			"filterable": 1,
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
-{"key":"csp_xBPQ_韩剧","name":"韩剧在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"=call"},
-{"key":"csp_xBPQ_如如","name":"如如影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"=call"},
-{
+{"key":"csp_xBPQ_韩剧","name":"韩剧在线","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%9F%A9%E5%89%A7%E5%9C%A8%E7%BA%BF.json"},
+{"key":"csp_xBPQ_如如","name":"如如影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A6%82%E5%A6%82%E5%BD%B1%E8%A7%86.json"},
+	   {
             "key": "360_spider",
             "name": "360影视",
             "api": "csp_SP360",

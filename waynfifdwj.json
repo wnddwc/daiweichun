@@ -16,7 +16,6 @@
 			"filterable": 1,
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
-{"key":"csp_xBPQ_如如","name":"如如影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi8lRTUlQTYlODIlRTUlQTYlODIlRTUlQkQlQjElRTglQTclODYuanNvbg=="},
 	    {
             "key": "360_spider",
             "name": "360影视",
@@ -417,16 +416,6 @@
 {"key": "Gitcafe","name": "🌸阿里纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext":
 "https://ah.jkyw.xyz/xiaobai/NPXCK/云盘/ko.txt"},
-{
-      "key": "csp_XYQBiu_聚合短视频",
-      "name": "📽️短视频聚合",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%81%9A%E5%90%88%E7%9F%AD%E8%A7%86%E9%A2%91.json"
-    },
   {
       "key": "csp_77",
       "name": "👒七七┃SP",
@@ -454,28 +443,6 @@
       "quickSearch": 1,
       "filterable": 1
     },	    
-	    	    
-{
-      "key": "女团MV",
-      "name": "女团MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A5%B3%E5%9B%A2MV.json"
-    },
-	    
-    {
-      "key": "印度歌舞",
-      "name": "📚印度歌舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/ydgw.json"
-    },  
 {"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://jx.fqzy.cc/jx.php?url=","searchable":1,"quickSearch":1},	    
        
         {

@@ -27,31 +27,6 @@
             "ext": "http://www.xingchentv.cn/mogai_api.php/v1.vod"
         },
         {
-            "key": "csp_AppOK",
-            "name": "OK影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://123.ok00.xyz/api.php/v1.vod"
-        },
-
-
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    {
             "key": "360_spider",
             "name": "360影视",
             "api": "csp_SP360",

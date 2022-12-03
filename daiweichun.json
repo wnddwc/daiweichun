@@ -1,6 +1,6 @@
 {
 "wallpaper":" ",
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tang.jar",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVjIudHh0"]}]}],
 	

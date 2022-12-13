@@ -26,18 +26,27 @@
             "filterable":1
             
         },
-        {
-            "key": "KanSJ_spider",
-            "name": "看视界",
-            "api": "csp_KanSJ",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "",
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
-        },	    
-	    
+ {
+      "key": "csp_Ysgc",
+      "name": "影视工厂[SP]",
+      "type": 3,
+      "api": "csp_Ysgc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+   {
+      "key": "csp_AppTT",
+      "name": "图图影视[SP]",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://121.205.88.126:7788",
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/tutu.jar"
+    },
 	    
 	    
 	    

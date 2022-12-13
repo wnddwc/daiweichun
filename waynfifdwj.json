@@ -26,16 +26,6 @@
             "filterable":1
             
         },
- {
-      "key": "csp_Ysgc",
-      "name": "影视工厂[SP]",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },
    {
       "key": "csp_AppTT",
       "name": "图图影视[SP]",
@@ -47,7 +37,37 @@
       "ext":"http://121.205.88.126:7788",
       "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/tutu.jar"
     },
-	    
+    {
+      "key": "csp_ZJMiao",
+      "name": "追剧猫[SP]",
+      "type": 3,
+      "api": "csp_ZJMiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+    {
+      "key": "csp_Bili",
+      "name": "哔哩哔哩[SP]",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wzs1973.github.io/Bili/Bili.json",
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+    {
+      "key": "csp_Nkdy",
+      "name": "南柯电影[SP]",
+      "type": 3,
+      "api": "csp_Nkdy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },	    
 	    
 	    
 	    

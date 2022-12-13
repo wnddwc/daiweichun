@@ -57,27 +57,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },	    
-
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+    },	     
 {
 			"key": "小苹果",
-			"name": "[默认]防尬",
+			"name": "小苹果",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,

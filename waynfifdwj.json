@@ -7,6 +7,36 @@
 	
     "sites": [
 {
+            "key": "桉t4",
+            "name": "豆瓣榜单",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
+        },	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+{
 			"key": "小苹果",
 			"name": "[默认]防尬",
 			"type": 3,

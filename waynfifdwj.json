@@ -16,7 +16,27 @@
             "filterable": 1,
             "jar": "https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/czzy.jar"
         },	    
-	    
+ {
+            "key":"Auete",
+            "name":"奥特影视(SP)",
+            "type":3,
+            "api":"csp_Auete",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+            
+        },
+        {
+            "key": "KanSJ_spider",
+            "name": "看视界",
+            "api": "csp_KanSJ",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+        },	    
 	    
 	    
 	    

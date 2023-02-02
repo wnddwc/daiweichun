@@ -48,76 +48,6 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
         },    
-	 {
-            "key": "csp_biubiu_jh",
-            "name": "剧嗨(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/jh.json"
-        },
-        {
-            "key": "csp_biubiu_kmys",
-            "name": "快猫影视(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/kmys.json"
-        },
-        {
-            "key": "csp_biubiu_yyds",
-            "name": "YYDS影院(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/YYDS.json"
-        },
-        {
-            "key": "csp_biubiu_29dyy",
-            "name": "29电影院(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/29dyy.json"
-        },
-        {
-            "key": "csp_biubiu_gptv",
-            "name": "瓜皮TV(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/gptv.json"
-        },
-        {
-            "key": "csp_biubiu_ysgc",
-            "name": "影视工场(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ysgc.json"
-        },
-        {
-            "key": "csp_biubiu_ggtv",
-            "name": "GGTV(Biu)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ggtv.json"
-        },
         {
             "key": "csp_xpath_chok8dy",
             "name": "CHOK吧电影院-仅搜索(XP)",
@@ -168,6 +98,17 @@
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/tkys.json"
         },   
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 	    
         {
             "key": "csp_CZSPP",

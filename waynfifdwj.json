@@ -128,66 +128,7 @@
             "filterable": 1,
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
         },
-        {
-            "key": "csp_xpath_jubaibai",
-            "name": "剧白白(XP)仅搜索",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jubaibai.json"
-        },
-        {
-            "key": "csp_xpath_juhuang",
-            "name": "剧荒TV(XP)仅搜索",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/juhuangtv.json"
-        },
-        {
-            "key": "csp_xpath_yanaifei",
-            "name": "鸭奈飞(XP)仅搜索",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/yanaifei.json"
-        },
-        {
-            "key": "csp_xpath_tiantian",
-            "name": "天天影视(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/tiantianyingshi.json"
-        },
-        {
-            "key": "csp_xpath_auete",
-            "name": "Auete影视(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/Auete.json"
-        },
-        {
-            "key": "csp_xpath_cokemv",
-            "name": "Cokemv(XPMac)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/cokemv.json"
-        },
+      
         {
             "key": "Gimy",
             "name": "GimyTV(XPMac)",

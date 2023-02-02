@@ -109,35 +109,95 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/tkys.json"
         },   
 	{
-            "key": "csp_xpath_zbkyy",
-            "name": "真不卡(XP)",
+            "key": "csp_xpath_348dy",
+            "name": "348电影(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/zhenbuka.json"
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/348dianying.json"
         },
         {
-            "key": "csp_xpath_ftys",
-            "name": "饭团影视(XP)",
+            "key": "csp_xpath_dadagui",
+            "name": "达达龟(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/fantuan.json"
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
         },
         {
-            "key": "csp_xpath_jpys",
-            "name": "极品影视(XP)",
+            "key": "csp_xpath_jubaibai",
+            "name": "剧白白(XP)仅搜索",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jpys.json"
-        },    
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jubaibai.json"
+        },
+        {
+            "key": "csp_xpath_juhuang",
+            "name": "剧荒TV(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/juhuangtv.json"
+        },
+        {
+            "key": "csp_xpath_yanaifei",
+            "name": "鸭奈飞(XP)仅搜索",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/yanaifei.json"
+        },
+        {
+            "key": "csp_xpath_tiantian",
+            "name": "天天影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/tiantianyingshi.json"
+        },
+        {
+            "key": "csp_xpath_auete",
+            "name": "Auete影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/Auete.json"
+        },
+        {
+            "key": "csp_xpath_cokemv",
+            "name": "Cokemv(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/cokemv.json"
+        },
+        {
+            "key": "Gimy",
+            "name": "GimyTV(XPMac)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
+        },  
 	    
 	    
 	    

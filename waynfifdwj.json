@@ -10,7 +10,7 @@
 {"key":"csp_xml_8090资源","name":"8090（官）","type":1,"api":"https://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
 {"key":"csp_appysv2_明帝资源","name":"明帝资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cj.md214.cn/api.php/provide/vod/"},	    
 {"key":"csp_appysv2_JSON官采","name":"JSON官采","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cms.json.vin/api.php/provide/vod/"},	    
-	    
+{"key":"csp_appysv2_M3U8TV","name":"M3U8TV","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zycaiji.net:7788/api.php/provide/vod/"},	    
 	    
 	    
 	    

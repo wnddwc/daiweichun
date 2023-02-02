@@ -27,26 +27,17 @@
             "filterable":1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/0925.jar"
         },    
-	 {
-      "key": "csp_Ysgc",
-      "name": "影视工厂[SP]",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },    
 	{
-      "key": "csp_ZJMiao",
-      "name": "追剧猫[SP]",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },    
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "阿里Token",
+            "jar": "https://pan.css.lc/api/v3/file/get/79576/%E5%B7%A7%E8%AE%A1.jar?sign=hJBFdqcS2EbRA1raux2zBENY8GuW-vRTCAK61RuIoUs%3D%3A0"
+        },
 	 {
             "key": "csp_77",
             "name": "77(SP)",

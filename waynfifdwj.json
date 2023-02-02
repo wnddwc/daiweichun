@@ -7,7 +7,7 @@
 	
     "sites": [
 {"key":"csp_xml_8090资源","name":"8090（官）","type":1,"api":"https://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
-	    
+{"key":"csp_xml_搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},	    
 	    
 	    
 	    

@@ -6,7 +6,7 @@
 	
 	
     "sites": [
-{"key":"csp_xml_8090","name":"8090资源","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","playUrl":"https://www.8090.la/8090/?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"]},	    
+{"key":"csp_appysv2_搬运工资源","name":"搬运工资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cj.banyung.xyz/"},
 	    
 	    
 	    

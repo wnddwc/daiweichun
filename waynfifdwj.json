@@ -6,7 +6,7 @@
 	
 	
     "sites": [
-{"key":"csp_appysv2_8090资源","name":"8090资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zy.yilans.net:8090/api.php/provide/vod"},
+{"key":"csp_appysv2_8090资源","name":"8090资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zy.yilans.net:8090/api.php/provide/vod/"},
 	    
 	    
 	    

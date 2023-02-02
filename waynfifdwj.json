@@ -7,8 +7,16 @@
 	
     "sites": [
 {"key":"csp_xml_8090资源","name":"8090（官）","type":1,"api":"https://zy.yilans.net:8090/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
-{"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","searchable":0,"quickSearch":0},	    
-	    
+ {
+            "key": "桉t4",
+            "name": "豆瓣榜单",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
+        },	    
 	    
 	    
 	    

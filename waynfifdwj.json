@@ -17,7 +17,17 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
         },	    
-	    
+	{
+            "key":"csp_555",
+            "name":"555(sp)",
+            "type":3,
+            "api":"csp_Dy555",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/0925.jar"
+            
+        },    
 	    
 	    
 	    

@@ -153,7 +153,7 @@
 {"key":"非凡资源","name":"非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"蘑菇资源","name":"蘑菇资源","type":1,"api":"http://api.moguapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
 {"key":"优质资源库","name":"优质资源库","type":1,"api":"http://hdzyk.com/inc/apijson.php","playUrl":"","searchable":1,"quickSearch":1},	    
-	    
+{"key":"大眼资源","name":"大眼资源","type":1,"api":"http://api.dyzy888.com/api/maccms/json/m3u8","playUrl":"","searchable":1,"quickSearch":1},	    
 	    
 	    
 	    

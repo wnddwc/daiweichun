@@ -143,7 +143,13 @@
 	  {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"ACG动漫","name":"ACG动漫","type":1,"api":"https://acgcn.ml/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
-	    
+{"key":"最大资源","name":"最大资源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"大漠资源","name":"大漠资源","type":1,"api":"http://zcw77777.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"天猫资源","name":"天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"快竞技资源","name":"快竞技资源","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"ikun资源","name":"ikun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
 	    
 	    
 	    

@@ -27,7 +27,17 @@
             "filterable":1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/0925.jar"
         },    
-	    
+	{
+            "key": "KanSJ_spider",
+            "name": "看视界",
+            "api": "csp_KanSJ",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+        },    
 	    
 	    
 	    

@@ -6,7 +6,12 @@
 	
 	
     "sites": [
-
+{"key":"麒麟资源","name":"麒麟资源","type":1,"api":"https://www.qilinzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"融兴官采","name":"融兴官采","type":1,"api":"http://103.222.188.156:99/rongxingapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"酷狗资源","name":"酷狗资源","type":1,"api":"https://kugouzy21.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"雨哥哥影视","name":"雨哥哥影视","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 	    
 	    
 	    

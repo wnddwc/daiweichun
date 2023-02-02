@@ -160,7 +160,7 @@
 {"key":"干饭影视","name":"干饭影视","type":1,"api":"http://124.220.183.81:83/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"票厂影视","name":"票厂影视","type":1,"api":"http://101.43.119.105/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"香瓜影视","name":"香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-	    
+{"key":"贵宾影院","name":"贵宾影院","type":1,"api":"http://vipdytv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
 	    
 	    
 	    

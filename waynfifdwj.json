@@ -28,15 +28,75 @@
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/0925.jar"
         },    
 	{
-            "key": "push_agent",
-            "name": "推送",
+            "key":"csp_XYQBiu_kgmv",
+            "name":"酷狗MV〔XYQ〕",
+            "type":3,
+            "api":"csp_XYQBiu",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/kugoumv.json",
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/XYQBiu.jar"
+        },
+        {
+            "key": "csp_biubiu_yklg",
+            "name": "夜空蓝光(Biu)",
             "type": 3,
-            "api": "csp_PushAgent",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "阿里Token",
-            "jar": "https://pan.css.lc/api/v3/file/get/79576/%E5%B7%A7%E8%AE%A1.jar?sign=hJBFdqcS2EbRA1raux2zBENY8GuW-vRTCAK61RuIoUs%3D%3A0"
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/Yklg.json"
+        },
+        {
+            "key": "csp_biubiu_juziTV",
+            "name": "桔子TV(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/juzitv.json"
+        },
+        {
+            "key": "csp_biubiu_vidhub",
+            "name": "VIDHUB(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/VIBHUB.json"
+        },
+        {
+            "key": "csp_biubiu_ssdy",
+            "name": "双十电影(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/ssdy.json"
+        },
+        {
+            "key": "csp_biubiu_djw",
+            "name": "豆角网(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/djw.json"
+        },
+        {
+            "key": "csp_biubiu_lgyy",
+            "name": "蓝光影院(Biu)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/lgyy.json"
         },
 	 {
             "key": "csp_77",

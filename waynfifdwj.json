@@ -37,7 +37,16 @@
       "filterable": 1,
       "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
     },    
-	    
+	{
+      "key": "csp_ZJMiao",
+      "name": "追剧猫[SP]",
+      "type": 3,
+      "api": "csp_ZJMiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },    
 	    
 	    
 	    

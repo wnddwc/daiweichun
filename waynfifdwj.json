@@ -4,10 +4,11 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
 	
-	
     "sites": [
-
-	    
+{"key":"思古影院","name":"思古影院","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"BL视频","name":"BL视频","type":1,"api":"https://bljiex.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},	    
 	    
 	    
 	    

@@ -16,7 +16,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
-        },	    
+        },	
+	    {
+            "key": "csp_xpath_555dy",
+            "name": "555电影-仅搜索(XP)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/555dy.json"
+        },
 	{
             "key":"csp_555",
             "name":"555(sp)",

@@ -161,7 +161,7 @@
 {"key":"票厂影视","name":"票厂影视","type":1,"api":"http://101.43.119.105/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"香瓜影视","name":"香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"贵宾影院","name":"贵宾影院","type":1,"api":"http://vipdytv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
-	    
+{"key":"网民电影","name":"网民电影","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
 	    
 	    
 	    

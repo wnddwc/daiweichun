@@ -108,7 +108,36 @@
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/tkys.json"
         },   
-	    
+	{
+            "key": "csp_xpath_zbkyy",
+            "name": "真不卡(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/zhenbuka.json"
+        },
+        {
+            "key": "csp_xpath_ftys",
+            "name": "饭团影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/fantuan.json"
+        },
+        {
+            "key": "csp_xpath_jpys",
+            "name": "极品影视(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jpys.json"
+        },    
 	    
 	    
 	    

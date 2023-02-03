@@ -15,7 +15,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
 {
 			"key": "❤91麻豆",
 			"name": "❤91麻豆源",
@@ -109,15 +108,6 @@
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "*CK资源",
-      "name": "CK资源",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0
     },
     {

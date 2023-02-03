@@ -5,6 +5,7 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
 	
     "sites": [
+{"key":"搬运工","name":"搬运工","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1},	    
 	{"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
         {
             "key": "csp_CZSPP",

@@ -51,7 +51,7 @@
     ],
     "sites": [
 {"key":"T4_douban","name":"🏠T4聚合","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
-	    
+{"key":"csp_Zhaozy","name":"🔍找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok$$$583472073@qq.com$$$www123456"},	    
 	    
 	    
 	    

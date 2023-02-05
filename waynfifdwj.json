@@ -6,20 +6,6 @@
     "sites": [
 {"key":"csp_biubiu_韩剧在线","name":"🍲韩剧在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/韩剧在线.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_xpath_xfeiji","name":"🎺小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/xfeiji.json"},
-{"key":"csp_XYQH_Aifan","name":"🚧Aifan影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/Aifan.json"},
-{"key":"csp_XYQH_jike","name":"🚧极客影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/jike.json"},
-{"key":"csp_XYQH_映迷影视","name":"🚧映迷影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/映迷.json"},
-{"key":"csp_XYQH_kannaifei","name":"🚧看看奈飞(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/kannaifei.json"},
-{"key":"csp_XYQH_kanju","name":"🚧看剧影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/看剧网.json"},
-{"key":"csp_XYQH_伊雪湾","name":"🚧伊雪湾(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/伊雪湾.json"},
-{"key":"csp_XYQH_爱人影视","name":"🚧爱人影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/lover.json"},
-{"key":"csp_XYQH_小狗影视","name":"🚧小狗影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/xiaogou.json"},
-{"key":"csp_XYQH_往往影视","name":"🚧往往影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/往往影视.json"},
-{"key":"csp_XYQH_野马","name":"🚧野马影院(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/yema.json"},
-{"key":"csp_XYQH_兔兔","name":"🚧追兔影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/追剧兔.json"},
-{"key":"csp_XYQH_katu","name":"🚧卡兔影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/katyya.json"},
-{"key":"csp_XYQH_xingge","name":"🚧星哥影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/xinggeyingshi.json"},
-{"key":"csp_XYQH_外剧","name":"🚧外剧影视(XH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XYQH/waiju.json"},
 	    
 	    
 	    

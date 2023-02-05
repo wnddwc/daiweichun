@@ -4,6 +4,19 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
+{"key":"csp_biubiu_在线之家","name":"🏠在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/在线之家.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
+{"key":"csp_biubiu_奈菲影院","name":"🌈奈菲影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/奈菲影院.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
+{"key":"csp_biubiu_瓜皮TV","name":"🍉瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/瓜皮TV.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
+{"key":"csp_biubiu_奈落影院","name":"💧奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/奈落影院.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 {"key":"T4_douban","name":"🏠T4聚合","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppLongXia","name":"🦞龙虾视频","type":3,"api":"csp_AppLongXia","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://raw.iqiq.io/smallgirl/TvJar/master/jar/longXia.jar;md5;79a0048f56826cb4a4c6035ec8db9ed1"},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -25,19 +38,7 @@
 {"key":"csp_biubiu_真不卡kan8","name":"📇真不卡(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/真不卡kan8(ns).json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_biubiu_搜狗影院","name":"🐶搜狗影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/搜狗影院.txt","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_biubiu_饭团","name":"🍙饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/饭团影院.txt","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    {"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+ {"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
         {
             "key": "csp_CZSPP",
             "name": "厂长影视(SP)",

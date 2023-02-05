@@ -7,7 +7,15 @@
 {"key":"T4_douban","name":"🏠T4聚合","type":4,"api":"http://42.192.248.11:8080/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppLongXia","name":"🦞龙虾视频","type":3,"api":"csp_AppLongXia","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://raw.iqiq.io/smallgirl/TvJar/master/jar/longXia.jar;md5;79a0048f56826cb4a4c6035ec8db9ed1"},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-    
+{"key":"Lgyy","name":"💧蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Tangrenjie","name":"🏯唐人街(SP)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bili","name":"🅱哔哩合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/bilibili.json"},
+{"key":"csp_Biliych","name":"🅱看演唱会","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/biliych.json"},
+{"key":"Tbook","name":"🌿听书网(SP)","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
+{"key":"IKan","name":"💖爱看(SP)","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/ynet.jar"},
+{"key":"xxyy","name":"🦄小路影视","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"fl":"520520","categories":["4K专区","动漫","科幻","电影","泰剧","综艺","连续剧","香港剧","韩国剧","台湾剧","日本剧"]},    
 	    
 	    
 	    

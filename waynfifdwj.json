@@ -4,10 +4,7 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
-{"key":"csp_biubiu_韩剧佬","name":"🍲韩剧佬(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/韩剧佬.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_biubiu_韩剧在线","name":"🍲韩剧在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXB/韩剧在线.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-{"key":"csp_xpath_so2","name":"🦆淘剧鸭(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/so2.json"},
-{"key":"csp_xpath_zaixiandianying8","name":"🉑在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/zaixiandianying8.json"},	
 	    
 	    
 	    

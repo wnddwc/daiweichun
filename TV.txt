@@ -7843,3 +7843,4 @@ SodaRemix2021,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/16223
 印度歌舞10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1t_e9wUouM_i8wM.mp4
 电影,#genre#
 妈妈再爱我一次,https://v.gsuus.com/play/9av2l2na/index.m3u8
+嗨丝宝贝在线热舞！赌你4秒沦陷,http://hw-vod.cdn.huya.com/leaf/1048585/2215223732/51365701/3773966_2bac5470b8a9ca00ed5056df4004fd9d_264_1080_1.m3u8?bitrate=3253&client=106&definition=yuanhua&pid=1239534593513&scene=vod&vid=825004979&hyvid=825004979&hyauid=1239534593513&hyroomid=0&hyratio=3253&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfODI1MDA0OTc5

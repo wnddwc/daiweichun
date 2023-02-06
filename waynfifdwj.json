@@ -5,7 +5,10 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
 {"key":"csp_XYQBiu_wnys","name":"📹万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/万能影视.json"},	    
-	    
+{"key":"csp_XYQBiu_剧荒","name":"📹剧荒影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/剧荒.json"},
+{"key":"csp_XYQBiu_艾菲影视","name":"📹艾菲影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/艾菲影视.json"},
+{"key":"csp_XYQBiu_voflix","name":"📹Voflix(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/voflix.json"},
+{"key":"csp_XYQBiu_神马影院","name":"📹神马影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/神马影院.json"},	    
 	    
 	    
 	    

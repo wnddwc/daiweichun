@@ -4,11 +4,44 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
-	{
-			"key": "海玉影视",
-			"name": "🍬海玉影视(聚)",
+		{
+			"key": "盘看影视",
+			"name": "🥑盘看影视(聚)",
 			"type": 1,
-			"api": "http://tv2.hykjtv.cn/api.php/provide/vod/",
+			"api": "http://tvcaiji.pankk.cn/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1
+		},
+		{
+			"key": "幻风影视",
+			"name": "🥫幻风影视(聚)",
+			"type": 1,
+			"api": "http://vip857.top/api.php/provide/vod/",
+			"searchable": 0,
+			"quickSearch": 0
+		},
+		{
+			"key": "小鸟动漫",
+			"name": "🍚小鸟动漫(聚)",
+			"type": 1,
+			"api": "http://xydm.baicai.buzz/api.php/provide/vod/",
+			"searchable": 0,
+			"quickSearch": 0
+		},
+		{
+			"key": "铭轩影视",
+			"name": "🍧铭轩影视(聚)",
+			"type": 1,
+			"api": "http://lz0716.com/api.php/provide/vod/",
+			"searchable": 0,
+			"quickSearch": 0
+		},
+		
+		{
+			"key": "百淘影视",
+			"name": "🍨百淘影视(聚)",
+			"type": 1,
+			"api": "http://ys.58g8.com/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0
 		},

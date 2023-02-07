@@ -4,7 +4,7 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
-{"key":"小蜜蜂","name":"小蜜蜂","type":1,"api":"https://vod.sxbai.repl.co/vod","searchable":1,"quickSearch":1,"filterable":0},
+ {"key":"韩剧","name":"️韩剧网","type":3,"api":"XBPQ","ext":"免嗅:1,分类:韩剧$hanju#日剧$riju#泰剧$taiju#电影$dianying#动作片$dongzoupian#喜剧片$xijupian爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#韩综$hanzong,分类url:https://www.hantvn.com/vod/show/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/year/{year}.html"}
 {"key":"csp_biubiu_F7好看剧","name":"📗F7好看剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/F7好看剧.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_biubiu_大师兄影视","name":"📗大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/大师兄.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_biubiu_稀饭影视","name":"📗稀饭影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/稀饭影视.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},

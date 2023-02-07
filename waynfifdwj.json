@@ -4,11 +4,11 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
-	    {
-			"key": "千寻时光",
-			"name": "🍱千寻时光(聚)",
+	{
+			"key": "海玉影视",
+			"name": "🍬海玉影视(聚)",
 			"type": 1,
-			"api": "http://wy.dqyhg.cn/api.php/provide/vod/",
+			"api": "http://tv2.hykjtv.cn/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0
 		},

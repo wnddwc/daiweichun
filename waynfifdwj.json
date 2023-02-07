@@ -8,30 +8,7 @@
 {"key":"csp_XBiubiu看看影视","name":"📗看看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/看看影视.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_XBiubiu_金眼影视","name":"📗金眼影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/金眼影视.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"csp_biubiu_AB影院","name":"📗AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/AB影院.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-{"key":"csp_biubiu_锐行加速","name":"📗锐行加速(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/锐行加速.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+{"key":"csp_biubiu_锐行加速","name":"📗锐行加速(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/锐行加速.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},	    
 {"key":"csp_XYQBiu_wnys","name":"📹万能影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/万能影视.json"},	    
 {"key":"csp_XYQBiu_剧荒","name":"📹剧荒影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXB/剧荒.json"},
 {"key":"csp_XYQBiu_艾菲影视","name":"📹艾菲影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/艾菲影视.json"},
@@ -326,26 +303,7 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/douban.jar"
         },	
-	    {
-            "key": "csp_xpath_555dy",
-            "name": "555电影-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/tjl/xpath/raw/branch/main/555dy.json"
-        },
-	{
-            "key":"csp_555",
-            "name":"555(sp)",
-            "type":3,
-            "api":"csp_Dy555",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/0925.jar"
-        },    
+   
 	{
             "key":"csp_XYQBiu_kgmv",
             "name":"酷狗MV〔XYQ〕",
@@ -366,77 +324,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
-        },    
-        {
-            "key": "csp_xpath_chok8dy",
-            "name": "CHOK吧电影院-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/chok8.json"
-        },  
-        {
-            "key": "csp_xpath_lgyy",
-            "name": "蓝光影院-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/lgyy.json"
-        },
-        {
-            "key": "csp_xpath_gfys",
-            "name": "干饭影视-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/gfys.json"
-        },
-        {
-            "key": "csp_xpath_dmxq",
-            "name": "大米星球-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/dmxq.json"
-        },
-        {
-            "key": "csp_xpath_tkys",
-            "name": "天空影视-仅搜索(XP)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/taojinliang123/ys/main/tkys.json"
-        },   
-	{
-            "key": "csp_xpath_348dy",
-            "name": "348电影(XP)仅搜索",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/348dianying.json"
-        },
-        {
-            "key": "csp_xpath_dadagui",
-            "name": "达达龟(XP)仅搜索",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
-        },
+        },     
+        
         {
             "key": "Gimy",
             "name": "GimyTV(XPMac)",

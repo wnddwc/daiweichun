@@ -11,9 +11,7 @@
 {"key":"csp_XYQBiu_神马影院","name":"📹神马影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/xyq/神马影院.json"},	    
 {"key":"csp_xBPQ_剧情网","name":"🧀剧情网(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/XBPQ/剧情网.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/XBPQ.jar"},
 	    
-{"key":"csp_xpath_F7","name":"📕F7好看剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/F7好看剧.json"},
 {"key":"云播看看","name":"📕云播看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/云播看看.json"},
-{"key":"csp_xpath_UM","name":"📕UM影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/UM.json"},
 {"key":"csp_xpath_007","name":"📕007(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/007.json"},
 {"key":"csp_xpath_蚂蚁影视","name":"📕蚂蚁影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/蚂蚁影视.json"},
 {"key":"csp_Xpath_bttwoo","name":"📕2BT(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/bttwoo.json"},

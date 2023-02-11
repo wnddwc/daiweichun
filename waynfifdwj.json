@@ -4,57 +4,6 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
-{"key":"csp_biubiu_如如影视","name":"📗如如影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/如如影视.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-        {
-            "key": "csp_kuaikan",
-            "name": "👀快看(SP)",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
-        },
-    {
-      "key": "csp_Zjdr",
-      "name": "追剧达人[SP]",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },
- {
-		"key": "csp_BBBb",
-		"name": "b站大杂烩",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
-		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
-		},  
-{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
-   {
-      "key": "csp_xpath_独播库",
-      "name": "🐲独播库",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
-    },	    
-{"key":"csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
-{"key":"csp_XBPQ喵喵影视","name":"🎞️喵喵影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63301/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1%28xBPQ%29.json?sign=p_hgRusPwyUAgqE93wuJYsfG6rOhgSaIMuz0OlgUyoc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},    
-{"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63304/%E5%90%BC%E5%90%BC%28xBPQ%29.json?sign=V7Jqm42NGjs5jP8Hn7gqamNtCAMLulk5paVu0cSN7mI%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
-{"key":"csp_XBPQ攻洛阁影视","name":"🎞️落阁影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63305/%E8%90%BD%E6%94%BB%E9%98%81%28xBPQ%29.json?sign=ih0c4ZTkdheIFK8qLpyWhTyjVDdxArIZXEdFXM_G624%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
-{"key":"csp_XBPQ诺讯影视","name":"🎞️诺讯影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61832/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=wIeHY0ecLWBM8KDJXhgrJo_j044uEzz2z6IZtCeR00I%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
-{"key":"csp_XBPQ凌云影视","name":"🎞️凌云影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61894/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=d2d1m4FDU1wFRMG3Ha495rW9-VzzSUvrvANRQpheO4c%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
-{"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"}, 
-{"key":"Pang","name":"🐼胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"http://52bsj.vip:81/api/v3/file/get/61625/cs.jar?sign=bRzGWw4pD0b6L063rLkEWTQsRD2B6XDQKlHEuAeZm0o%3D%3A0"},	
 {
       "key": "youku",
       "name": "👑优酷（官）",
@@ -149,9 +98,60 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
-        },  
-	  {"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}, 
-	  {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
+        },
+        {
+            "key": "csp_kuaikan",
+            "name": "👀快看(SP)",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/12.jar"
+        },
+    {
+      "key": "csp_Zjdr",
+      "name": "追剧达人[SP]",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
+    },
+ {
+		"key": "csp_BBBb",
+		"name": "b站大杂烩",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
+		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
+		},  
+{"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
+   {
+      "key": "csp_xpath_独播库",
+      "name": "🐲独播库",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/duomv/duo/-/raw/main/json/duboku.json"
+    },	    
+{"key":"csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
+{"key":"csp_XBPQ喵喵影视","name":"🎞️喵喵影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63301/%E5%96%B5%E5%96%B5%E7%94%B5%E5%BD%B1%28xBPQ%29.json?sign=p_hgRusPwyUAgqE93wuJYsfG6rOhgSaIMuz0OlgUyoc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},    
+{"key":"csp_XBPQ吼吼影视","name":"🎞️吼吼影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63304/%E5%90%BC%E5%90%BC%28xBPQ%29.json?sign=V7Jqm42NGjs5jP8Hn7gqamNtCAMLulk5paVu0cSN7mI%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
+{"key":"csp_XBPQ攻洛阁影视","name":"🎞️落阁影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63305/%E8%90%BD%E6%94%BB%E9%98%81%28xBPQ%29.json?sign=ih0c4ZTkdheIFK8qLpyWhTyjVDdxArIZXEdFXM_G624%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
+{"key":"csp_XBPQ诺讯影视","name":"🎞️诺讯影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61832/%E8%AF%BA%E8%AE%AF%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=wIeHY0ecLWBM8KDJXhgrJo_j044uEzz2z6IZtCeR00I%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
+{"key":"csp_XBPQ凌云影视","name":"🎞️凌云影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/61894/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86%28xBPQ%29.json?sign=d2d1m4FDU1wFRMG3Ha495rW9-VzzSUvrvANRQpheO4c%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
+{"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"}, 
+{"key":"Pang","name":"🐼胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"http://52bsj.vip:81/api/v3/file/get/61625/cs.jar?sign=bRzGWw4pD0b6L063rLkEWTQsRD2B6XDQKlHEuAeZm0o%3D%3A0"},	
+	    
+{"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}, 
+ {"key":"江南资源","name":"江南资源","type":0,"api":"https://api.yjiexi.com/provide/xml.html","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"人人影视","name":"人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大资源","type":1,"api":"http://zuidazy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"天猫资源","name":"天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -481,6 +481,7 @@
             "filterable": 1,
             "jar": "https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/3Edy.jar"
         },
+{"key":"csp_biubiu_如如影视","name":"📗如如影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/如如影视.json","jar":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
 {"key":"MBO影视","name":"MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0} ],
    "parses": [
 {"name":"聚合","type":3,"url":"Demo","header":{"User-Agent":"Mozilla/5.0"}},

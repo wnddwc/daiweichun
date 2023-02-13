@@ -4,7 +4,7 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [
-	    
+{"key":"drpy_js_NFM影视","name":"📁NFM影视[DRPY]","type":3,"api":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/libs/drpy2.min.js","ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/drpyjs/NFM影视.js"},	    
 	    
 	    
 	    

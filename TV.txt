@@ -956,14 +956,7 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 鹤壁综合频道,http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?zhend
 嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 偃师新闻频道,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
-沁阳新闻综合,http://live.qinyangtv.com:82/channel1/sd/live.m3u8?zhend
-沁阳文化旅游,http://live.qinyangtv.com:82/channel2/sd/live.m3u8?zhend
-
-
 🐱福建综合,#genre#
-
-龙岩新闻综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8?zfud
-龙岩新闻综合,http://stream.lytv.net.cn/2/sd/live.m3u8?zfud
 龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
 三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
 三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
@@ -993,10 +986,7 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 赣州公共频道,http://pl1.cloud.dayang.com.cn/live/10062_Naq1lu.m3u8?zjiangxd
 赣州教育频道,http://pl1.cloud.dayang.com.cn/live/10062_ojZz8U.m3u8?zjiangxd
 瑞金综合频道,http://live.mudu.tv/watch/u2udf0.m3u8?zjiangxd
-鄱阳综合,http://pili-live-hls.poyang.jxxw.com.cn/pyxrmtzx/poyang.m3u8?zjiangxd
 东乡区综合频道,http://live.mudu.tv/watch/hnkexb.m3u8?zjiangxd
-
-
 🦋湖北综合,#genre#
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
@@ -1004,18 +994,11 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 保康文化旅游,http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 江夏经济生活,http://59.175.226.142:280/gb28181/jjsh.m3u8?zhubd
-
-🌿贵州综合,#genre#
-松新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
-桃综艺,http://live.strmtzx.cn/stzy/sd/live.m3u8?zguizd
-
-
 ☘广西综合,#genre#
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
-北海新闻综合,http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8?zguangxd
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 崇左综合,https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8?zguangxd
 来宾综合,https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8?zguangxd
@@ -1035,24 +1018,14 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 乐业综合,https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8?zguangxd
 那坡综合,https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8?zguangxd
 田东综合,https://cdn.gdlive.gdmain.com/live/5aj79zp5.m3u8?zguangxd
-
-🍃虎牙影视,#genre#
-星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
 🍃电影轮播,#genre#
-午夜影院,https://pull.kktv8.com/livekktv/99592190.flv
+星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 神乐影片2,http://epg.112114.xyz/douyu/85894
 周末影院,http://epg.112114.xyz/douyu/3637765
-CCTV放映室,http://epg.112114.xyz/douyu/10011042
 特辑影院,http://epg.112114.xyz/douyu/3637778
 刘德华电影2,http://epg.112114.xyz/douyu/8985415
 喜剧经典,http://epg.112114.xyz/douyu/9650887
-北京大蜜,http://epg.112114.xyz/douyu/805235
-霍格影片,http://epg.112114.xyz/douyu/8814650
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-星星影院,http://epg.112114.xyz/douyu/315131
-华语动作电影,http://epg.112114.xyz/douyu/1504768
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 
 🌴爱奇艺,#genre#

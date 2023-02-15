@@ -1,4 +1,16 @@
 🍎地方综合,#genre#
+tvb 翡翠台[1920x1080][20230213],https://epg.pw/stream/0ba50305292a9bc0327bfb4176558d2f9c06f40b5c5d3572d7794bf29f110a6f.m3u8
+翡翠台[1920x1080][20230213],https://epg.pw/stream/d7d69449ab2a3b172c3a499b8b89e3c3e0c624ab812cea7eb2c370934bf92b00.ctv
+翡翠台[1920x1080][20230129],https://epg.pw/stream/87f2b8bed02e22c30fd3e7d673e1bde545eda36e7b62aa6cb8e715bc82ac1e91.ctv
+翡翠台@@1[720x576][20230127],https://epg.pw/stream/4d09050a350938a0f8103c445ee6fcfefacddbe489e576029c1062071acd5fd6.m3u8
+翡翠台[1920x1080][20230124],https://epg.pw/stream/2a3df69d0d9a7c08c39995d56d890272e4ba16e740746eaa62186711a246bbcb.m3u8
+翡翠台@@1[1280x720][20230119],https://epg.pw/stream/b382541e17383871d62e7decfa38115a64ad1193444ca4565e0c4a47897106af.ctv
+翡翠台@@2[1280x720][20230117],https://epg.pw/stream/7efe1f998522fa3e8cc2034bdec5c4f2f3ef049fd6b08b68ebb176fc8811caa5.ctv
+翡翠台@@3[1920x1080][20230115],https://epg.pw/stream/17125a88d96511a94b382261d9e3825996a41f473aa3c2053425f4696682c1ac.m3u8
+翡翠台@@2[720x576][20230108],https://epg.pw/stream/d042107a04cb78dc7408e20302fe0935ddaa08d8af05c177a35a047b4b925936.m3u8
+翡翠台[1920x1080][20220914],https://epg.pw/stream/2e294a0627ba7098c0b2f3bc7d880a5c53880ecae544b75a30c2c4b31c1871af.m3u8
+
+
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河北卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8

@@ -158,16 +158,6 @@
             "ext": "https://gitea.com/tjl/xpath/raw/branch/main/saohuody.json"
         },
         {
-            "key": "Gimy",
-            "name": "GimyTV(XPMac)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
-        },
-        {
             "key": "csp_xpath_lezhutv",
             "name": "乐猪TV(XPMac)",
             "type": 3,

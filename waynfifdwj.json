@@ -14,16 +14,6 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
         },     
-       {
-            "key": "Gimy",
-            "name": "GimyTV(XPMac)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
-        },
         {
             "key": "csp_kuaikan",
             "name": "👀快看(SP)",
@@ -43,18 +33,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/vob.jar"
-    },
- {
-		"key": "csp_BBBb",
-		"name": "b站大杂烩",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
-		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
-		},  
+    },  
 {"key":"Gitcafe","name":"📃小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"cfe35d11f40b4872b3f6e35388b16181","jar":"http://52bsj.vip:81/api/v3/file/get/59958/ali.jar?sign=Ju6IMNmWSdej1a3_ptZR-p5yXzlV5A7Bmtku3JDbmI4%3D%3A0"},
    {
       "key": "csp_xpath_独播库",
@@ -130,6 +109,18 @@
       "filterable":0,
        "ext":"http://52bsj.vip:81/api/v3/file/get/46402/dsp.json?sign=UA_8tuogF31HMhrGVyNOy3aKApOec1WtlMoUYfQT-bM%3D%3A0"
     },
+	    
+ {
+		"key": "csp_BBBb",
+		"name": "b站大杂烩",
+		"type": 3,
+		"api": "csp_Bili",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://raw.kgithub.com/wjjkkk/w/main/bilibili.json",
+		"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/bzdzh.jar"
+		},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dadagui.json"},
 {"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},

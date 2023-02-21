@@ -1404,9 +1404,6 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8?blog.ntnas.top
 ✨DJ音乐,#genre#
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
-MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4
 劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4
 探窗,https://vd3.bdstatic.com/mda-mi6e4vgibhtc628h/480p/h264/1631008912303842588/mda-mi6e4vgibhtc628h.mp4
@@ -1803,4 +1800,3 @@ YY,#genre#
 上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=79382500
 西游记后传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353392400
 天龙八部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
-24小时蓝光片,http://jxiptv.xn--9kqp7k2rd

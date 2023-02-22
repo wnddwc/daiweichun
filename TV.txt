@@ -1,3 +1,6 @@
+阿弥陀佛,#genre#
+佛陀1,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+佛陀2,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 🍎地方综合,#genre#
 翡翠台,https://epg.pw/stream/2a3df69d0d9a7c08c39995d56d890272e4ba16e740746eaa62186711a246bbcb.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -610,8 +613,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8

@@ -24,17 +24,6 @@
             "filterable": 1,
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/cs.jar"
         },     
-  {
-            "key": "csp_AppTT",
-            "name": "图图影视〔SP〕",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-             "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/1.jar",
-           "ext": "http://154.39.64.151:5566/$$$dlJYWXl2Z3cqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbnl2Z3diKnpYUCNWWg=="
-        },
 	    {
       "key": "csp_xpath_独播库",
       "name": "🐲独播库",

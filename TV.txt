@@ -1658,7 +1658,6 @@ YY,#genre#
 上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=79382500
 西游记后传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353392400
 天龙八部,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
-出租车,#genre#
 模范出租车2第01集,https://vip.lz-cdn14.com/20230217/19125_107c3aae/index.m3u8
 模范出租车2第02集,https://vip.lz-cdn14.com/20230218/19166_e2d8486a/index.m3u8
 模范出租车2第03集,https://vip.lz-cdn14.com/20230224/19486_2abf7685/index.m3u8
@@ -7244,13 +7243,6 @@ NBA 鹈鹕vs开拓者20230302第01集,https://vip.lz-cdn10.com/20230302/6736_9f1
 半熟恋人第二季20230228上,https://vip.lz-cdn10.com/20230228/6636_7861364b/index.m3u8
 半熟恋人第二季20230301下,https://vip.lz-cdn12.com/20230301/5700_e8d927e7/index.m3u8
 半熟恋人第二季20230302加更版,https://vip.lz-cdn12.com/20230302/5753_4e6cb571/index.m3u8
-性/生活,#genre#
-性/生活第二季第01集,https://vip.lz-cdn9.com/20230302/17184_4dd72916/index.m3u8
-性/生活第二季第02集,https://vip.lz-cdn9.com/20230302/17185_0a414f40/index.m3u8
-性/生活第二季第03集,https://vip.lz-cdn9.com/20230302/17186_5314155f/index.m3u8
-性/生活第二季第04集,https://vip.lz-cdn9.com/20230302/17187_5a7e303b/index.m3u8
-性/生活第二季第05集,https://vip.lz-cdn9.com/20230302/17188_6e37be11/index.m3u8
-性/生活第二季第06集,https://vip.lz-cdn9.com/20230302/17189_96f994c5/index.m3u8
 闪电侠,#genre#
 闪电侠第九季第01集,https://vip.lz-cdn14.com/20230209/18685_e6da3934/index.m3u8
 闪电侠第九季第02集,https://vip.lz-cdn14.com/20230216/19063_0f2e7908/index.m3u8

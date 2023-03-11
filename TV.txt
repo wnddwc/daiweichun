@@ -1,7 +1,7 @@
 阿弥陀佛,#genre#
 佛陀1,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 佛陀2,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+佛陀3,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 🍎地方综合,#genre#
 澳门莲花,http://epg.112114.xyz/lotus
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8

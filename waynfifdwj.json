@@ -4,6 +4,21 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],
     "sites": [	   
+	    {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1"},
+{"key":"csp_Lezhu"         ,"name":"🐞乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Mjxq"          ,"name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Juhuang"       ,"name":"🐞剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LiteApple"     ,"name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ZJMiao"        ,"name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo"         ,"name":"🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"神马影院"          ,"name":"🐞神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},  
+//{"key":"csp_Xiaoh"         ,"name":"🐞小宝影院(墙外)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"If101"             ,"name":"🐞If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Nbys"          ,"name":"🐞泥巴(墙外)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1}, 
+//{"key":"Olevod"            ,"name":"🐞Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Lib"               ,"name":"🐞Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
          {
             "key": "csp_77",
             "name": "77(SP)",

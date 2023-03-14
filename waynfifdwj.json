@@ -4,7 +4,7 @@
 	 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
-"key":"csp_xpath_vip1280","name":"📕VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/vip1280.json"},
+{"key":"csp_xpath_vip1280","name":"📕VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/vip1280.json"},
 {"key":"csp_xpath_6d","name":"📕六度TV(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/6d.json"},
 {"key":"csp_xpath_348z","name":"📕348电影(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/348z.json"},	 
 {"key":"csp_xpath_蚂蚁影视","name":"📕蚂蚁影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MaoXP/蚂蚁影视.json"},

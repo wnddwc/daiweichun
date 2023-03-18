@@ -518,7 +518,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
-
 🥬江苏综合,#genre#
 优漫卡通,http://39.135.138.58:18890/PLTV/88888888/224/3221225665/index.m3u8?zjiangsd
 优漫卡通,http://39.135.138.58:18890/ysten-businessmobile/live/youmankaton/1.m3u8?zjiangsd
@@ -620,7 +619,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8?shandd
 青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8?shandd
-
 🥜湖南综合,#genre#
 金鹰纪实,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund
 娄底综合频道,http://119.39.242.52:1935/live/zonghe/playlist.m3u8?zhund
@@ -692,7 +690,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
-
 🐵安徽综合,#genre#
 池州新闻综合,http://cm.wshls.homecdn.com/live/4abdd.flv?zanhd
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
@@ -742,7 +739,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 肥西综合,http://120.210.216.73:8080/ysten-business/live/SD12-576P-fxxwzh/1.m3u8?zanhd
 涡阳新闻综合,http://111.39.71.77:8099/live/one/playlist.m3u8?zanhd
 潜山新闻综合,http://60.171.171.101:8278/rtmp_export/video22.m3u8?zanhd
-
 🐶河南综合,#genre#
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8?zhend
 河南民生,http://123.6.9.146/live/jz-henanminsheng/live.m3u8?zhend
@@ -777,7 +773,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
-
 🐢江西综合,#genre#
 赣州新闻综合,http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8?zjiangxd
 赣州公共频道,http://pl1.cloud.dayang.com.cn/live/10062_Naq1lu.m3u8?zjiangxd
@@ -824,7 +819,6 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 喜剧经典,http://epg.112114.xyz/douyu/9650887
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-
 🌴爱奇艺,#genre#
 抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
 军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
@@ -1201,8 +1195,8 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
-
 ✨DJ音乐,#genre#
+车载 夜店 酒吧dj舞曲,http://zhimage.guangdongyunchen.com/bs3/video-hls/5214324028855585595_hlsb.m3u8
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
 21年DJ爆红网络洗脑神曲,https://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4

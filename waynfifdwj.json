@@ -4,7 +4,27 @@
 	 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
-	 {"key":"Smdyy_spider","name":"神马影视〔SP〕","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/qj231121.jar"},
+	{
+            "key": "csp_Ysgc",
+            "name": "影视工厂〔SP〕",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/TVBox/blob/main/Yoursmile.jar"
+        },
+
+      {
+            "key": "csp_Bttoo",
+            "name": "两个BT〔SP〕",
+            "type": 3,
+            "api": "csp_Bttoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://ghproxy.com/https://github.com/taojinliang123/ys/blob/main/1.jar"
+        },
 	 {
             "key": "360_spider",
             "name": "360影视",

@@ -6,7 +6,7 @@
  "sites": [
 	 {
 			"key": "量子云播",
-			"name": "┃量子┃已去广告",
+			"name": "量子云播",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
 			"searchable": 1,

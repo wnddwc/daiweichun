@@ -5,6 +5,17 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
 	 {
+			"key": "量子云播",
+			"name": "┃量子┃已去广告",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "json:https://www.itvbox.cc/fflz.php?url="
+},
+
+	 {
             "key": "csp_Cokemv",
             "name": "可乐影视〔SP〕",
             "type": 3,

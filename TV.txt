@@ -388,7 +388,6 @@
 鹤壁综合频道,http://pili-live-hls.hebitv.com/hebi/hebi.m3u8?zhend
 嵩县综合新闻,http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 偃师新闻频道,http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
-🐱福建综合,#genre#
 龙岩公共频道,http://live.lytv.net.cn/ggpd/sd/live.m3u8?zfud
 三明新闻综合,http://fjnhdb.chinashadt.com:2036/live/stream:nh2.stream/playlist.m3u8?zfud
 三明新闻综合,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud

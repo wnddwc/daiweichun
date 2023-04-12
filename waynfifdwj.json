@@ -8,7 +8,6 @@
 "name": "非凡",
 "type": 1,
 "api": "http://www.ffzy.tv/api.php/provide/vod/",
-//"playUrl": "https://ffzyplayer.com/?url=",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,

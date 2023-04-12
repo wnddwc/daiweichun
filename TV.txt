@@ -472,12 +472,11 @@
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-✨DJ音乐,#genre#
+✨音乐,#genre#
 成龙 金喜善_美丽的神话,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_tma4gUowLvk9wM.mp4
 你牛什么牛,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3drE4gUo05Sr5AI.mp4
 兄弟难当,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg97nE4gUooPX7tQU.mp4
 套马杆,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnLvE4gUo8NTRJA.mp4
-抓住稻草的野兽们,https://jx1.idcdr.com/111/Cache/feifan/1f12a0f2876c590dce938286f3ccb43c.m3u8
 经典十首老歌,http://vd3.bdstatic.com/mda-pcwy72v5106t36gi/sc/bd265_cae_roi_v5/1680434087110780274/mda-pcwy72v5106t36gi.mp4
 陈慧娴/经典十首歌曲,http://vd3.bdstatic.com/mda-pcn5j82ka7rxc67b/sc/bd265_cae_roi_v5/1679667583241943655/mda-pcn5j82ka7rxc67b.mp4
 车载 夜店 酒吧dj舞曲,http://zhimage.guangdongyunchen.com/bs3/video-hls/5214324028855585595_hlsb.m3u8
@@ -795,3 +794,5 @@ dj2,https://txmov2.a.kwimgs.com/upic/2022/02/26/21/BMjAyMjAyMjYyMTA0NDNfNDgxMDc1
 翻唱闽南歌曲梦中情,https://vd4.bdstatic.com/mda-nak82ydc0qg6ungm/sc/cae_h264_delogo/1642744314347465764/mda-nak82ydc0qg6ungm.mp4
 翻唱闽南歌曲被情所困,https://vd3.bdstatic.com/mda-kfv7s0d2e3izvez3/v1-cae/sc/mda-kfv7s0d2e3izvez3.mp4
 翻唱闽南歌曲感情有靠岸,https://vd3.bdstatic.com/mda-khqvm1hwdfg1tehr/v1-cae/sc/mda-khqvm1hwdfg1tehr.mp4
+电影,#genre#
+抓住稻草的野兽们,https://jx1.idcdr.com/111/Cache/feifan/1f12a0f2876c590dce938286f3ccb43c.m3u8

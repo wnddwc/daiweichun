@@ -4,6 +4,14 @@
 	 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
+	 {
+            "key": "鸡婆",
+            "name": "鸡婆/采集",
+            "type": 1,
+            "api": "https://www.jipo.tv/api.php/provide/vod/from/m3u8/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1},
 	        {
             "key": "明地",
             "name": "明地官采/解析",

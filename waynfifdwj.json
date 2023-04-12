@@ -4,7 +4,7 @@
 	 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
-	 {"key":"鸡婆",
+	  {"key":"鸡婆",
     "name": "鸡婆采集",
     "type": 1,
     "api": "https://www.jipo.tv/api.php/provide/vod",
@@ -36,6 +36,7 @@
         "历史片",
         "家庭片",
         "伦理片",
+        "写   真",     
         "其他片"]
         },
 	        {

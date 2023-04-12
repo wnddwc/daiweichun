@@ -49,16 +49,6 @@
             "jar":"https://ghproxy.com/https://github.com/taojinliang123/TVBox/blob/main/top97.jar"
         },
 	 {
-            "key": "csp_AppMr",
-            "name": "👻明明┃App",
-            "type": 3,
-            "api": "csp_AppMr",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,           "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
-        },
-	 {
             "key": "csp_Vofl",
             "name": "🎈Voflix┃SP",
             "type": 3,

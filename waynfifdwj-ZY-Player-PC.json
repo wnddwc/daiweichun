@@ -1,15 +1,11 @@
 [
-{
-			"key": "量子云播",
-      "id": 1,
-			"name": "量子云播",
-			"type": 1,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      {
+        "key": "量子云播",
+        "id": 1,
+        "name": "量子云播",
+	"type": 1,
+	"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
       "download": "",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "json:https://www.itvbox.cc/fflz.php?url="
       "group": "默认",
       "isActive": true,
       "status": "可用",

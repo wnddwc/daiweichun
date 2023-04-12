@@ -13,6 +13,22 @@
             "quickSearch": 1,
             "filterable": 0
         },
+            {
+      "key": "csp_appys_363",
+      "name": " 363影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lzrjk.hao363.com//api.php/v1.vod",
+"categories": [
+  "电影",
+  "连续剧",
+  "综艺",
+  "动漫"
+  ]
+    },
 
 	 
 	 

@@ -1,17 +1,16 @@
 [
   {
       "id": 1,     
-			"key": "量子云播",
-			"name": "量子云播",
-			"type": 1,
-			"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
+      "key": "量子云播",
+      "name": "量子云播",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
       "download": "",
       "group": "默认",
       "isActive": true,
       "status": "可用",
       "reverseOrder": true
   },
- 
   {
     "id": 2,
     "key": "哇可可影视",

@@ -4,6 +4,15 @@
 	 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
+	 {"key": "csp_xml_非凡资源站",
+"name": "非凡",
+"type": 1,
+"api": "http://www.ffzy.tv/api.php/provide/vod/",
+//"playUrl": "https://ffzyplayer.com/?url=",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": ["动作片", "喜剧片", "科幻片", "爱情片", "恐怖片", "剧情片", "战争片", "记录片", "国产剧", "欧美剧", "香港剧", "韩国剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "伦理片"]},
 	 {
 			"key": "量子云播",
 			"name": "量子云播",

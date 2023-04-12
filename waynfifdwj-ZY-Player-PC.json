@@ -1,51 +1,25 @@
 [
-  {
-      "id": 1,     
-      "key": "量子云播",
-      "name": "量子云播",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-      "download": "",
-      "group": "默认",
-      "isActive": true,
-      "status": "可用",
-      "reverseOrder": true
-  },
-  {
-    "id": 2,
-    "key": "哇可可影视",
-    "name": "哇可可影视",
-    "api": "https://www.zwcoco.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "资源",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
- {
-    "id": 3  
-    "key": "buTapu",
-    "name": "M3U8.TV(官)",
-    "api": "https://www.zycaiji.net:7788/api.php/provide/vod/at",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "导入",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用",
-  },
   
- {
-   "id": 4,
-   "key": "csp_Cokemv",
-   "name": "可乐影视〔SP〕",
-   "api": "csp_Cokemv",                               
-    "download": "",
-    "jiexiUrl": "",
-    "group": "资源",
+  {
+    "key": "C2B947C747CA31CD3FB442FF0EE642B5",
+    "name": "FF9资源（聚)",
+    "api": "https://www.ff9.top/api.php/provide/vod/at/xml/",
+    "useInSearchAll": true,
     "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-        }
+    "group": "导入",
+    "id": 51,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "418E4B040CFE3E7E0469305195F7F22D",
+    "name": "蘑菇资源(聚)",
+    "api": "http://api.moguapi.com/api.php/provide/vod/at/xml",
+    "useInSearchAll": true,
+    "isActive": true,
+    "group": "导入",
+    "id": 52,
+    "reverseOrder": false,
+    "status": "可用"
+  }
 ]

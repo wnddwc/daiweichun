@@ -24,12 +24,24 @@
     "status": "可用",
     "reverseOrder": false
   },
- 
-  {
-   "id": 3,
+ {
+    "id": 3  
+    "key": "buTapu",
+    "name": "M3U8.TV(官)",
+    "api": "https://www.zycaiji.net:7788/api.php/provide/vod/at",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "导入",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用",
+  },
+  
+ {
+   "id": 4,
    "key": "csp_Cokemv",
    "name": "可乐影视〔SP〕",
-   "api": "csp_Cokemv",
+   "api": "csp_Cokemv",                               
     "download": "",
     "jiexiUrl": "",
     "group": "资源",

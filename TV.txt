@@ -22,7 +22,7 @@ CCTV15,http://tvmvip110.club/as.php?id=cctv15
 CCTV16,http://tvmvip110.club/as.php?id=cctv16hd
 CCTV17,http://tvmvip110.club/as.php?id=cctv17
 🍎卫视频道,#genre#
-河南卫视,http://zhgx.sqitv.com:888/hls/20/index.m3u8
+河南卫视,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/7304224304099543804/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 河北卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
 重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8

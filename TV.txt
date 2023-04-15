@@ -22,7 +22,7 @@ CCTV15,http://tvmvip110.club/as.php?id=cctv15
 CCTV16,http://tvmvip110.club/as.php?id=cctv16hd
 CCTV17,http://tvmvip110.club/as.php?id=cctv17
 🍎卫视频道,#genre#
-河南卫视,http://117.169.120.228:8080/wh7f454c46tw426366061_503962260/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8?icpid=88888888&RTS=1681523072&from=79102&hms_devid=1271&online=1681523072&vqe=3
+河南卫视,http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/7304224304099543804/index.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&authCode=3a&stbId=005001FF0015689000000021263AB5D7&version=1.0&owaccmark=7304224304099543804&owchid=ystenlive&owsid=8700231681523786013&AuthInfo=qrGqzVxR7SOILzRLS9wfB9ykjHok6%2F1Q4542Nn30WslEEEWn9pkpuaen72ft%2FEYkr6rLZa2BBycXxKHmHMBeqP8xk%2BtEuCXrJ9dQFIUnH1rjvfX%2FPgwrTu4WRpCNweSA
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 河北卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
 重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8

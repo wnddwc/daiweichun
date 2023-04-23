@@ -496,6 +496,8 @@ CCTV17,http://tvmvip110.club/as.php?id=cctv17
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 电影,#genre#
+爱经典,https://epg.pw/stream/e47f56c845e5731b8c804f71c7009a51efd50e891ce7c1dd5972f02aba081a2c.m3u8
+雨果,https://player.021huaying.com/player/play.php?url=GFRZpIjtqfRbXVnawWXeoo00o17R6npqu9xETKZV9X6bhKFBZ6nP21o000o7uoo00ohj8i4RWRWGqvpctGY40o9J8CwjlBcBmwO0O0OO0O0O
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 抓住稻草的野兽们,https://jx1.idcdr.com/111/Cache/feifan/1f12a0f2876c590dce938286f3ccb43c.m3u8

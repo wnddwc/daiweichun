@@ -5,7 +5,7 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vd25kZHdjL2RhaXdlaWNodW4vbWFpbi9UVi50eHQ="]}]}],	
  "sites": [
 	 {
-            "key": "csp_XBPQ_一龙影视",  
+            "key": "csp_XBPQ_",  
             "name": "一龙影视(XBPQ)",  
             "type": 3,  
             "api": "csp_XBPQ",  

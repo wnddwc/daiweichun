@@ -132,8 +132,6 @@
             "filterable": 1,
             "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
         },
-{"key":"csp_555","name":"555┃SP","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","jar":"https://ghproxy.com/https://github.com/taojinliang123/TVBoxOSC/blob/main/xo.txt"},
-{"key":"csp_fantuan","name":"饭团┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"https://ghproxy.com/https://github.com/taojinliang123/TVBoxOSC/blob/main/xo.txt"},  
 {"key":"csp_Yht","name":"野荷塘┃SP","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc","jar":"https://ghproxy.com/https://github.com/taojinliang123/TVBoxOSC/blob/main/xo.txt"},	 
 {"key":"csp_xpath_vip1280","name":"📕VIP电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/vip1280.json"},
 {"key":"csp_xpath_6d","name":"📕六度TV(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/tuji-2015/miao/main/TVBox/MeowXP/6d.json"},

@@ -480,7 +480,6 @@
 爱经典,https://epg.pw/stream/e47f56c845e5731b8c804f71c7009a51efd50e891ce7c1dd5972f02aba081a2c.m3u8
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-抓住稻草的野兽们,https://jx1.idcdr.com/111/Cache/feifan/1f12a0f2876c590dce938286f3ccb43c.m3u8
 ✨音乐,#genre#
 我是你的格桑花,https://vd3.bdstatic.com/mda-nkj4ac58u9z9v33s/hd/cae_h264/1668913752086487340/mda-nkj4ac58u9z9v33s.mp4
 劲爆慢摇dj串烧,http://txmov2.a.kwimgs.com/bs3/video-hls/5252886115870127028_hlshd15.m3u8

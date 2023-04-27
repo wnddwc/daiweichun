@@ -2,7 +2,9 @@
     "wallpaper": "",
 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
 	"lives": [
-       {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}], "sites": [
+       {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
+	"sites": [
+{"key":"白狐","name":"白狐","type":3,"api":"csp_XBPQ","ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.bhxoxo.com/fl/{cateId}--{by}------{catePg}---.html","类型": "1--动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11||2--国产剧$12#香港剧$13#韩国剧$14#欧美剧$15#台湾剧$16#日本剧$17#海外剧$18#泰国剧$19||4--大陆综艺$20#港台综艺$21#日韩综艺$22#欧美综艺$23||3--国产动漫$24#日韩动漫$25#欧美动漫$26#港台动漫$27||空","jar":"clan://TVBox/jar/XBPQ_0111.jar"}},
 
 	 {"key":"鸡婆",
     "name": "鸡婆采集",

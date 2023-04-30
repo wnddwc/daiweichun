@@ -481,6 +481,12 @@
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 ✨音乐,#genre#
+人不可貌相dj,https://jsmov2.a.yximgs.com/upic/2023/04/25/23/BMjAyMzA0MjUyMzE0MzJfMjQ4MTA5ODU2NF8xMDE0ODIyMTU0OTNfMF8z_b_B46c6653392a9bc350cf5cbde7bdc66c8.mp4
+朋友这杯酒dj,https://jsmov2.a.yximgs.com/upic/2023/04/24/23/BMjAyMzA0MjQyMzQyNDlfMjQ4MTA5ODU2NF8xMDE0MTY5NDkwMjRfMF8z_b_Bb0a8e6982fd7c2142d1fa4c71eee64d0.mp4
+求佛dj,https://vdse.bdstatic.com//68a1b89e79d7d9add230585a90f81391.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-04-09T03%3A27%3A08Z%2F-1%2Fhost%2F8ee273c655e618233a03b59750e537394083a7050eaf693d0c840e149f39a04e
+经典老歌dj串烧,txmov2.a.kwimgs.com/bs3/video-hls/5227553364973759791_hlsb.m3u8
+DJ那滋味,https://st.92kk.com//2023/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/202303/20230313/[Mp4]%E9%82%A3%E6%BB%8B%E5%91%B3[%E6%B1%A4%E6%BD%AE]-%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E5%A4%9C%E5%BA%97DJ%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
+爱情错觉,https://st.92kk.com//2023/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/202303/20230313/[Mp4]%E7%88%B1%E6%83%85%E9%94%99%E8%A7%89-%E5%8D%8A%E5%90%A8%E5%85%84%E5%BC%9F-%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost
 凉凉<三生三生>,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-
 梁朝伟-一天一天爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8

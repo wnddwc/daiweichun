@@ -4,40 +4,7 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-	 {"key":"鸡婆",
-    "name": "鸡婆采集",
-    "type": 1,
-    "api": "https://www.jipo.tv/api.php/provide/vod",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "categories":[ 
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "其它剧",
-        "电影",
-        "喜剧片",
-        "爱情片",
-        "动作片",
-        ",恐怖片",
-        "科幻片",
-        "剧情片",
-        "犯罪片",
-        "悬疑片",
-        "战争片",
-        "动画片",
-        "惊悚片",
-        "武侠片",
-        "冒险片",
-        "奇幻片",
-        "传记片",
-        "历史片",
-        "家庭片",
-        "伦理片",     
-        "其他片"]
-        },
+
 	        {
             "key": "明地",
             "name": "明地官采/解析",
@@ -47,27 +14,6 @@
             "quickSearch": 1,
             "filterable": 0
         },
-            {
-      "key": "csp_appys_363",
-      "name": " 363影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lzrjk.hao363.com//api.php/v1.vod",
-"categories": [
-  "电影",
-  "连续剧",
-  "综艺",
-  "动漫"
-  ]
-    },
-
-	 
-	 
-	 
-	 
 	 {
 			"key": "量子云播",
 			"name": "量子云播",

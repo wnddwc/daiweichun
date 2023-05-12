@@ -7,7 +7,6 @@
 抖音姐姐热舞1,http://epg.112114.xyz/douyu/8759139
 抖音姐姐舞舞2,http://epg.112114.xyz/douyu/7971641
 🍎卫视频道,#genre#
-1,https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 河南卫视,http://120.84.97.44:808/hls/134/index.m3u8
 河北卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
@@ -28,6 +27,7 @@
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 星空卫视,http://107.151.203.111:2209/135/hk.php?id=xkwst
 🍆地方频道,#genre#
+东部频道,https://lglivepull.sznews.com/live/2646.m3u8?zguangd
 凤凰中文HD,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰资讯HD,http://107.151.203.111:2209/135/hk.php?id=fhzx
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt

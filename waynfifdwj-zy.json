@@ -375,7 +375,18 @@
     "type": 1,
     "id": 31
   },
-  
+  {
+    "key": "光速资源",
+    "name": "光速资源",
+    "api": "http://guangsuzy.com/index.php/vod/",
+    "download": "",
+    "jiexiUrl": "https://www.gszyv.com/m3u8/?url=",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 32
+  },
  
   {
     "key": "人人",
@@ -387,7 +398,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 32
+    "id": 33
   }
   
 

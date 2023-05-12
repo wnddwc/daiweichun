@@ -483,6 +483,9 @@
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 ✨音乐,#genre#
+李玲玉-美人吟,https://vd4.bdstatic.com/mda-pbaccwhgmf63tr5c/sc/cae_h264/1676105450941247056/mda-pbaccwhgmf63tr5c.mp4
+海伦-桥边姑娘,https://vd4.bdstatic.com/mda-pbabkyqy81waai9s/sc/cae_h264/1676104020695415919/mda-pbabkyqy81waai9s.mp4
+程响-世界这么大还是遇见你,https://vd4.bdstatic.com/mda-pbaan0rqyuvv38s5/sc/cae_h264/1676101287337200154/mda-pbaan0rqyuvv38s5.mp4
 Beyond-无尽空虚,https://vd4.bdstatic.com/mda-pe9mev19kt97dyyv/sc/cae_h264/1683801461825735969/mda-pe9mev19kt97dyyv.mp4
 ond-不再犹豫,https://vd2.bdstatic.com/mda-peadbq8f1apma3hg/720p/h264/1683797151848721322/mda-peadbq8f1apma3hg.mp4
 Beyond-光辉岁月,https://vd2.bdstatic.com/mda-pea5z36kvme7xuyd/720p/h264/1683778426780817419/mda-pea5z36kvme7xuyd.mp4

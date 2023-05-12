@@ -6,7 +6,7 @@
 	"sites": [
 {
 			"key": "光速资源",
-			"name": "光速资源,
+			"name": "光速资源",
 			"type": 1,
 			"api": "http://guangsuzy.com/index.php/vod/",
 			"searchable": 1,

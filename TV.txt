@@ -6,24 +6,6 @@
 抖音姐姐热热,http://epg.112114.xyz/douyu/8901218
 抖音姐姐热舞1,http://epg.112114.xyz/douyu/8759139
 抖音姐姐舞舞2,http://epg.112114.xyz/douyu/7971641
-央视频道,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 🍎卫视频道,#genre#
 河南卫视,http://120.84.97.44:808/hls/134/index.m3u8
 河北卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
@@ -501,6 +483,7 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 ✨音乐,#genre#
+Beyond-无尽空虚,https://vd4.bdstatic.com/mda-pe9mev19kt97dyyv/sc/cae_h264/1683801461825735969/mda-pe9mev19kt97dyyv.mp4
 ond-不再犹豫,https://vd2.bdstatic.com/mda-peadbq8f1apma3hg/720p/h264/1683797151848721322/mda-peadbq8f1apma3hg.mp4
 Beyond-光辉岁月,https://vd2.bdstatic.com/mda-pea5z36kvme7xuyd/720p/h264/1683778426780817419/mda-pea5z36kvme7xuyd.mp4
 Beyond-午夜怨曲,https://vd4.bdstatic.com/mda-peaaeff0t1a0s79y/720p/h264/1683789745146802847/mda-peaaeff0t1a0s79y.mp4

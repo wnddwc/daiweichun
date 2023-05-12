@@ -350,8 +350,7 @@
     "type": 1,
     "id": 29
   },
-  
- 
+   
   {
     "key": "TVB云播",
     "name": "TVB云播",
@@ -362,7 +361,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 31
+    "id": 30
   },
   {
     "key": "快播",
@@ -388,7 +387,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 33
+    "id": 32
   }
   
 

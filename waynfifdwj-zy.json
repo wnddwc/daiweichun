@@ -396,8 +396,8 @@
   "default":1,
    "data":[
  {
-    "name": "Ray直播",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "name": "尉春直播",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1

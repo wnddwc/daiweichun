@@ -406,13 +406,6 @@
 "iptv":  {
   "default":1,
    "data":[
- {
-    "name": "尉春直播",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt",
-    "epg": "http://epg.112114.xyz",
-    "isActive": true,
-    "id": 1
-  },      
   {
     "name": "多多直播",
     "url": "https://yydsys.top/duo/txt/v.txt",

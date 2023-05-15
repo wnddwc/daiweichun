@@ -7,7 +7,6 @@
 抖音姐姐热舞1,http://epg.112114.xyz/douyu/8759139
 抖音姐姐舞舞2,http://epg.112114.xyz/douyu/7971641
 🍎卫视频道,#genre#
-河南卫视,http://120.84.97.44:808/hls/134/index.m3u8
 河北卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225732/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8
@@ -484,6 +483,7 @@
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 ✨音乐,#genre#
+酒干倘卖无,http://jsmov2.a.yximgs.com/upic/2023/05/13/10/BMjAyMzA1MTMxMDM1NDJfMTAyMTczODk5MF8xMDI5MjMyNDUxMjFfMl8z_b_Ba4a414488a95692df46ec2c10823bcc3.mp4
 8首串烧歌曲,https://vd3.bdstatic.com/mda-mmpgmu9qnrdctwza/hd/cae_h264/1640350134589718126/mda-mmpgmu9qnrdctwza.mp4
 劲爆DJ串烧,https://vd4.bdstatic.com/mda-mmncsg2n2cc3xdeg/480p/h264/1640253222392397868/mda-mmncsg2n2cc3xdeg.mp4
 劲爆DJ串烧,https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4

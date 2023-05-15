@@ -375,18 +375,7 @@
     "type": 1,
     "id": 31
   },
-  {
-    "key": "光速资源",
-    "name": "光速资源",
-    "api": "http://guangsuzy.com/index.php/vod/",
-    "download": "",
-    "jiexiUrl": "https://www.gszyv.com/m3u8/?url=",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 32
-  },
+  
  
   {
     "key": "人人",
@@ -398,7 +387,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 33
+    "id": 32
   }
   
 
@@ -406,6 +395,13 @@
 "iptv":  {
   "default":1,
    "data":[
+ {
+    "name": "尉春直播",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV3.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 1
+  },      
   {
     "name": "多多直播",
     "url": "https://yydsys.top/duo/txt/v.txt",

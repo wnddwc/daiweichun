@@ -2,10 +2,6 @@
 佛陀1,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 佛陀2,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 佛陀3,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-抖音小姐姐,#genre#
-抖音姐姐热热,http://epg.112114.xyz/douyu/8901218
-抖音姐姐热舞1,http://epg.112114.xyz/douyu/8759139
-抖音姐姐舞舞2,http://epg.112114.xyz/douyu/7971641
 🍎卫视频道,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 重庆卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225692/index.m3u8

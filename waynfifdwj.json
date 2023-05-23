@@ -1,6 +1,38 @@
 {
     "wallpaper": "",
 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
+	"iptv":  {
+  "default":1,
+   "data":[
+ {
+    "name": "尉春直播",
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV3.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 1
+  },      
+  {
+    "name": "多多直播",
+    "url": "https://yydsys.top/duo/txt/v.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 2
+  },
+  {
+    "name": "饭太硬直播",
+    "url": "http://ftyyy.tk/live.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 3
+  },  
+   {
+    "name": "俊于直播",
+    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 4
+  }  
+]},
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [

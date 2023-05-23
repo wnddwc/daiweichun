@@ -481,7 +481,7 @@
 爱经典,https://epg.pw/stream/e47f56c845e5731b8c804f71c7009a51efd50e891ce7c1dd5972f02aba081a2c.m3u8
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-✨音乐,#genre#冷漠-你把爱情给了谁,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
+✨音乐,#genre#
 只要你比我过的好.https://vd3.bdstatic.com/mda-ma2ir064fi4r541f/v1-cae/hd/mda-ma2ir064fi4r541f.mp4
 张学友-爱的比你深,https://vd4.bdstatic.com/mda-pdf27k9v4znp3jf7/sc/cae_h264/1681635097473526624/mda-pdf27k9v4znp3jf7.mp4
 《你是我今生不能忘的唯一》DJ版,https://vd4.bdstatic.com/mda-mbdzgfvp4bz1hhg8/v1-cae/1080p/mda-mbdzgfvp4bz1hhg8.mp4

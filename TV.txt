@@ -472,6 +472,7 @@
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
 电影,#genre#
+倩女幽魂,https://kezhengwei.gzc.svp.tencent-cloud.com/0bc3iaabqaaabeadnz244frfaqgddbaaagaa.f10002.mp4
 永生战士,https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/e53471e66f3b4169bd633ca630526ba8?filename=1.mp4
 飞龙再生,https://hxf115.gzc.svp.tencent-cloud.com/0bf2syabeaaarqaioffmhfqfbfwdcklaaeqa.f10002.mp4
 复仇者联盟4终局之战,https://50069.njc.svp.tencent-cloud.com//0b78eaaamaaasyabgn3m7jqfaigdayqaabqa.f10002.mp4

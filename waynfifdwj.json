@@ -6,7 +6,12 @@
 	"sites": [
 {"key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"诺讯资源","name":"诺讯资源","type":1,"api":"https://xxx.nxflv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-		
+{"key":"海外看资源(VPN)","name":"海外看资源(VPN)","type":1,"api":"https://haiwaikan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"蜜蜂影视","name":"蜜蜂影视","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"高三影视","name":"高三影视","type":1,"api":"https://www.gaosan.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"米杏影视","name":"米杏影视","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"243影视","name":"243影视","type":1,"api":"https://www.knyu.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},		
 		
 		
 		

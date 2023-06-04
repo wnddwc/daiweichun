@@ -17,7 +17,8 @@
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"FF9资源","name":"FF9资源","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"新马影视","name":"新马影视","type":1,"api":"https://movie.gsl99.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
- {
+{"key":"布雷JS","name":"布雷┃JS","type":3,"api":"clan://TVBox/drpy/lib/drpy.min.js","ext":"clan://TVBox/js/布雷JS.js","searchable":1,"quickSearch":1,"filterable":1},
+{
 			"key": "光速资源",
 			"name": "光速资源",
 			"type": 1,

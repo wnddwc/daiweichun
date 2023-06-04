@@ -5,7 +5,6 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
 {"key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"小猫咪2","name":"小猫咪2","type":1,"api":"http://zy.rryy.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},		
 {"key":"诺讯资源","name":"诺讯资源","type":1,"api":"https://xxx.nxflv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"188资源","name":"188资源","type":1,"api":"https://www.188zy.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -17,7 +16,12 @@
 {"key":"爱坤资源","name":"爱坤资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"FF9资源","name":"FF9资源","type":1,"api":"https://www.ff9.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-	
+{"key":"臭弟弟资源","name":"臭弟弟资源","type":0,"api":"https://www.choudidi.top/zyapi.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"票厂影视","name":"票厂影视","type":1,"api":"http://101.43.119.105/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"阿里影视","name":"阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"新马影视","name":"新马影视","type":1,"api":"https://movie.gsl99.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},	
 		
 		
 		

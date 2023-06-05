@@ -21,6 +21,7 @@
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 星空卫视,http://107.151.203.111:2209/135/hk.php?id=xkwst
 电影,#genre#
+龙马精神,https://www.nxflv.com/?url=https://s6.bfzycdn.com/video/longmajingshen/HD/index.m3u8
 经典邵氏电影频道,https://openhls-tct.douyucdn2.cn/dyliveflv1/4246519rs5QiOQE5.m3u8
 经典剧集,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213aaqq988615.m3u8
 经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key

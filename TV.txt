@@ -21,10 +21,6 @@
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 星空卫视,http://107.151.203.111:2209/135/hk.php?id=xkwst
 电影,#genre#
-龙马精神,https://www.nxflv.com/?url=https://s6.bfzycdn.com/video/longmajingshen/HD/index.m3u8
-经典邵氏电影频道,https://openhls-tct.douyucdn2.cn/dyliveflv1/4246519rs5QiOQE5.m3u8
-经典剧集,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt1213aaqq988615.m3u8
-经典重温,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_137_600_t10/c55_lb_137_600_t10.m3u8?key
 倩女幽魂,https://kezhengwei.gzc.svp.tencent-cloud.com/0bc3iaabqaaabeadnz244frfaqgddbaaagaa.f10002.mp4
 永生战士,https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/e53471e66f3b4169bd633ca630526ba8?filename=1.mp4
 飞龙再生,https://hxf115.gzc.svp.tencent-cloud.com/0bf2syabeaaarqaioffmhfqfbfwdcklaaeqa.f10002.mp4

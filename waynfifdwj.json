@@ -18,7 +18,6 @@
 {"key":"小猫咪","name":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"诺讯资源","name":"诺讯资源","type":1,"api":"https://xxx.nxflv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"188资源","name":"188资源","type":1,"api":"https://www.188zy.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"68资源","name":"68资源","type":1,"api":"https://caiji.68zyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"可可资源","name":"可可资源","type":1,"api":"https://caiji.kekezyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"速博资源","name":"速博资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

@@ -32,6 +32,9 @@
 喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 ✨音乐,#genre#
+车载DJ,https://vd4.bdstatic.com/mda-nahdi45ud73s2842/sc/cae_h264_delogo/1642519489503455798/mda-nahdi45ud73s2842.mp4
+车载DJ舞曲,https://vd3.bdstatic.com/mda-nask5v8g11h6fqmf/sc/cae_h264_delogo/1643293983357482773/mda-nask5v8g11h6fqmf.mp4
+车载DJ舞曲精选,https://vd3.bdstatic.com/mda-mktgbuw1tgftu9r3/1080p/cae_h264/1638416019802849347/mda-mktgbuw1tgftu9r3.mp4
 DJ《舍不得又能怎样呢》,https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
 DJ《我们不再是从前》,https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4
 DJ版《时间会知道你好不好》,https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4

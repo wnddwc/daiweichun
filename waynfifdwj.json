@@ -4,7 +4,16 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-
+{"key":"极速BT资源","name":"极速BT资源","type":1,"api":"https://api.jisubt.com/videos","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"天猫资源","name":"天猫资源","type":1,"api":"https://www.tianmaozy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"188资源","name":"188资源","type":1,"api":"https://www.188zy.org/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"68资源","name":"68资源","type":1,"api":"https://caiji.68zyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"可可资源","name":"可可资源","type":1,"api":"https://caiji.kekezyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"乐博资源","name":"乐博资源","type":1,"api":"https://lebcj.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"极速资源","name":"极速资源","type":1,"api":"https://jszy.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"夸克资源","name":"夸克资源","type":1,"api":"http://kuakezy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"快竞技资源","name":"快竞技资源","type":1,"api":"https://api.kjjapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"步步高资源","name":"步步高资源","type":1,"api":"https://api.yparse.com/api/json","playUrl":"","searchable":1,"quickSearch":1},
 
 
 

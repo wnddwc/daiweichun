@@ -4,7 +4,10 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-
+{"key":"花旗资源","name":"花旗资源","type":1,"api":"https://seacms.huaqi.live/zyapi.php","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"忆梦","name":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"JSON官采","name":"JSON官采","type":1,"api":"https://cms.json.vin/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"M3U8TV","name":"M3U8TV","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
 

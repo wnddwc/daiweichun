@@ -3,7 +3,17 @@
 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
-	"sites": [		
+	"sites": [
+{
+      "key": "js_奇异",
+      "name": "┃奇异┃大厂",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js"
+    },		
 {"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

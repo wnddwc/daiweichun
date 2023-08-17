@@ -10,8 +10,8 @@
       "type": 3,
       "style":{ "type":"oval" },
       "api": "https://qu.ax/Mud.js",
-      /*"searchable": 1,
-      "changeable": 1,*/
+      "searchable": 1,
+      "changeable": 1,
       "ext": "https://qu.ax/USvO.txt"
     }, 
 {"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

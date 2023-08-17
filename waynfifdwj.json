@@ -4,7 +4,16 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [	
-
+{
+      "key": "Youtube",
+      "name": "Youtube",
+      "type": 3,
+      "style":{ "type":"oval" },
+      "api": "https://qu.ax/Mud.js",
+      /*"searchable": 1,
+      "changeable": 1,*/
+      "ext": "https://qu.ax/USvO.txt"
+    }, 
 {"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

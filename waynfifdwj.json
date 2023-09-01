@@ -3,7 +3,31 @@
 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
-	"sites": [	
+	"sites": [
+{
+       "key": "iqiyi:vod",
+       "name": "奇艺",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",
+      "searchable": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33}
+    },
+    {
+      "key": "360kan:vod",
+      "name": "360",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/360kan",
+      "searchable": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+      "type": "rect",
+      "ratio": 1.33}
+    },		
 {"key":"腾讯","name":"腾讯┃官源","type":1,"api":"http://tvbox.top/qq.php","changeable":0,"searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},

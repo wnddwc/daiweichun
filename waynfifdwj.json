@@ -154,14 +154,6 @@
 {"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},   
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/63580/1112-%E6%9A%B4%E5%8A%9B5%E5%90%881.jar?sign=_pqwZ7mu4loqwmW7wcAEugf_k6b8Tcx9cCthcLhNsKc%3D%3A0"}],
  "parses": [
-	{
-		"name": "官解1",
-		"type": 1,
-		"url": "http://api.huohua.vip/api/?key=6qwYWYpe4mSaPhFvSw&url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}
-	},
 {
 		"name": "官解2",
 		"type": 1,
@@ -283,19 +275,6 @@
             "type": 1,
             "url": "http://119.91.31.224:81/txqq.php?url="
         },
-
-
-
-
-
-
-
-
-
-
-
-
-	 
         {
             "name": "Web并发",
             "type": 3,

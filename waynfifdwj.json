@@ -23,21 +23,7 @@
        "searchable":1,
        "quickSearch":1
     },
-        {
-      "key": "csp_企鹅",
-      "name": "企鹅",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
-      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-	    {
+   {
       "key": "csp_xml_dm",
       "name": "dm┃动漫",
       "type": 1,

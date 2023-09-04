@@ -4,8 +4,26 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-	{"key": "drpy_玉米","name": "玉米☆影视","type": 3,"api": "./lib/drpy2.min.js", "playerType":2, "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/Yumi影视.js"},	
-	{
+	        {
+            "key": "玉米",
+            "name": "玉米Ⅱ影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.iptv.ski/api.php/app/",
+            "categories": [
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },	{
     "key": "短剧1xyq1",
     "name": "短剧┃XYQ",
     "type": 3,

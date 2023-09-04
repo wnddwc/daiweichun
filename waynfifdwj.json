@@ -16,7 +16,6 @@
 {"key": "xml_新浪","name": "新浪☆资源","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":
 ["综艺","动漫","体育","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","伦理片","大陆剧","港澳剧","台湾剧","日剧","韩剧","欧美剧","泰剧"]},
 {"key": "xml_飞速","name": "飞速☆资源","type": 1,"api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "xml_淘片","name": "淘片☆资源","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "xml_卧龙","name": "卧龙☆资源","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["电影解说","足球","篮球","动作片","动画片","喜剧片","爱情片","科幻片",
 "恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","短片","家庭片","古装片","历史片","记录片","伦理片","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日本动漫","欧美动漫"]},
 {"key": "xml_百度","name": "百度☆资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["综艺","动漫","体育赛事","动作片","动画电影","喜剧片","爱情片",

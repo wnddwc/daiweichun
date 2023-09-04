@@ -14,8 +14,7 @@
             "quickSearch": 1,
             "filterable": 1
         },	
-	{"key": "xml_综合","name":"综合☆采集","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/", "playUrl": "json:https://dx.maclsj.com/blue/json.php?url=","searchable":1,"quickSearch":1,"filterable": 1}, 
-{
+	{
     "key": "短剧1xyq1",
     "name": "短剧┃XYQ",
     "type": 3,

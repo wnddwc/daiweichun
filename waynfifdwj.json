@@ -4,7 +4,7 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-	{"key":"魔都资源","name":"魔都资源网","type":3,"api":"https://www.moduzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.moduzy.com/jiexi/?url="},
+	{"key": "xml_综合","name":"综合☆采集","type":1,"api":"http://nb.xzam.cn:66/api.php/provide/vod/", "playUrl": "json:https://dx.maclsj.com/blue/json.php?url=","searchable":1,"quickSearch":1,"filterable": 1}, 
 {
     "key": "短剧1xyq1",
     "name": "短剧┃XYQ",

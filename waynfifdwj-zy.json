@@ -1,537 +1,533 @@
 {
- "sites": {
-   "default":1,
-   "data":[
-  {
-    "key": "gdGEDS",
-    "name": "非凡资源(可下载)",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 691
-  },
-  {
-    "key": "45888E16E31A516F73A002B9239D7C10",
-    "name": "量子资源(可下载)",
-    "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用",
-    "id": 692
-  },
-  {
-    "key": "MUgPfc",
-    "name": "映迷(可下载)",
-    "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 693
-  },
-  {
-    "key": "sLF8yB",
-    "name": "最大资源(可下载)",
-    "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 694
-  },
-  {
-    "key": "cm4zij",
-    "name": "速博资源(可下载)",
-    "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 695
-  },
-  {
-    "key": "fRNyop",
-    "name": "诺讯资源(可下载)",
-    "api": "https://xxx.nxflv.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 696
-  },
-  {
-    "key": "shZCxL",
-    "name": "快云资源(可下载)",
-    "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 697
-  },
-  {
-    "key": "Ep6Eo5",
-    "name": "爱坤资源(可下载)",
-    "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 698
-  },
-  {
-    "key": "dqrKxQ",
-    "name": "豌豆资源(j可下载)",
-    "api": "https://ks.wandouzy.cc/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 699
-  },
-  {
-    "key": "xSwkna",
-    "name": "享看资源(可下载)",
-    "api": "https://xkanzy10.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 700
-  },
-  {
-    "key": "x9XkHO",
-    "name": "虎牙资源(可下载)",
-    "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 701
-  },
-  {
-    "key": "76HIZL",
-    "name": "金鹰资源(可下载)",
-    "api": "https://jyzyapi.com/provide/vod/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 702
-  },
-  {
-    "key": "vzAF65",
-    "name": "红牛资源(可下载)",
-    "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 703
-  },
-  {
-    "key": "DC5E151A978CD896587E5E548F0246B2",
-    "name": "卧龙资源(可下载)",
-    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 704
-  },
-  {
-    "key": "285E3CC67B39B89978737EB7A8CB4FA3",
-    "name": "天空资源(可下载)",
-    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 705
-  },
-  {
-    "key": "0A9A97D6409DE612484F4779CEA1B9E3",
-    "name": "ikun资源(可下载)",
-    "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 706
-  },
-  {
-    "key": "46E2C2A782C430EBBC0F8ED40F5EF98D",
-    "name": "快车资源(可下载)",
-    "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 707
-  },
-  {
-    "key": "B42EEE225E150AA611C1D352FFD3D8AD",
-    "name": "光速资源(可下载)",
-    "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 708
-  },
-  {
-    "key": "70794DDF36840091E43C631C9BC6BE2F",
-    "name": "韩剧资源(可下载)",
-    "api": "http://www.hanjuzy.com/inc/api.php/inc/ldg_api_all.php",
-    "group": "可下载",
-    "isActive": true,
-    "reverseOrder": false,
-    "status": "可用",
-    "id": 709
-  },
-  {
-    "key": "C540FAC5B5D09AB3AEA379393CE4A23C",
-    "name": "77韩剧(可下载)",
-    "api": "https://www.77hanju.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 710
-  },
-  {
-    "key": "2F322EFF6A7950BDCAA00FC8C59241F4",
-    "name": "U酷资源(可下载)",
-    "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 711
-  },
-  {
-    "key": "D33F0ED021F03C7A211E6BD5C7573CD3",
-    "name": "飞速资源(可下载)",
-    "api": "https://www.feisuzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 1,
-    "id": 712
-  },
-  {
-    "key": "myJMOU",
-    "name": "大漠资源(可下载)",
-    "api": "https://damozy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 713
-  },
-  {
-    "key": "sretCR",
-    "name": "秒看资源(可下载)",
-    "api": "https://mkzy.vip/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 714
-  },
-  {
-    "key": "yJeSnY",
-    "name": "49资源(可下载)",
-    "api": "https://49zyw.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 715
-  },
-  {
-    "key": "LetbaO",
-    "name": "四个圈影视(可下载)",
-    "api": "https://pg.fenwe078.cf/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 716
-  },
-  {
-    "key": "gMhd0F",
-    "name": "虎牙资源(可下载)",
-    "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 717
-  },
-  {
-    "key": "jnUr2L",
-    "name": "火狐资源(可下载)",
-    "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 718
-  },
-  {
-    "key": "Lvzu4d",
-    "name": "夸克资源(可下载)",
-    "api": "http://kuakezy1.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 719
-  },
-  {
-    "key": "brzLsO",
-    "name": "快车资源(可下载)",
-    "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 720
-  },
-  {
-    "key": "HTXZkB",
-    "name": "快看资源(可下载)",
-    "api": "https://kuaikan-api.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 721
-  },
-  {
-    "key": "vv7bvD",
-    "name": "奇虎资源(可下载)",
-    "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 722
-  },
-  {
-    "key": "PO8JWn",
-    "name": "极光资源(可下载)",
-    "api": "https://jiguang.la/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 723
-  },
-  {
-    "key": "VgJKKO",
-    "name": "熊掌资源(可下载)",
-    "api": "https://xzcjz.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 724
-  },
-  {
-    "key": "zNNOvx",
-    "name": "极速资源(可下载)",
-    "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 725
-  },
-  {
-    "key": "B8TziZ",
-    "name": "樱花资源(可下载)",
-    "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "可下载",
-      "status": false,
-      "type": 0,
-    "id": 726
-  },
-  {
-    "key": "Ik9HCU",
-    "name": "花旗资源(官)",
-    "api": "https://seacms.huaqi.live/zyapi.php",
-      "playUrl": "",
-      "search": 1,
-      "group": "导入",
-      "status": false,
-      "type": 0,
-    "id": 727
-  },
-  {
-    "key": "375C01721B16639EF61D4CA41D2378AF",
-    "name": "影图资源(聚)",
-    "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "导入",
-      "status": false,
-      "type": 0,
-    "status": "可用",
-    "id": 728
-  },
-  {
-    "key": "aPcyMR",
-    "name": "明帝(官)",
-    "api": "http://cj.md214.cn/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 1,
-      "group": "导入",
-      "status": false,
-      "type": 0,
-    "id": 729
-  }
-]},
-  "iptv": [
-    {
-      "id": 1,
-      "name": "APTV",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "https://epg.112114.xyz/"
-    }],
-{
-  "analyze": [
-    {
-    "name": "左岸",
-    "url": "https://jx.jsonplayer.com/player/?url=",
-    "isActive": true,
-    "id": 49
-  },
-  {
-    "name": "盘古",
-    "url": "https://www.pangujiexi.cc/jiexi.php?url=",
-    "isActive": true,
-    "id": 50
-  },
-  {
-    "name": "全民",
-    "url": "http://jx.9jsp.com/?url=",
-    "isActive": true,
-    "id": 51
-  },
-  {
-    "name": "OK1",
-    "url": "https://okjx.cc/?url=",
-    "isActive": true,
-    "id": 52
-  },
-  {
-    "name": "OK2",
-    "url": "https://api.okjx.cc:3389/jx.php?url=",
-    "isActive": true,
-    "id": 53
-  },
-  {
-    "name": "饭团",
-    "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
-    "isActive": true,
-    "id": 54
-  },
-  {
-    "name": "虾米",
-    "url": "https://jx.xmflv.com/?url=",
-    "isActive": true,
-    "id": 55
-  },
-  {
-    "name": "parwix",
-    "url": "https://jx.bozrc.com:4433/player/?url=",
-    "isActive": true,
-    "id": 56
-  },
-  {
-    "name": "MaoPlayer",
-    "url": "https://www.mtosz.com/erzi.php?url=",
-    "isActive": true,
-    "id": 57
-  },
-  {
-    "name": "8090G",
-    "url": "https://www.8090g.cn/?url=",
-    "isActive": true,
-    "id": 58
-  },
-  {
-    "name": "BL",
-    "url": "https://vip.bljiex.com/?v=",
-    "isActive": true,
-    "id": 59
-  },
-  {
-    "name": "铭人",
-    "url": "https://parse.mw0.cc/?url=",
-    "isActive": true,
-    "id": 60
-  },
-  {
-    "name": "M2090",
-    "url": "https://m2090.com/?url=",
-    "isActive": true,
-    "id": 61
-  },
-  {
-    "name": "夜幕",
-    "url": "https://www.yemu.xyz/?url=",
-    "isActive": true,
-    "id": 62
-  },
-  {
-    "name": "JSONPlayer",
-    "url": "https://jx.777jiexi.com/player/?url=",
-    "isActive": true,
-    "id": 63
-  }
-]
-}
+    "sites": [
+        {
+            "key": "gdGEDS",
+            "name": "非凡资源(可下载)",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 691
+        },
+        {
+            "key": "45888E16E31A516F73A002B9239D7C10",
+            "name": "量子资源(可下载)",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml",
+            "group": "可下载",
+            "isActive": true,
+            "reverseOrder": false,
+            "status": "可用",
+            "id": 692
+        },
+        {
+            "key": "MUgPfc",
+            "name": "映迷(可下载)",
+            "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 693
+        },
+        {
+            "key": "sLF8yB",
+            "name": "最大资源(可下载)",
+            "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 694
+        },
+        {
+            "key": "cm4zij",
+            "name": "速博资源(可下载)",
+            "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 695
+        },
+        {
+            "key": "fRNyop",
+            "name": "诺讯资源(可下载)",
+            "api": "https://xxx.nxflv.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 696
+        },
+        {
+            "key": "shZCxL",
+            "name": "快云资源(可下载)",
+            "api": "https://www.kuaiyunzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 697
+        },
+        {
+            "key": "Ep6Eo5",
+            "name": "爱坤资源(可下载)",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 698
+        },
+        {
+            "key": "dqrKxQ",
+            "name": "豌豆资源(j可下载)",
+            "api": "https://ks.wandouzy.cc/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 699
+        },
+        {
+            "key": "xSwkna",
+            "name": "享看资源(可下载)",
+            "api": "https://xkanzy10.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 700
+        },
+        {
+            "key": "x9XkHO",
+            "name": "虎牙资源(可下载)",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 701
+        },
+        {
+            "key": "76HIZL",
+            "name": "金鹰资源(可下载)",
+            "api": "https://jyzyapi.com/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 702
+        },
+        {
+            "key": "vzAF65",
+            "name": "红牛资源(可下载)",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 703
+        },
+        {
+            "key": "DC5E151A978CD896587E5E548F0246B2",
+            "name": "卧龙资源(可下载)",
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 704
+        },
+        {
+            "key": "285E3CC67B39B89978737EB7A8CB4FA3",
+            "name": "天空资源(可下载)",
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 705
+        },
+        {
+            "key": "0A9A97D6409DE612484F4779CEA1B9E3",
+            "name": "ikun资源(可下载)",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 706
+        },
+        {
+            "key": "46E2C2A782C430EBBC0F8ED40F5EF98D",
+            "name": "快车资源(可下载)",
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 707
+        },
+        {
+            "key": "B42EEE225E150AA611C1D352FFD3D8AD",
+            "name": "光速资源(可下载)",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 708
+        },
+        {
+            "key": "70794DDF36840091E43C631C9BC6BE2F",
+            "name": "韩剧资源(可下载)",
+            "api": "http://www.hanjuzy.com/inc/api.php/inc/ldg_api_all.php",
+            "group": "可下载",
+            "isActive": true,
+            "reverseOrder": false,
+            "status": "可用",
+            "id": 709
+        },
+        {
+            "key": "C540FAC5B5D09AB3AEA379393CE4A23C",
+            "name": "77韩剧(可下载)",
+            "api": "https://www.77hanju.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 710
+        },
+        {
+            "key": "2F322EFF6A7950BDCAA00FC8C59241F4",
+            "name": "U酷资源(可下载)",
+            "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 711
+        },
+        {
+            "key": "D33F0ED021F03C7A211E6BD5C7573CD3",
+            "name": "飞速资源(可下载)",
+            "api": "https://www.feisuzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 1,
+            "id": 712
+        },
+        {
+            "key": "myJMOU",
+            "name": "大漠资源(可下载)",
+            "api": "https://damozy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 713
+        },
+        {
+            "key": "sretCR",
+            "name": "秒看资源(可下载)",
+            "api": "https://mkzy.vip/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 714
+        },
+        {
+            "key": "yJeSnY",
+            "name": "49资源(可下载)",
+            "api": "https://49zyw.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 715
+        },
+        {
+            "key": "LetbaO",
+            "name": "四个圈影视(可下载)",
+            "api": "https://pg.fenwe078.cf/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 716
+        },
+        {
+            "key": "gMhd0F",
+            "name": "虎牙资源(可下载)",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 717
+        },
+        {
+            "key": "jnUr2L",
+            "name": "火狐资源(可下载)",
+            "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 718
+        },
+        {
+            "key": "Lvzu4d",
+            "name": "夸克资源(可下载)",
+            "api": "http://kuakezy1.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 719
+        },
+        {
+            "key": "brzLsO",
+            "name": "快车资源(可下载)",
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 720
+        },
+        {
+            "key": "HTXZkB",
+            "name": "快看资源(可下载)",
+            "api": "https://kuaikan-api.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 721
+        },
+        {
+            "key": "vv7bvD",
+            "name": "奇虎资源(可下载)",
+            "api": "https://caiji.qhzyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 722
+        },
+        {
+            "key": "PO8JWn",
+            "name": "极光资源(可下载)",
+            "api": "https://jiguang.la/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 723
+        },
+        {
+            "key": "VgJKKO",
+            "name": "熊掌资源(可下载)",
+            "api": "https://xzcjz.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 724
+        },
+        {
+            "key": "zNNOvx",
+            "name": "极速资源(可下载)",
+            "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 725
+        },
+        {
+            "key": "B8TziZ",
+            "name": "樱花资源(可下载)",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "可下载",
+            "status": false,
+            "type": 0,
+            "id": 726
+        },
+        {
+            "key": "Ik9HCU",
+            "name": "花旗资源(官)",
+            "api": "https://seacms.huaqi.live/zyapi.php",
+            "playUrl": "",
+            "search": 1,
+            "group": "导入",
+            "status": false,
+            "type": 0,
+            "id": 727
+        },
+        {
+            "key": "375C01721B16639EF61D4CA41D2378AF",
+            "name": "影图资源(聚)",
+            "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "导入",
+            "status": "可用",
+            "type": 0,
+            "id": 728
+        },
+        {
+            "key": "aPcyMR",
+            "name": "明帝(官)",
+            "api": "http://cj.md214.cn/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "search": 1,
+            "group": "导入",
+            "status": false,
+            "type": 0,
+            "id": 729
+        }
+    ],
+    "iptv": [
+        {
+            "id": 1,
+            "name": "APTV",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "type": "remote",
+            "isActive": true,
+            "epg": "https://epg.112114.xyz/"
+        }
+    ],
+    "analyze": [
+        {
+            "name": "左岸",
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "isActive": true,
+            "id": 49
+        },
+        {
+            "name": "盘古",
+            "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+            "isActive": true,
+            "id": 50
+        },
+        {
+            "name": "全民",
+            "url": "http://jx.9jsp.com/?url=",
+            "isActive": true,
+            "id": 51
+        },
+        {
+            "name": "OK1",
+            "url": "https://okjx.cc/?url=",
+            "isActive": true,
+            "id": 52
+        },
+        {
+            "name": "OK2",
+            "url": "https://api.okjx.cc:3389/jx.php?url=",
+            "isActive": true,
+            "id": 53
+        },
+        {
+            "name": "饭团",
+            "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
+            "isActive": true,
+            "id": 54
+        },
+        {
+            "name": "虾米",
+            "url": "https://jx.xmflv.com/?url=",
+            "isActive": true,
+            "id": 55
+        },
+        {
+            "name": "parwix",
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "isActive": true,
+            "id": 56
+        },
+        {
+            "name": "MaoPlayer",
+            "url": "https://www.mtosz.com/erzi.php?url=",
+            "isActive": true,
+            "id": 57
+        },
+        {
+            "name": "8090G",
+            "url": "https://www.8090g.cn/?url=",
+            "isActive": true,
+            "id": 58
+        },
+        {
+            "name": "BL",
+            "url": "https://vip.bljiex.com/?v=",
+            "isActive": true,
+            "id": 59
+        },
+        {
+            "name": "铭人",
+            "url": "https://parse.mw0.cc/?url=",
+            "isActive": true,
+            "id": 60
+        },
+        {
+            "name": "M2090",
+            "url": "https://m2090.com/?url=",
+            "isActive": true,
+            "id": 61
+        },
+        {
+            "name": "夜幕",
+            "url": "https://www.yemu.xyz/?url=",
+            "isActive": true,
+            "id": 62
+        },
+        {
+            "name": "JSONPlayer",
+            "url": "https://jx.777jiexi.com/player/?url=",
+            "isActive": true,
+            "id": 63
+        }
+    ]
 }

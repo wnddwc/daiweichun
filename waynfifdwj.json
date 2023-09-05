@@ -12,7 +12,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "daiweichun/短剧.txt"
+            "ext": "./daiweichun/短剧.txt"
         },		
 {"key": "csp_beijihu","name": "极狐影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 {"key": "移动云盘","name":"云盘资源","type":1,"playerType":1,"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/","searchable": 1,"quickSearch": 1},		

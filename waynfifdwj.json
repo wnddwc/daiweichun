@@ -4,6 +4,25 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+{"key":"77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+{
+      "key": "探探",
+      "name": "影探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "vip.lyyytv.cn"
+    },
+{
+"key": "drpy_js_555电影",
+"name": "影视 | 555电影[js]",
+"type": 3,
+"api": "./lib/apiv19drpy2.min.js",
+"ext": "./lib/555电影.js"
+},		
 {"key": "xml_快看","name": "️快看☆资源","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun","categories":["网络电影","动画电影","动作片","冒险片","剧情片","纪录片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片",
 "战争片","灾难片","爱情片","科幻片","犯罪片","伦理片","国产剧","港台剧","日本剧","韩国剧","欧美剧","新马剧","泰剧","其他剧","国产综艺","港台综艺","日本综艺","韩国综艺","欧美综艺","国产动漫","港台动漫","日本动漫","欧美动漫"]},
 {"key": "xml_红牛","name": "红牛☆资源","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":

@@ -4,6 +4,7 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+{"key":"cli_Bili_哔哩影剧","name":"哔哩☆影剧","type":4,"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/哔哩影剧.json"},		
 {"key": "drpy_js_爱奇艺",
     "name": "爱奇艺",
     "type": 3,

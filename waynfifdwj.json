@@ -4,6 +4,15 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+ {
+            "key": "hanju",
+            "name": "天天韩剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":  {
+            "分类url":"https://hanju2.yingdouw.com/hanju/{cateId}.html",
+ "分类": "电影$2#国产剧$29#港台剧$33#韩剧$1#美剧$26#日剧$27#泰剧$30#海外剧$32#动漫$28"}
+        },		
 {"key":"xgapp","name":"西瓜资源","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "drpy_js_爱奇艺",
     "name": "爱奇艺",

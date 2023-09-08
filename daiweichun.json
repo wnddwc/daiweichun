@@ -4,28 +4,24 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYyLnR4dA=="]}]}],	
 "sites": [
-    {
-      "key": "探探资源",
-      "name": "探探资源",
+       {
+      "key": "黄瓜资源",
+      "name": "黄瓜资源",
       "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/",
+      "api": "https://www.zy018.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "155资源",
-      "name": "155资源",
+      "key": "9色资源",
+      "name": "9色资源",
       "type": 0,
-      "api": "https://155api.com/api.php/provide/vod/",
+      "api": "https://9szy.net/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-
-
-
-
 
 
 

@@ -4,6 +4,38 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [	
+        {
+            "key": "1080",
+            "name": "1080",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
+            "categories": [
+                "连续剧",
+                "电影",
+                "动漫",
+                "综艺"
+            ]
+        },
+     {
+    "key": "csp_XBPQ_亿视",
+    "name": "亿视☆影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+        "搜索url": "http://lanyi.yy365.vip/index.php/vod/search.html?wd={wd}",
+        "分类url": "http://lanyi.yy365.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$5#短剧$21"
+    }
+},
+		
 {"key":"xgapp","name":"西瓜资源","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "drpy_js_爱奇艺",
     "name": "爱奇艺",

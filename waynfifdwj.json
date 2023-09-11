@@ -12,20 +12,6 @@
       "ext": "https://555dy3.com/api.php/app/"
    },
    {
-      "key": "555二（APP-手机4G网不可用）",
-      "name": "555二（APP-手机4G网不可用）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.555dy5.com/api.php/app/"
-   },
-   {
-      "key": "F7好看剧（APP）",
-      "name": "F7好看剧（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.f7hkj.cc/api.php/app/"
-   },
-   {
       "key": "旧梦影视（APP）",
       "name": "旧梦影视（APP）",
       "type": 3,
@@ -61,13 +47,6 @@
       "ext": "https://www.airfun.fun/xgapp.php/v2/"
    },
    {
-      "key": "icio（APP）",
-      "name": "icio（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.icio.cc/api.php/app/"
-   },
-   {
       "key": "布衣（APP）",
       "name": "布衣（APP）",
       "type": 3,
@@ -82,32 +61,11 @@
       "ext": "https://sk100.tv/api.php/app/"
    },
    {
-      "key": "聚合（APP）",
-      "name": "聚合（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://xn--yeta099v.online:66/api.php/app/"
-   },
-   {
       "key": "路人甲（APP）",
       "name": "路人甲（APP）",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://dytt996.com//api.php/app/"
-   },
-   {
-      "key": "青豆（APP）",
-      "name": "青豆（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://goodluckzy.com/qingdoujiekou.php/v1.vod"
-   },
-   {
-      "key": "枇杷（APP）",
-      "name": "枇杷（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.pipamovie.com//mogai_api.php/v1.vod "
    },
    {
       "key": "木白（APP）",
@@ -129,13 +87,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://app.ishen520.com/api.php/v1.vod "
-   },
-   {
-      "key": "COKEMV（APP）",
-      "name": "COKEMV（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://cokemv.me/xgapp.php/v2/"
    },
    {
       "key": "宝仙（APP）",
@@ -187,13 +138,6 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/"
    },
    {
-      "key": "鹿缘（APP）",
-      "name": "鹿缘（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://iuio.xyz/api.php/app/"
-   },
-   {
       "key": "真爱（APP）",
       "name": "真爱（APP）",
       "type": 3,
@@ -222,32 +166,11 @@
       "ext": "http://jlys6.top/mogai_api.php/v1.vod"
    },
    {
-      "key": "盈联（APP）",
-      "name": "盈联（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://tt.uutv.cc/api.php/app/"
-   },
-   {
-      "key": "东方（APP）",
-      "name": "东方（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.dfspapp.com//api.php/app/"
-   },
-   {
       "key": "影视之家（APP）",
       "name": "影视之家（APP）",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://yszj.cm/xgapp.php/v2/"
-   },
-   {
-      "key": "HG（APP）",
-      "name": "HG（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://hong.hgyx.vip/api.php/v1.vod"
    },
    {
       "key": "映迷（APP-搜索需用繁体字、海外源需挂梯子）",

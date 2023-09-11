@@ -32,7 +32,7 @@
     "ext": {
         "搜索url": "http://lanyi.yy365.vip/index.php/vod/search.html?wd={wd}",
         "分类url": "http://lanyi.yy365.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#体育$5#短剧$21"
+        "分类": "http://lanyi.yy365.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
     }
 },
 		

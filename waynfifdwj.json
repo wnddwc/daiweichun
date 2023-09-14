@@ -5,14 +5,11 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
 {
-            "key": "1080b",
-            "name": "1080P站-B",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.12.90.7:85/api.php/app/"
+            "name": "┃龙龙┃直播MD┃",
+            "type": 0,
+            "url": "./http://shuyuan.miaogongzi.net/shuyuan/1692222434.txt
+",
+            "epg": ""
         },
         {
             "key": "1080c",

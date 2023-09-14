@@ -12,7 +12,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/token.txt"
     },
         {
             "key": "csp_KungFu4041",

@@ -14,6 +14,17 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
+        {
+            "key": "csp_KungFu4041",
+            "name": "┃龙龙┃Token设置┃",
+            "type": 3,
+            "api": "csp_KungFu404",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
+            "jar": "./lib/ali.jar;md5;332d0e5a28640ee88589390ad4a23a39"
+        },
 
 
 

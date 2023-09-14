@@ -4,6 +4,136 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+{
+            "name": "1080P_HDR",
+            "type": 1,
+            "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/3.12.11"
+                }
+            }
+        },
+{
+            "key": "1080b",
+            "name": "1080P站-B",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.90.7:85/api.php/app/"
+        },
+        {
+            "key": "1080c",
+            "name": "1080P站-C",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.iptv.ski/api.php/app/"
+        },
+        {
+            "key": "me_qq",
+            "name": "4KHDR站-B",
+            "type": 1,
+            "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "MX",
+            "name": "4KHDR站-C",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.90.7:86/api.php/app/"
+        },
+        {
+            "key": "yc",
+            "name": "4KHDR站-D",
+            "type": 3,
+            "playerType": 1,
+            "api": "csp_Hdhive",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
+            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
+        },
+        {
+            "key": "腾讯资源",
+            "name": "️腾讯影视",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "战争片",
+                "动作片"
+            ]
+        },
+        {
+            "key": "芒果资源",
+            "name": "️🥭芒果影视",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "战争片",
+                "动作片"
+            ]
+        },
+        {
+            "key": "爱奇艺资源",
+            "name": "️奇艺影视",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片"
+            ]
+        },
+        {
+            "key": "优酷资源",
+            "name": "️优酷影视",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片"
+    ]},
+
+
+
+
+
+
+
+
+
+
+		
 {"key": "MV","name": "哔哩丨MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "clan://TVBox/Bilibili/哔哩MTV.json"},		
 	{
       "key": "555一（APP）",

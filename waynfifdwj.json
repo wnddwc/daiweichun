@@ -23,7 +23,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-            "jar": "./lib/ali.jar;md5;332d0e5a28640ee88589390ad4a23a39"
+            "jar": "http://101.35.48.56/yydd/lib/ali.jar;md5;332d0e5a28640ee88589390ad4a23a39"
         },
 
 

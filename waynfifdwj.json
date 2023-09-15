@@ -74,68 +74,6 @@
                 "喜剧片"
             ]
         },
-        {
-            "key": "js_企鹅",
-            "name": "┃龙龙🐧┃企鹅┃大厂┃",
-            "type": 3,
-            "api": "./duoduo/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./duoduo/js/qtv.js"
-        },
-        {
-            "key": "js_优酷",
-            "name": "┃龙龙🐉┃油库┃大厂┃",
-            "type": 3,
-            "api": "./duoduo/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./duoduo/js/youku.js"
-        },
-        {
-            "key": "drpy_js_360影视",
-            "name": "┃龙龙🐉┃360┃官┃",
-            "type": 3,
-            "api": "./duoduo/drpy2.min.js",
-            "ext": "./duoduo/js/360影视.js"
-        },
-        {
-            "key": "drpy_js_奇珍异兽",
-            "name": "┃龙龙🐉┃奇艺┃官┃",
-            "type": 3,
-            "api": "./duoduo/drpy2.min.js",
-            "ext": "./duoduo/js/奇珍异兽.js"
-        },
-        {
-            "key": "drpy_js_优酷",
-            "name": "┃龙龙🐉┃优酷┃官┃",
-            "type": 3,
-            "api": "./duoduo/drpy2.min.js",
-            "ext": "./duoduo/js/优酷.js"
-        },
-        {
-            "key": "drpy_js_腾云驾雾",
-            "name": "┃龙龙🐉┃腾讯┃官┃",
-            "type": 3,
-            "api": "./duoduo/drpy2.min.js",
-            "ext": "./duoduo/js/腾云驾雾.js"
-        },
-        {
-            "key": "drpy_js_百忙无果",
-            "name": "┃龙龙🐉┃芒果┃官┃",
-            "type": 3,
-            "api": "./duoduo/drpy2.min.js",
-            "ext": "./duoduo/js/百忙无果.js"
-        },
-        {
-            "key": "drpy_js_菜狗",
-            "name": "┃龙龙🐉┃搜狗┃官┃",
-            "type": 3,
-            "api": "./duoduo/drpy2.min.js",
-            "ext": "./duoduo/js/菜狗.js"
-        },
         { 
             "key": "宇宙哥哥", 
             "name": " ┃龙龙🐉┃宇宙┃", 

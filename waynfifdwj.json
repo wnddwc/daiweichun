@@ -142,16 +142,6 @@
             ]
         },
         {
-            "key": "1080b",
-            "name": "┃龙龙🐉┃1080P站┃B┃",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.12.90.7:85/api.php/app/"
-        },
-        {
             "key": "1080c",
             "name": "┃龙龙🐉┃1080P站┃C┃",
             "type": 3,

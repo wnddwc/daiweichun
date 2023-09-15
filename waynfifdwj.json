@@ -212,16 +212,6 @@
                 "type": "rect",
                 "ratio": 1
             },		
-        {
-            "key": "虎牙直播js",
-            "name": "┃龙龙🐯┃虎牙┃直播┃",
-            "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.755
-            }},
 	{
       "key": "555一（APP）",
       "name": "555一（APP）",

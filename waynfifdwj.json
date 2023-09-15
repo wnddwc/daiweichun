@@ -142,45 +142,6 @@
             ]
         },
         {
-            "key": "1080c",
-            "name": "┃龙龙🐉┃1080P站┃C┃",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.iptv.ski/api.php/app/"
-        },
-        {
-            "key": "me_qq",
-            "name": "┃龙龙🐉┃4KHDR站┃B┃",
-            "type": 1,
-            "api": "http://154.12.90.7:90/uploads/itvbox/qq.php",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "MX",
-            "name": "┃龙龙🐉┃4KHDR站┃C┃",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.12.90.7:86/api.php/app/"
-        },
-        {
-            "key": "yc",
-            "name": "┃龙龙🐉┃4KHDR站┃D┃",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_Hdhive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://pan.shangui.cc/f/p5RUL/tk.php",
-            "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/xry.jar"
-        },{
             "key": "影巢",
             "name": "┃龙龙🐉┃影巢┃4k┃",
             "type": 3,

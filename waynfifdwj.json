@@ -152,15 +152,6 @@
             "jar": "http://52bsj.vip:81/api/v3/file/get/168039/wg.jar?sign=SvNrSl_NQF6Vs-AhEAuL37B0tfuz5CpzM3dSFjnA8Lo%3D%3A0"
         },
         {
-            "key": "夜兔资源",
-            "name": "┃龙龙🐉┃夜兔┃4K┃",
-            "type": 1,
-            "api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "天天视频",
             "name": "┃龙龙🐉┃天天┃4K┃",
             "type": 3,
@@ -171,16 +162,6 @@
             "ext": "https://ttsp.live/api.php/app/"
         },
         {
-            "key": "大鹏",
-            "name": "┃龙龙🐉┃大鹏┃4K┃",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://s.ether-mine.com/api.php/app/"
-        },
-        {
             "key": "鸿运当头",
             "name": "┃龙龙🐉┃鸿运┃秒播┃",
             "type": 3,
@@ -189,80 +170,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://jh.dytt996.com:990/api.php/app/"
-        },
-        {
-            "key": "js_在线之家",
-            "name": "┃龙龙🐉┃超前┃影视┃",
-            "type": 3,
-            "api": "./duoduo/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./duoduo/js/zxzj.js"
-        },
-        {
-            "key": "🐿csp_KungFu4041",
-            "name": "┃龙龙🐉┃Token设置┃",
-            "type": 3,
-            "api": "csp_KungFu404",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-            "jar": "./lib/🐿ali.jar;md5;332d0e5a28640ee88589390ad4a23a39"
-        },
-        {
-            "key": "🍮Gitcafe6",
-            "name": "┃龙龙🐉┃纸条搜┃",
-            "type": 3,
-            "api": "csp_Paper",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-            "jar": "./lib/🍮.jar;md5;2098f57bef26b98f7aa655802b5d395c"
-        },
-        {
-            "key": "🍮PanSou6",
-            "name": "┃龙龙🐉┃盘搜索┃",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-            "jar": "./lib/🍮.jar;md5;2098f57bef26b98f7aa655802b5d395c"
-        },
-        {
-            "key": "🐾玩偶",
-            "name": "┃龙龙🐉┃玩偶┃",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "api": "csp_Wogg",
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-            "jar": "./lib/🐾.jar;md5;8f735b6bf0cda5984e8ec2c184fa9cd0"
-        },
-        {
-            "key": "csp_XYQHikerAL_4KHDR",
-            "name": "┃龙龙🐉┃4K┃HDR┃",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./duoduo/json/4KHDR.json"
-        },
-        {
-            "key": "Ikun资源",
-            "name": "┃龙龙😎┃IKUN┃切片┃",
-            "type": 0,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "迪迪",

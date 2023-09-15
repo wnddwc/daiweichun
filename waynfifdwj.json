@@ -42,12 +42,89 @@
         "泰剧"
       ]
     },
-{"key":"qq2k","name":"影视","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://mp4.ghlyys.com/api.php/app/"},
-{
-            "key": "open_kuyun",
-            "name": "酷云77高清",
+        {
+            "key": "csp_乐猪",
+            "name": "乐猪≛影视",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kunyu77_open.js"
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "http://www.lezhutv.com/",
+                "请求头": "手机",
+                "简介": "tbox_js\"&&</div>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "影片类型": "yac\"&&</p>",
+                "数组": "vbox_t item-lazy\"&&</a>",
+                "标题": "title=\"&&\"",
+                "副标题": "<span>&&</span>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "/index.php?m=vod-search;post;wd={wd}",
+                "搜索模式": "1",
+                "搜索后缀": "/detail/",
+                "搜索数组": "vbox_t item-lazy\"&&</a>",
+                "搜索标题": "title=\"&&\"",
+                "搜索副标题": "<span>&&</span>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组": "<h3>&&/h3>[替换:在线视频(支持手机)>>线路]",
+                "线路标题": "</i>1.&&<",
+                "播放数组": "list_block show\">&&</ul>",
+                "播放标题": ">&&</a>",
+                "播放列表": "<li>&&</li>",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+                "分类url": "http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_{class}_{year}_{letter}_{area}_{lang}.html",
+                "key": "by",
+                "name": "排序",
+                "value": [
+                    {
+                        "n": "全部排序",
+                        "v": ""
+                    },
+                    {
+                        "n": "时间排序",
+                        "v": "time"
+                    },
+                    {
+                        "n": "人气排序",
+                        "v": "hits"
+                    },
+                    {
+                        "n": "评分排序",
+                        "v": "score"
+                    }
+                ]
+            }
+        },
+        {
+            "key": "csp_柒月",
+            "name": "柒月≛影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "http://www.9day.cc/",
+                "简介": "剧情：&&aaa",
+                "导演": "导演：&&</a>",
+                "主演": "主演：&&</a>",
+                "影片状态": "集数：&&</div>",
+                "影片类型": "video-tag-icon\">&&立即播放",
+                "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+                "副标题": "module-item-text\">&&</div>",
+                "搜索url": "/index.php/vod/search.html?wd={wd}",
+                "搜索数组": "lazy lazyload\"&&<h3>",
+                "搜索标题": "alt=\"&&\"",
+                "搜索副标题": "<a class=\"video-serial\" *>&&</a>",
+                "线路标题": "<span>&&</small>[替换:本地>>专线#（快）>>(推荐)#</span><small>>>共]+集",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "分类url": "http://www.9day.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
         },
 
 

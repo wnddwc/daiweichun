@@ -4,7 +4,204 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [		
-
+        {
+            "key": "腾讯资源",
+            "name": "️┃龙龙🐉┃腾️讯┃影视┃",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "战争片",
+                "动作片"
+            ]
+        },
+        {
+            "key": "芒果资源",
+            "name": "┃龙龙🐉┃芒果┃影视┃",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "战争片",
+                "动作片"
+            ]
+        },
+        {
+            "key": "爱奇艺资源",
+            "name": "┃龙龙🐉┃奇异┃影视┃",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片"
+            ]
+        },
+        {
+            "key": "优酷资源",
+            "name": "️┃龙龙🐉┃芒果┃影视┃",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片"
+            ]
+        },
+        { 
+            "key": "宇宙哥哥", 
+            "name": " ┃龙龙🐉┃宇宙┃", 
+            "type": 1, 
+            "api": "http://tv.yuzhoukeji.top/app/admin/drpy/lib/qq.php", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1,
+            "playUrl": "json:http://101.200.184.252/yzwd.php?url="
+            
+        },  
+        {
+            "key": "骑骑影院",
+            "name": "┃龙龙🐉┃骑骑┃",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+        },
+        {
+            "key": "drpy_js_荐片",
+            "name": "┃龙龙🐉┃荐片┃ ",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+        },
+        {
+            "key": "csp_速播",
+            "name": "┃龙龙🐉┃采集┃速波2┃",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "大陆剧",
+                "港澳剧",
+                "动漫",
+                "综艺"
+            ]
+        },
+        {
+            "key": "火狐",
+            "name": "┃龙龙🐉┃采集┃火狐┃",
+            "type": 0,
+            "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "电视剧",
+                "电影",
+                "动漫",
+                "综艺"
+            ]
+        },
+        {
+            "key": "1080c",
+            "name": "┃龙龙🐉┃1080P站┃C┃",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.iptv.ski/api.php/app/"
+        },
+        {
+            "key": "鸿运当头",
+            "name": "┃龙龙🐉┃鸿运┃秒播┃",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://jh.dytt996.com:990/api.php/app/"
+        },
+       
+        {
+            "key": "迪迪",
+            "name": "┃龙龙😎┃迪迪┃App┃",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },
+        {
+            "key": "贱贱",
+            "name": "┃龙龙🐭┃贱贱┃p2p┃",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+        },
+        {
+            "key": "哈喽",
+            "name": "┃龙龙✌┃哈喽┃App┃",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
+        {
+            "key": "88js",
+            "name": "┃龙龙⚽┃88┃看球┃",
+            "type": 3,
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "虎牙直播js",
+            "name": "┃龙龙🐯┃虎牙┃直播┃",
+            "type": 3,
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
 
 
 

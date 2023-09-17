@@ -4,6 +4,16 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [		
+{
+        "key": "maolv_open",
+        "name": "影视|毛驴",
+        "type": 3,
+        "api": "csp_Maolv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
+    },	
 	{
       "key": "探探",
       "name": "饭佬影探",

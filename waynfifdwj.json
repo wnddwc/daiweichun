@@ -4,7 +4,31 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-    {
+            {
+            "key": "Freeok",
+            "name": "FOK≛影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {
+                "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;m",
+                "分类": "电影&连续剧&动漫&综艺",
+                "搜索url": "https://www.cupfox.app/s/{wd}",
+                "分类值": "1&2&3&4",
+                "嗅探词": "m3u8#.m3u8#.mp4#mp4",
+                "搜索二次截取": "type=\"application/json\">&&</script>",
+                "搜索数组": "{\"te&&}[包含:freeok]",
+                "搜索图片": "https://s1.ax1x.com/2023/07/13/pChRQaD.jpg",
+                "搜索标题": "xt\":\"&&\"",
+                "搜索链接": "\"url\":\"&&\"",
+                "搜索副标题": "FREEOK",
+                "搜索模式": "1",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "<p>&&</p>"
+            }
+        },
+	{
       "key": "火狐电影",
       "name": "云播火狐电影",
       "type": 1,

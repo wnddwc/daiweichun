@@ -4,7 +4,6 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-{"key":"drpy_js_好趣网","name":"‍好趣网直播","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/好趣网.js"},		
 {"key":"极速","name":"️极速┃资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},		
 {"key":"49","name":"49资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影解说","国产剧","欧美剧","日剧","韩国剧","海外据","台湾剧","香港剧","泰国剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","奇幻片","动画片","日本动漫","欧美动漫","国产动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},		
 {"key": "xml_轻简","name":"轻简☆采集","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫"]},		
@@ -707,7 +706,8 @@
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"热剧天堂","name":"热剧天堂(聚)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}],
+{"key":"drpy_js_好趣网","name":"‍好趣网直播","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/好趣网.js"},				
+{"key":"明帝","name":"明帝","type":1,"api":"http://cj.md214.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}],	
  "parses": [
  {
             "name": "超级并发",

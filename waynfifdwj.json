@@ -38,15 +38,6 @@
       "id": 1528
     },
         {
-            "key": "csp_DouDou",
-            "name": "豆瓣┃本接口免费",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
             "key": "T4荐片",
             "name": "┃豆瓣T4┃备用",
             "type": 4,
@@ -54,17 +45,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-
-
-
-
-
-
-
-
-
-		
+        },	
 	{
       "key": "火狐电影",
       "name": "云播火狐电影",

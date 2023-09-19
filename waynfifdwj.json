@@ -4,6 +4,54 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+{"key" : "csp_appys_空气屋","name" : "空气屋|视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.airtool.vip/xgapp.php/v2/"},
+{"key": "drpy_厂长", "name":"厂长☆资源", "type": 3, "api":"./lib/drpy2.min.js", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/厂长资源.js"},
+        {
+            "key": "看B站",
+            "name": "看B站",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://kanb.tv/Show/{cateId}KKK{class}KKKKK{catePg}KKK{year}.html[http://https://kanb.tv/category/{cateId}.html]",
+                "分类": "电影$Movie#电视剧$lianxuju#综艺$Variety#动漫$bilibili#国产$ChinaComics#番剧$fanju"
+            }
+        },
+{"key": "xml_猫放","name":"猫放☆采集","type": 1,"api": "https://www.mervod.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1,"categories": ["电影","连续剧","综艺","动漫","少儿"]},
+        {
+            "key": "jszy",
+            "name": "极速≛采集",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+            "playUrl":"https://k.playerla.com/?url=",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "内地剧",
+                "动画片",
+                "大陆综艺"
+            ]
+        },
+{"key": "往往","name": "往往影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.oftens.top/oftensshow/{cateId}--------{catePg}---.html","分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
+{ "key": "xml_腾讯采集", "name": "腾讯采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1}, 
+{ "key": "xml_奇艺采集", "name": "奇艺采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/","playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1}, 
+{ "key": "xml_优酷采集", "name": "优酷采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","searchable": 1, "quickSearch": 1, "filterable": 1}, 
+{ "key": "xml_芒果采集", "name": "芒果采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/","playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1},
+
+
+
+
+
+
+
+
+
+
+		
 	{
       "key": "火狐电影",
       "name": "云播火狐电影",

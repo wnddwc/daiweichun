@@ -22,23 +22,10 @@
                 "大陆综艺"
             ]
         },
-{"key": "往往","name": "往往影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "http://www.oftens.top/oftensshow/{cateId}--------{catePg}---.html","分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 { "key": "xml_腾讯采集", "name": "腾讯采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/", "playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1}, 
 { "key": "xml_奇艺采集", "name": "奇艺采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/","playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1}, 
 { "key": "xml_优酷采集", "name": "优酷采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","searchable": 1, "quickSearch": 1, "filterable": 1}, 
 { "key": "xml_芒果采集", "name": "芒果采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/","playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1},
-        {
-            "key": "酷奇MV",
-            "name": "酷奇┃音乐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-                "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-                "数组": "<li>&&</li>",
-                "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
-            }
-        },
     {
       "key": "小姨",
       "name": "业余┃玩偶姨妹",

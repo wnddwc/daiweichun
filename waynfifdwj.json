@@ -4,6 +4,28 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+  {
+      "key": "csp_YYDS",
+      "name": "YYDS┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "站名":"YYDS影视",
+        "主页url":"https://www.yyds.one/",
+        "简介":"video-info-item video-info-content vod_content\">&&</span>",
+        "影片状态":"集数：&&</div>",
+        "影片类型":"video-tag-icon\">&&立即播放",
+        "数组":"module-item-pic\">&&module-item\">",
+        "副标题":"module-item-text\">&&</div>",
+        "搜索url":"/c/-------------.html?wd={wd}",
+        "线路数组":"data-dropdown-value=&&</div>[不包含:七]",
+        "分类url":"https://www.yyds.one/s/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },		
 {"key":"极速","name":"️极速┃资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},		
 {"key":"49","name":"49资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影解说","国产剧","欧美剧","日剧","韩国剧","海外据","台湾剧","香港剧","泰国剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","奇幻片","动画片","日本动漫","欧美动漫","国产动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},		
 {"key": "xml_轻简","name":"轻简☆采集","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫"]},		

@@ -41,7 +41,47 @@
 { "key": "xml_奇艺采集", "name": "奇艺采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/","playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1}, 
 { "key": "xml_优酷采集", "name": "优酷采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","searchable": 1, "quickSearch": 1, "filterable": 1}, 
 { "key": "xml_芒果采集", "name": "芒果采集", "type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/","playUrl": "parse:官解","searchable": 1, "quickSearch": 1, "filterable": 1},
-
+        {
+            "key": "酷奇MV",
+            "name": "酷奇┃音乐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
+                "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
+                "数组": "<li>&&</li>",
+                "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
+            }
+        },
+    {
+      "key": "小姨",
+      "name": "业余┃玩偶姨妹",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "group": "tvbox",
+      "isActive": true,
+      "status": true,
+      "resource": 8483,
+      "id": 1528
+    },
+        {
+            "key": "csp_DouDou",
+            "name": "豆瓣┃本接口免费",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "T4荐片",
+            "name": "┃豆瓣T4┃备用",
+            "type": 4,
+            "api": "https://t4.secan.icu/vod?sites=all",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 
 
 

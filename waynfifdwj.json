@@ -4,34 +4,15 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-{
-        "key": "suoni",
-        "name": "索尼",
-        "type": 3,
-        "api": "./caiji.js",
-        "ext": {
-          "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-          "categories": [
-            "动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "国产剧",
-            "欧美剧",
-            "韩剧",
-            "日剧",
-            "港剧",
-            "台剧",
-            "海外剧",
-            "大陆综艺",
-            "国产动漫"
-          ]
-        }
-      },
-{"key":"快帆","name":"快帆","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod","categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","动作片","动画片","短片","喜剧片","爱情片","科幻片","古装片","历史片","大陆综艺","港台综艺","日韩综艺","国产动漫","欧美动漫","日本动漫"]},
+{ "key":"sp360",
+      "name":"360影视|解析",
+      "type":3,
+      "api":"csp_Sp360",
+      "searchable":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "./920.jar"
+    },
 {"key": "xml_大漠","name":"大漠☆资源","type":1,"api":"https://damozy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable": 1,"categories":["热门短剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪篇","奇幻片","冒险片","纪录片","伦理片","国产剧","香港剧","台湾剧","韩国剧","日本剧","美国剧","泰剧","动画片","国产动漫","日韩动漫","欧美动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"csp_Aid","name":"急救指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},
 "jar":"https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"},

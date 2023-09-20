@@ -4,6 +4,71 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+
+{"key": "csp_XBPQ_全看","name":"全看☆影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":  {
+"简介":"class=\"panel play_content\"&&</div>", 
+"倒序":"0",       
+"链接":"/play/+/detail/&&.html+-1-1.html",         
+"线路数组":"class=\"tab-play&&</li>",
+"线路标题":"&nbsp;&&</span>[排序:移动①播放源>联通①线>电信①播放源]",    
+"分类url":"https://www.quankanw.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html" ,
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{
+            "key": "csp_SP360",
+            "name": "360≛官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "",
+                "站名": "360影视",
+                "主页url": "http://我不是.肥猫.love:63/cainisi//",
+                "请求头": "cainisi",
+                "强制解析": "1",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "http://我不是.肥猫.love:63/cainisi/fl.php?id={cateId}&pg={catePg}&cat={class}&year={year}&area={area}&rank={by}&act={act}",
+                "数组": "数组=&&=数组",
+                "图片": "图片=\"&&\"",
+                "标题": "标题=\"&&\"",
+                "链接": "链接=\"&&\"",
+                "副标题": "副标题=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "ss.php?wd={wd}",
+                "搜索数组": "数组=&&=数组",
+                "搜索图片": "图片=\"&&\"",
+                "搜索标题": "标题=\"&&\"",
+                "搜索链接": "链接=\"&&\"",
+                "搜索副标题": "副标题=\"&&\"",
+                "影片年代": "年份=\"&&\"",
+                "影片地区": "地区=\"&&\"",
+                "影片类型": "类型=\"&&\"",
+                "导演": "导演=\"&&\"",
+                "主演": "主演=\"&&\"",
+                "简介": "简介=\"&&\"",
+                "线路数组": "线路数组=&&=线路数组[不包含:douyin]",
+                "线路标题": "线路标题=\"&&\"",
+                "播放数组": "播放数组=&&=播放数组",
+                "播放列表": "播放列表=&&=播放列表",
+                "播放标题": "播放标题=\"&&\"",
+                "播放链接": "播放链接=\"&&\""
+            }
+        },
+{"key":"csp_Aid","name":"急救指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio": 3.8},
+"jar":"https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"},
+{"key": "xml_快看","name": "️快看☆采集","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable": 1,"categories":["网络电影","动画电影","动作片","冒险片","剧情片","纪录片","喜剧片","奇幻片",
+"恐怖片","悬疑片","惊悚片","战争片","灾难片","爱情片","科幻片","犯罪片","伦理片","国产剧","港台剧","日本剧","韩国剧","欧美剧","新马剧","泰剧","其他剧","国产综艺","港台综艺","日本综艺","韩国综艺","欧美综艺","国产动漫","港台动漫","日本动漫","欧美动漫"]},
+{"key":"ngapp","name":"南瓜影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://tvbox.top/lib/drpy2.min.js","ext":"http://tvbox.top/js/ng.js"},
+
+
+		
 {"key":"星辰","name":"简影星辰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttsp.live/api.php/app/"},
 {"key": "csp_XBPQ_魔方", "name": "魔方☆影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":  {"分类url": "https://www.mfys.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}","分类": "电影$3#电视剧$1#动漫$5#综艺$2"}},		
 {"key":"极速","name":"️极速┃资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},		

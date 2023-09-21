@@ -28,6 +28,16 @@
       "ext": "你的token",
       "jar": "http://101.200.184.252/神秘的宇宙哥哥"
     },
+    {
+            "key": "MV_vod",
+            "name": "音乐视频丨接口",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
 
 
 

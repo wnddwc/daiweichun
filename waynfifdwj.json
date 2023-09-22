@@ -5,6 +5,16 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
 {
+            "key": "MGT",
+            "name": "┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_MGTV",
+            "searchable": 1,
+            "quickSearch": 1,
+			"jar": "./jar/MGTV.jar",
+            "filterable": 1
+        },		
+{
         "key": "yqkan_open",
         "name": "一起看",
         "type": 3,

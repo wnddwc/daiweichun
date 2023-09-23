@@ -4,8 +4,6 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
-{"key":"xml_快帆","name":"快帆☆采集","type":1,"api":"https://api.kuaifan.tv/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"changeable":1,"categories":["国产剧",
-"短片","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺"]},
 {"key":"fuzhai","name": "腐宅",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -16,8 +14,6 @@
             "changeable": 0,
             "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
 },
-{"key": "xml_四九","name":"49☆采集","type": 1,"api": "https://49zyw.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"changeable":1,"categories": ["电影解说","动作片","喜剧片","爱情片","剧情片","科幻片",
-"恐怖片","战争片","灾难片","悬疑片","犯罪片","奇幻片","纪录片","其他片","国产剧","香港剧","台湾剧","日剧","韩国剧","欧美剧","泰国剧","海外据","动画片","国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},		
 {
         "key": "yqkan_open",
         "name": "一起看",

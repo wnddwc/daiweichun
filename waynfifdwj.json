@@ -4,6 +4,68 @@
 	"lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]}]}],
 	"sites": [
+{
+"name": " 天堂",
+"type": 3,
+"api": "https://qu.ax/ZLLo.js",
+"ext": "http://dytt996.com/api.php/app/"
+},
+{
+                "key": "shijie",
+                "name": " 视界",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://www.1080dyw.cc/api.php/v1.vod"
+            },
+            {
+                "key": "69mj",
+                "name": " 美剧",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://www.69mj.com/xgapp.php/v2/"
+            },
+            {
+                "key": "aidi",
+                "name": " 爱迪",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://api123.adys.app/xgapp.php/v3/"
+            },
+            {
+                "key": "hello",
+                "name": " 哈喽",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://www.miniku.cc/xgapp.php/v1/"
+            },
+            {
+                "key": "beijihu",
+                "name": " 极狐",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://www.kuin.one/api.php/app/"
+            },
+            {
+                "key": "kuku",
+                "name": " 酷酷",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://cms.realdou.cn:35264/api.php/app/"
+            },
+            {
+                "key": "kuk",
+                "name": " 天堂1",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "http://dytt996.com/api.php/app/"
+            },
+            {
+                "key": "kku",
+                "name": " 酷影",
+                "type": 3,
+                "api": "https://qu.ax/ZLLo.js",
+                "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+            },		
 {"key":"fuzhai","name": "腐宅",
             "type": 3,
             "api": "csp_AppYsV2",

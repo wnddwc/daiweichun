@@ -1,4 +1,5 @@
 电影,#genre#
+我是大赢家,http://cdn.bigwinner.fulantv.com/video/nnjYhzH43n.mp4
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
 神乐影片2,http://epg.112114.xyz/douyu/85894

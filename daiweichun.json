@@ -4,12 +4,11 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]}]}],	
 	"sites": [
-	{
+{
 "key": "红袖资源",
 "name": "红袖资源",
 "type": 0,
-"api": "https://hongxiuzy.com/api.php/provide/vod/?ac=list
-",
+"api": "https://hongxiuzy.com/api.php/provide/vod/?ac=list",
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0

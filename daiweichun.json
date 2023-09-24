@@ -7,11 +7,12 @@
 {
 "key": "红袖资源",
 "name": "红袖资源",
-"type": 0,
+"type": 1,
 "api": "https://hongxiuzy.com/api.php/provide/vod/?ac=detail",
 "searchable": 1,
 "quickSearch": 1,
-"filterable": 0
+"filterable": 1,
+"playUrl": "https://play.hongxiuzybofang.com/index/analysis?url="
 },
 {
       "key": "富二代资源",

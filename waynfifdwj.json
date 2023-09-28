@@ -16,16 +16,6 @@
   ],
   "sites": [
     {
-      "key": "Alist",
-      "name": "️┃龙龙🐉┃Alist┃",
-      "type": 3,
-      "api": "http://154.8.204.57:40047/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://154.8.204.57:40047/tvbox/json/alist.json;200;video"
-    },
-    {
       "key": "A8",
       "name": "A8影视",
       "type": 3,

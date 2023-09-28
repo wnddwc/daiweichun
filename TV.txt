@@ -1,9 +1,5 @@
 电影,#genre#
 长空之王,https://txmov2.a.kwimgs.com/bs3/video-hls/5203346526596013345_hlsb.m3u8
-黑梅电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-好莱坞电影,https://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-爱经典,https://epg.pw/stream/e47f56c845e5731b8c804f71c7009a51efd50e891ce7c1dd5972f02aba081a2c.m3u8
-喋血战士,https://jx1.xn--ehqyc479ka.cn/player/Cache/liangzi/b7a94d75e6b39633c1498efd185079de.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 🎸音乐,#genre#
 背叛情歌,https://vd2.bdstatic.com/mda-nd9g7g9pdc9d06hz/sc/cae_h264_delogo/1649669454990045825/mda-nd9g7g9pdc9d06hz.mp4

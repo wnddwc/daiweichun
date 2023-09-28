@@ -15,43 +15,6 @@
     }
   ],
   "sites": [
-       {
-      "key": "Alist",
-      "name": "️┃龙龙🐉┃Alist┃",
-      "type": 3,
-      "api": "http://154.8.204.57:40214/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://154.8.204.57:40214/tvbox/json/alist.json;200;video"
-    },
-    {
-      "key": "Alist1",
-      "name": "️┃龙龙🐉┃我的收藏┃",
-      "type": 3,
-      "api": "http://154.8.204.57:40214/tvbox/libs/alist.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://154.8.204.57:40214/tvbox/json/myalist.json;200;video"
-    },
-        {
-      "key": "搜狗",
-      "name": "┃龙龙🐉┃搜狗┃官┃",
-      "type": 3,
-      "api": "./YSC/lib/drpy2.min.js",
-      "ext": "./YSC/lib/caigou.js"
-    },
-    {
-      "key": "360",
-      "name": "┃龙龙🐉┃360┃官┃",
-      "type": 3,
-      "api": "csp_360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "./荷城茶秀/HeChengChaXiu.jar"
-    },
     {
       "key": "A8",
       "name": "A8影视",
@@ -562,6 +525,16 @@
         "日剧",
         "泰剧"
       ]
+    },
+    {
+      "key": "Alist",
+      "name": "️┃龙龙🐉┃Alist┃",
+      "type": 3,
+      "api": "http://154.8.204.57:40214/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://154.8.204.57:40214/tvbox/json/alist.json;200;video"
     },
     {
       "key": "腾讯资源",

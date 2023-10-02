@@ -26,6 +26,14 @@
       "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
     },
     {
+            "key": "drpy_喜马拉雅",
+            "name": "喜马拉雅",
+            "type": 3,
+            "api": "https://agit.ai/qi169/kankan/raw/branch/master/drpy2.min.js",
+            "ext": "https://agit.ai/qi169/kankan/raw/branch/master/js/喜马拉雅.js"
+  },
+
+    {
       "key": "csp_XYQHiker4klg",
       "name": "原盘4k",
       "type": 3,

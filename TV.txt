@@ -953,8 +953,7 @@ DJ舞曲,https://vdse.bdstatic.com//8258cbe0dfd6738613fe9efd33a7a83f.mp4
 疯疯疯,https://vd3.bdstatic.com/mda-ndk6wn1pf4bf8uye/480p/h264_delogo/1650516770231448538/mda-ndk6wn1pf4bf8uye.mp4
 真心太难求,https://vdse.bdstatic.com//19652aae08e5960c7ec9694e87e0d1f0.mp4
 DJ此生已过半,https://vd3.bdstatic.com/mda-mdaprhx095djift2/hd/mda-mdaprhx095djift2.mp4
-传统文化,#genre#
-国学影视 ,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
+阿弥陀佛,#genre#
 佛陀1,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 佛陀2,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 佛陀3,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b

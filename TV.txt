@@ -1,4 +1,5 @@
 电影,#genre#
+国学影视 ,https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
 长空之王,https://txmov2.a.kwimgs.com/bs3/video-hls/5203346526596013345_hlsb.m3u8
 电影轮播,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 🎸音乐,#genre#

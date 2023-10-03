@@ -1358,7 +1358,7 @@ CHC家庭影院_2.5M1080HEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/
 西藏卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?AuthInfo=Kgq9oZls%2F0LFdnWkV6XKjcemen%2FrJ13GEDfSTzbh7UxUrQNs2He4Jft322wTZAuZeUodzEZrZcXcJKDD6r3Z2A%3D%3D
 内蒙古卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?AuthInfo=7lAOfreToIabkYEBYF1%2BWCg%2BFJmNHniNGz9lIf%2FFuMRNPINSc7cKQZCTuuz5ZoufoEYBG34BsDXZsLnY%2B%2BGcEw%3D%3D
 兵团卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
-台湾推流,#genre#
+cn台湾推流,#genre#
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -1398,7 +1398,7 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 八大戏剧,http://us.dispatch.ulivetv.net/v/live/cg0izlj1gqtc.m3u8?stream_id=cg0izlj1gqtc&token=&uid=&abtimeshift=1696327294-&appid=6fd0866dffd24341c680ed4a5417bdca&cid=9cda64ea4e6c9945c39ecd9964b4e5f4&cver=1160&cip=124.160.210.218&geo=CN.11.87.2&ostype=android&osver=12&vendor=XIAOMI&brand=REDMI&model=M2007J17C&uuid=0e27def3144c01556810bef9019a7bba&stm=1696327319&ltm=1696327320&netype=2&sand=89a20307&ckey=NGVkYzhhZTQ0YTYzMjVmOTJlM2M2NzM4YjAxMzRlYzA%3D&sign=a81b549d95c07b737539c188d06d9d42&key=4911407f&authkey=YTgxYjU0OWQ5NWMwN2I3Mzc1MzljMTg4ZDA2ZDlkNDI%3D&hc=&rc=&isAbtimeshift=0
 中天娱乐,http://us.dispatch.ulivetv.net/v/live/cg0iacfwayf4.m3u8?stream_id=cg0iacfwayf4&token=&uid=&abtimeshift=1696327362-&appid=6fd0866dffd24341c680ed4a5417bdca&cid=9cda64ea4e6c9945c39ecd9964b4e5f4&cver=1160&cip=124.160.210.218&geo=CN.11.87.2&ostype=android&osver=12&vendor=XIAOMI&brand=REDMI&model=M2007J17C&uuid=0e27def3144c01556810bef9019a7bba&stm=1696327371&ltm=1696327372&netype=2&sand=948bbb10&ckey=ZGE3ZDcyNjUxZWM3YTQxYjc4MjllNjQ2ZGIxZjllNjA%3D&sign=6322404bf3402bebf310ab286e41d384&key=133de216&authkey=NjMyMjQwNGJmMzQwMmJlYmYzMTBhYjI4NmU0MWQzODQ%3D&hc=&rc=&isAbtimeshift=0
 美亚电影,http://us.dispatch.ulivetv.net/v/live/cl7cpvwwclog.m3u8?stream_id=cl7cpvwwclog&token=&uid=&abtimeshift=1696327407-&appid=6fd0866dffd24341c680ed4a5417bdca&cid=9cda64ea4e6c9945c39ecd9964b4e5f4&cver=1160&cip=124.160.210.210&geo=CN.11.87.2&ostype=android&osver=12&vendor=XIAOMI&brand=REDMI&model=M2007J17C&uuid=0e27def3144c01556810bef9019a7bba&stm=1696327416&ltm=1696327417&netype=2&sand=32e834de&ckey=ZmZhNGZlYzI0N2VkNmQ4MTc1MDI1ZmIwYWY5NmYwZjk%3D&sign=b1603cbeefeb024cac922e829dfcaf50&key=83459588&authkey=YjE2MDNjYmVlZmViMDI0Y2FjOTIyZTgyOWRmY2FmNTA%3D&hc=&rc=&isAbtimeshift=0
-台湾,#genre#
+cn台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/67614555f2e0493aa68a4912bbc3ca32
 台视,mitv://generationnexxxt.com:19806/7e96091d946f478fbd7b2d04d35253ce
 大爱,mitv://generationnexxxt.com:19806/040bf47fdbea454b8b1dc1aae5bd8bd0

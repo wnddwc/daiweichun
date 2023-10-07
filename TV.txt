@@ -1364,99 +1364,11 @@ CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 TheWeatherNetwork,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 TheWeatherChannel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 KOMO4TV,mitv://generationnexxxt.com:19806/d09839dc0ae84712bb24938c634626fe
-🇰🇭巴西,#genre#
-TV Globo,http://45.58.126.146:14008
-TV Globo,http://45.58.126.146:14011
-TV Globo,http://45.58.126.146:14014
-TV Globo,http://45.58.126.146:14020
-TV Globo,http://45.58.126.146:14039
-TV Globo,http://45.58.126.146:14044
-TV Globo,http://45.58.126.146:14046
-TV Globo,http://45.58.126.146:14049
-TV Globo,http://45.58.126.146:14053
-TV Globo,http://45.58.126.146:14055
-TV Globo,http://45.58.126.146:14057
-TV Globo,http://45.58.126.146:14066
-TV Globo,http://45.58.126.146:14070
-TV Globo,http://45.58.126.146:14079
-TV Globo,http://45.58.126.146:14085
-TV Globo,http://45.58.126.146:14090
-SBT,http://45.58.126.146:14123
-SBT,http://45.58.126.146:14126
-SBT,http://45.58.126.146:14129
-SBT,http://45.58.126.146:14131
-Formula 1,http://45.58.126.146:14140
-Formula 1,http://45.58.126.146:14144
-Formula 1,http://45.58.126.146:14148
-Record TV,http://45.58.126.146:14153
-TV Globo,http://45.58.126.146:14155
-Record TV,http://45.58.126.146:14158
-Record TV,http://45.58.126.146:14166
-Cartoon Network,http://45.58.126.146:14197
-Cartoonito,http://45.58.126.146:14200
-Discovery Kids,http://45.58.126.146:14203
-Gloob,http://45.58.126.146:14209
-Nick Jr.,http://45.58.126.146:14212
-Nickelodeon,http://45.58.126.146:14215
-BandNews,http://45.58.126.146:14231
-CNN Brasil,http://45.58.126.146:14234
-GloboNews,http://45.58.126.146:14238
-Jovem Pan News,http://45.58.126.146:14241
-Discovery+,http://45.58.126.146:14249
-Discovery Channel,http://45.58.126.146:14252
-Discovery Home & Health,http://45.58.126.146:14255
-Investigation Discovery,http://45.58.126.146:14258
-Discovery Science,http://45.58.126.146:14261
-Discovery HD Theater,http://45.58.126.146:14264
-Discovery Turbo,http://45.58.126.146:14267
-TLC,http://45.58.126.146:14270
-Discovery HD World,http://45.58.126.146:14273
-History,http://45.58.126.146:14281
-H2,http://45.58.126.146:14284
-National Geographic,http://45.58.126.146:14287
-A&E,http://45.58.126.146:14293
-AMC,http://45.58.126.146:14296
-AXN,http://45.58.126.146:14299
-Sony Channel,http://45.58.126.146:14302
-Sony Channel,http://45.58.126.146:14303
-Cinemax,http://45.58.126.146:14305
-Comedy Central,http://45.58.126.146:14308
-FX,http://45.58.126.146:14311
-Lifetime,http://45.58.126.146:14314
-Megpix,http://45.58.126.146:14317
-Paramount Network,http://45.58.126.146:14320
-Space TV,http://45.58.126.146:14323
-n/a,http://45.58.126.146:14326
-Star Channel,http://45.58.126.146:14329
-Studio Universal,http://45.58.126.146:14332
-SYFY,http://45.58.126.146:14335
-TBS,http://45.58.126.146:14338
-TNT Sports,http://45.58.126.146:14341
-TNT Sports,http://45.58.126.146:14342
-TNT Series,http://45.58.126.146:14345
-Universal TV,http://45.58.126.146:14348
-Warner,http://45.58.126.146:14351
-Telecine Action,http://45.58.126.146:14354
-Paramount+,http://45.58.126.146:14510
-HardBlog,http://45.58.126.146:14525
-n/a,http://45.58.126.146:14533
-n/a,http://45.58.126.146:14552
-HardBlog,http://45.58.126.146:14554
-HardBlog,http://45.58.126.146:14555
-HardBlog,http://45.58.126.146:14556
-HardBlog,http://45.58.126.146:14562
-HardBlog,http://45.58.126.146:14598
-n/a,http://45.58.126.146:14600
-Combat! ,http://45.58.126.146:14668
-BBB,http://45.58.126.146:14710
-Futebol ,http://45.58.126.146:14714
 🇨🇳｜电视家源,#genre#
-
 音乐欣赏,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 美食李子柒,http://lxajh.top/tv/douyu.php?id=2901080
 小莉帮忙,http://media2.hndt.com/data_01/1/3/2023/01/15/1f2b16f5ca922e4f442d54b7ea6c9643.mp4
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
-
 🇨🇳｜历年春晚,#genre#	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4	

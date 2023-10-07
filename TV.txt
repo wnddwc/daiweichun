@@ -2035,27 +2035,6 @@ CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 电影_死神来了,http://8.210.232.168/php/huya.php?id=11352903
 电影_变形金刚,http://8.210.232.168/php/huya.php?id=21059596
 电影_怪兽系列,http://8.210.232.168/php/huya.php?id=21059554
-🛰️测试,#genre#
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,https://pi.0472.org/tv/fct.php?auth=230918
-翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-29486908-d4a6-407e-b02c-58532359ae33.flv?by=yeslivetv.com
-J2,https://pull-f5-spe.ixigua.com/live/YesLiveTV-49d07bbf-7352-4a1e-9ded-9b91e96ec441.flv?by=yeslivetv_com
-明珠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-828c8012-d399-44b6-81bb-7d47bb37cc1a.flv?by=yeslivetv_com
-無綫新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-37935e09-d5dd-4c26-dfc2-ce8de2275212.flv?by=yeslivetv.com
-無綫財經,https://pull-f5-spe.ixigua.com/live/YesLiveTV-8446f0d8-3c55-2448-5042-b8477c683a1f.flv?by=yeslivetv.com
-香港国际财经,https://pull-f5-spe.ixigua.com/live/YesLiveTV-619ff898-81e2-4050-8a0f-ac917b7df41a.flv?by=yeslivetv.com
-Hoy资讯,https://pull-f5-spe.ixigua.com/live/YesLiveTV-65c3bac4-5e0f-4a48-99d1-a2d21eefb61f.flv?by=yeslivetv.com
-HoyTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-21c17c48-dec2-451d-9350-6aa510ff6207.flv?by=yeslivetv.com
-ViuTV,https://pull-f5-spe.ixigua.com/live/YesLiveTV-669bba1e-5e46-4903-86f3-e7f269507193.flv?by=yeslivetv.com
-TVBS新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-420f0c81-6b9f-43fd-95af-6b3d352fafd0.flv?by=yeslivetv.com
-东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-99e04f4f-93d6-4e46-bfc2-52e9101c155e.flv?by=yeslivetv.com
-年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv_com
-衛視中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-27a0b421-ffd6-496f-a58f-ea6e562fa6c0.flv?by=yeslivetv.com
-东森新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-54dbfee5-5841-4fa4-940b-732890350393.flv?by=yeslivetv_com
-年代新聞,https://pull-f5-spe.ixigua.com/live/YesLiveTV-738e0ad5-96a9-460b-b163-c4c4c8346a29.flv?by=yeslivetv_com
-衛視中文,https://pull-f5-spe.ixigua.com/live/YesLiveTV-27a0b421-ffd6-496f-a58f-ea6e562fa6c0.flv?by=yeslivetv.com
 🎸音乐,#genre#
 遇上你是我的缘,https://vd3.bdstatic.com/mda-jmqi19pvavxyuh5r/hd/mda-jmqi19pvavxyuh5r.mp4
 背叛情歌,https://vd2.bdstatic.com/mda-nd9g7g9pdc9d06hz/sc/cae_h264_delogo/1649669454990045825/mda-nd9g7g9pdc9d06hz.mp4

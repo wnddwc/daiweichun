@@ -15,13 +15,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "js_v2-yj",
-      "name": "苹果",
-      "type": 3,
-      "api": "./js/drpy2.js",
-      "ext": "./js/小苹果.js"
-    },
     {"key":"csp_XBPQTVB影视","name":"极速","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/63303/TVB%E4%BA%91%E6%92%AD%28xBPQ%29.json?sign=D7u6b1vB57heVQdexskilQyAnu6CAOY0J1gIxm0wDvs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/61833/xBPQ_1106.jar?sign=OVzxP6WlxeCthygathb2n4nXosg5HkE6NM9vkf3IFVk%3D%3A0"},
     {"key":"酷影","name":"酷影┃影视","type":3,"api":"http://ck.realdou.cn/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ck.realdou.cn/JS/js/酷影蓝光.js"},
     {

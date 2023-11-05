@@ -15,7 +15,6 @@
     }
   ],
   "sites": [
- {"key": "csp_SP2345",  "name": "┃☛2345影视☚┃",  "type": 3,  "api": "csp_SP2345", "searchable": 1,  "quickSearch": 1, "filterable": 1,  "playerType":2,"jar": "./tvbox/jar/zzg.jar"  },
    {
       "key": "A8",
       "name": "A8影视",

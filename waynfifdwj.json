@@ -14,7 +14,19 @@
       ]
     }
   ],
-  "sites": 
+  "sites": [
+      {
+            "key": "csp_SP2345",
+            "name": "┃SP┃2345影视",
+            "type": 3,
+            "api": "csp_SP2345",
+			"playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"file://JS/Gtok/官源.jar"
+        },
+{"key":"csp_小鱼影视","name":"小鱼影视","type":1,"api":"http://你的cms地址/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0"},
    {
       "key": "A8",
       "name": "A8影视",

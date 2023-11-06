@@ -15,16 +15,8 @@
     }
   ],
   "sites": [
-                   {
-            "key": "js 77",
-            "name": "酷云77",
-            "type": 3,
-            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/酷云77.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
+    
    {
       "key": "A8",
       "name": "A8影视",

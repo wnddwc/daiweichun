@@ -39,45 +39,6 @@
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
-      "key": "极光",
-      "name": "极光",
-      "type": 1,
-      "api": "https://www.jiguang008.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "电影片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "悬疑片",
-        "犯罪篇",
-        "奇幻片",
-        "冒险片",
-        "纪录片",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "美国剧",
-        "泰剧",
-        "动画片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
       "key": "宅腐APP",
       "name": "宅腐┃APP",
       "type": 3,
@@ -531,28 +492,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "csp_wogg_cli",
-      "name": "俊于 | 玩偶[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "timeout": 30
-    },
-    {
-      "key": "小纸条_cli",
-      "name": "俊于 | 小纸条[T4]",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "timeout": 30
-    },
-    {
       "key": "MV_vod",
       "name": "MV | 卡拉OK",
       "type": 1,
@@ -729,27 +668,6 @@
         "动漫",
         "综艺"
       ]
-    },
-    {
-      "key": "csp_woggcli",
-      "name": "‍┃玩偶┃磁力",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/token.txt"
-    },
-    {
-      "key": "csp_KungFu4041",
-      "name": "Token设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-      "jar": "http://101.35.48.56/yydd/lib/ali.jar;md5;332d0e5a28640ee88589390ad4a23a39"
     },
     {
       "key": "xgapp",

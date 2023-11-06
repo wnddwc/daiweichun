@@ -15,6 +15,16 @@
     }
   ],
   "sites": [
+                   {
+            "key": "js 77",
+            "name": "酷云77",
+            "type": 3,
+            "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+            "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/酷云77.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
    {
       "key": "A8",
       "name": "A8影视",

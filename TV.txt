@@ -1,4 +1,4 @@
-中国台湾,#genre#
+台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/097f5c26e07342108fdbc51ad4a716a3
 台视,mitv://generationnexxxt.com:19806/2bc7114bdf304bf6b77f77e2597abd37
 大爱1台,mitv://generationnexxxt.com:19806/5d227dc7e52e43928f02ef2b2d60f7d7

@@ -14,6 +14,47 @@
     }
   ],
   "sites": [
+    {
+            "key": "csp_qq",
+            "name": "┃SP┃腾讯视频",
+            "type": 3,
+            "api": "csp_qq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"file://JS/Gtok/官源.jar"
+        },
+        {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
+        {
+            "key": "csp_iqiyi",
+            "name": "┃SP┃奇艺影视",
+            "type": 3,
+            "api": "csp_iqiyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"file://JS/Gtok/官源.jar"
+        },
+        {
+            "key": "csp_mgtv",
+            "name": "┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"file://JS/Gtok/官源.jar"
+        },
+		{
+            "key": "csp-youku",
+            "name": "┃SP┃优酷电影",
+            "type": 3,
+            "api": "csp_youku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"file://JS/Gtok/官源.jar"
+        },
         {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
    {
       "key": "A8",

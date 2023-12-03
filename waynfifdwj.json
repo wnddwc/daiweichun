@@ -22,9 +22,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"file://JS/Gtok/官源.jar"
+            "jar":"https://github.com/wnddwc/daiweichun/blob/main/%E5%AE%98%E6%BA%90.jar"
         },
-        {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
         {
             "key": "csp_iqiyi",
             "name": "┃SP┃奇艺影视",
@@ -33,7 +32,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"file://JS/Gtok/官源.jar"
+            "jar":"https://github.com/wnddwc/daiweichun/blob/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_mgtv",
@@ -43,7 +42,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"file://JS/Gtok/官源.jar"
+            "jar":"https://github.com/wnddwc/daiweichun/blob/main/%E5%AE%98%E6%BA%90.jar"
         },
 		{
             "key": "csp-youku",

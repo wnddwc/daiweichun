@@ -33,7 +33,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://github.com/wnddwc/daiweichun/blob/main/%E5%AE%98%E6%BA%90.jar"
+            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_iqiyi",
@@ -43,7 +43,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://github.com/wnddwc/daiweichun/blob/main/%E5%AE%98%E6%BA%90.jar"
+            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_mgtv",
@@ -53,7 +53,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://github.com/wnddwc/daiweichun/blob/main/%E5%AE%98%E6%BA%90.jar"
+            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
 		{
             "key": "csp-youku",
@@ -63,7 +63,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"file://JS/Gtok/官源.jar"
+            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
    {

@@ -22,8 +22,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "",
-            "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
+            "ext": "",           "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
         },
     {
             "key": "csp_qq",
@@ -32,8 +31,7 @@
             "api": "csp_qq",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+            "filterable": 1,        https://mirror.ghproxy.com/"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_iqiyi",
@@ -42,8 +40,7 @@
             "api": "csp_iqiyi",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+            "filterable": 1,           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {
             "key": "csp_mgtv",
@@ -52,8 +49,7 @@
             "api": "csp_mgtv",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+            "filterable": 1,            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
 		{
             "key": "csp-youku",
@@ -62,8 +58,7 @@
             "api": "csp_youku",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+            "filterable": 1,                           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
         {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
    {

@@ -1385,7 +1385,15 @@
     }
   ],
 "parses": [
-        {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url=
+        {"name":"小鱼解析1","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url=
+"},
+{"name":"小鱼解析2","type":1,"url":"http://json.84jia.com/player/?uid=12177641&key=bcfiovwCGJQSW23478&url=
+"},
+{"name":"小鱼解析3","type":1,"url":"http://json.84jia.com/home/api?type=app&uid=12177641&key=bcfiovwCGJQSW23478&url=
+"},
+{"name":"小鱼解析4","type":1,"url":"http://json.84jia.com/home/api?type=jxsq&uid=12177641&key=bcfiovwCGJQSW23478&url=
+"},
+{"name":"小鱼解析5","type":1,"url":"http://json.84jia.com/home/xycj?uid=12177641&key=bcfiovwCGJQSW23478&url=cj
 "}
 
     ],

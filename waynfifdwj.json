@@ -112,15 +112,6 @@
       "ext": "http://154.12.21.186/api.php/app/"
     },
     {
-      "key": "MV_vod",
-      "name": "音乐视频丨接口",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "xml_大漠",
       "name": "大漠☆资源",
       "type": 1,

@@ -14,26 +14,6 @@
     }
   ],
   "sites": [
-	      {
-      "key": "橘子",
-      "name": "┃橘子┃影视",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-    },
-	  {
-            "key": "360_spider",
-            "name": "360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "",           "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
-        },
     {
             "key": "csp_qq",
             "name": "┃SP┃腾讯视频",
@@ -43,6 +23,16 @@
             "quickSearch": 1,
             "filterable": 1,
 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        },
+	   {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",           "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
         },
         {
             "key": "csp_iqiyi",
@@ -71,17 +61,6 @@
             "quickSearch": 1,
             "filterable": 1,                           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
         },
-        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
-   {
-      "key": "A8",
-      "name": "A8影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
-    },
     {
       "key": "宅腐APP",
       "name": "宅腐┃APP",

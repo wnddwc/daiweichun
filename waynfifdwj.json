@@ -44,7 +44,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "",           "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
+            "ext": "",           
+	  "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
         },
         {
             "key": "csp_iqiyi",

@@ -1076,7 +1076,7 @@
     }
   ],
 "parses": [
-          {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="}
+          {"name":"小鱼解析","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=12177641&key=bcfiovwCGJQSW23478&url="},
            {
          "name": "Web并发",
             "type": 3,

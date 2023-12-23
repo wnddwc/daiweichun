@@ -15,17 +15,6 @@
     }
   ],
   "sites": [
-        {"key":"T4_bookreader","name":"T4有声小说","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
-   {
-      "key": "A8",
-      "name": "A8影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
-    },
     {
       "key": "宅腐APP",
       "name": "宅腐┃APP",
@@ -64,55 +53,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://154.12.21.186/api.php/app/"
-    },
-    {
-      "key": "MV_vod",
-      "name": "音乐视频丨接口",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xml_大漠",
-      "name": "大漠☆资源",
-      "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "热门短剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "悬疑片",
-        "犯罪篇",
-        "奇幻片",
-        "冒险片",
-        "纪录片",
-        "伦理片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "美国剧",
-        "泰剧",
-        "动画片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
     },
     {
       "key": "csp_Aid",
@@ -172,16 +112,6 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },
-    {
-      "key": "ngapp",
-      "name": "南瓜影视",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "http://tvbox.top/lib/drpy2.min.js",
-      "ext": "http://tvbox.top/js/ng.js"
     },
     {
       "key": "极速",
@@ -308,19 +238,8 @@
       "filterable": 1
     },
     {
-      "key": "小姨",
-      "name": "业余┃玩偶姨妹",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "group": "tvbox",
-      "isActive": true,
-      "status": true,
-      "resource": 8483,
-      "id": 1528
-    },
-    {
       "key": "火狐电影",
-      "name": "云播火狐电影",
+      "name": "火狐电影",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list",
       "searchable": 1,
@@ -397,16 +316,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "maolv_open",
-      "name": "毛驴影视",
-      "type": 3,
-      "api": "csp_Maolv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"
     },
     {
       "key": "腾讯资源",
@@ -505,51 +414,6 @@
       ]
     },
     {
-      "key": "火狐",
-      "name": "┃龙龙🐉┃采集┃火狐┃",
-      "type": 0,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "电视剧",
-        "电影",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
-      "key": "哈喽",
-      "name": "┃龙龙✌┃哈喽┃App┃",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "555一（APP）",
-      "name": "555一（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://555dy3.com/api.php/app/"
-    },
-    {
-      "key": "旧梦影视（APP）",
-      "name": "旧梦影视（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://43.139.139.17:4433/api.php/app/"
-    },
-    {
-      "key": "大米星球（APP）",
-      "name": "大米星球（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://dmdy2.vip/api.php/app/"
-    },
-    {
       "key": "HOHO（APP）",
       "name": "HOHO（APP）",
       "type": 3,
@@ -557,39 +421,11 @@
       "ext": "https://hoho.tv/api.php/app/"
     },
     {
-      "key": "布衣（APP）",
-      "name": "布衣（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://byyy5.com/api.php/app/"
-    },
-    {
-      "key": "速看100（APP）",
-      "name": "速看100（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://sk100.tv/api.php/app/"
-    },
-    {
-      "key": "阿里（APP）",
-      "name": "阿里（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://aliys.cn:91/api.php/v1.vod"
-    },
-    {
       "key": "看剧吧（APP）",
       "name": "看剧吧（APP）",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://app.ishen520.com/api.php/v1.vod "
-    },
-    {
-      "key": "宝仙（APP）",
-      "name": "宝仙（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://webdillo.com/api.php/app/"
     },
     {
       "key": "少泽影客（APP）",
@@ -620,13 +456,6 @@
       "ext": "https://www.ttmja.com/api.php/app/"
     },
     {
-      "key": "迷你库（APP）",
-      "name": "迷你库（APP）",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
       "key": "如意（APP）",
       "name": "如意（APP）",
       "type": 3,
@@ -639,23 +468,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.umkan.cc/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "1080",
-      "name": "1080",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
-      "categories": [
-        "连续剧",
-        "电影",
-        "动漫",
-        "综艺"
-      ]
     },
     {
       "key": "xgapp",
@@ -939,16 +751,6 @@
       "filterable": 1
     },
     {
-      "key": "魔都资源",
-      "name": "魔都资源",
-      "type": 1,
-      "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://www.moduzy.com/jiexi/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "星影1080cms",
       "name": "星影1080 | APP",
       "type": 1,
@@ -967,32 +769,6 @@
       "categories": [
         "动漫"
       ]
-    },
-    {
-      "key": "girigiri爱动漫",
-      "name": "girigiri爱动漫",
-      "type": 1,
-      "api": "https://anime.girigirilove.com//api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 0
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯┃官源",
-      "type": 1,
-      "api": "http://tvbox.top/qq.php",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "飞速资源",
-      "name": "飞速资源",
-      "type": 1,
-      "api": "https://www.feisuzy.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "可可资源",
@@ -1022,28 +798,10 @@
       "quickSearch": 1
     },
     {
-      "key": "大漠资源",
-      "name": "大漠资源",
-      "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "人人影视",
       "name": "人人影视",
       "type": 1,
       "api": "https://www.rrvipw.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "天堂资源",
-      "name": "天堂资源",
-      "type": 1,
-      "api": "http://vipmv.cc/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1
@@ -1066,24 +824,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cms.maoyingshi.cc/api.php/app/"
-    },
-    {
-      "key": "小猫咪",
-      "name": "小猫咪",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "映迷",
-      "name": "映迷",
-      "type": 1,
-      "api": "https://www.inmi.app/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "速博资源",
@@ -1111,16 +851,6 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     },
     {
       "key": "光速资源",
@@ -1249,22 +979,6 @@
       "quickSearch": 1
     },
     {
-      "key": "韩剧资源",
-      "name": "韩剧资源(切)",
-      "type": 1,
-      "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "77韩剧",
-      "name": "77韩剧(切)",
-      "type": 1,
-      "api": "https://www.77hanju.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "百度资源",
       "name": "百度资源(切)",
       "type": 1,
@@ -1293,30 +1007,6 @@
       "name": "U酷资源(优)",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "龙腾资源",
-      "name": "龙腾资源(优)",
-      "type": 1,
-      "api": "http://175.178.7.35:2020/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "影图",
-      "name": "影图(聚)",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "热剧天堂",
-      "name": "热剧天堂(聚)",
-      "type": 1,
-      "api": "http://175.178.7.35:2020/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },

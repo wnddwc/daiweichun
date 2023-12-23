@@ -1,6 +1,4 @@
 综合频道,#genre#
-卡酷动画,http://113.56.95.69:59901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://113.56.95.69:59901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
@@ -13,9 +11,6 @@ GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
 湖北垄上HD,http://113.56.95.69:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北公共HD,http://113.56.95.69:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视HD,http://113.56.95.69:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-电影,#genre#
-林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-成龙,http://8.210.232.168/php/huya.php?id=11342386
 🎸音乐,#genre#
 最美的情缘,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkd3x9wUojKzHsgc.mp4
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4

@@ -15,6 +15,7 @@
     }
   ],
   "sites": [
+	  {"key":"xyq_初恋云","name":"初恋云┃xyq","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"playerType":1,"ext":"./XYQHiker/初恋云.json","jar":"./jar/xyq1218.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 	  { 
 
 "key": "996", 

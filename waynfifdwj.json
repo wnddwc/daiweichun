@@ -15,8 +15,14 @@
     }
   ],
   "sites": [
+	      {
+      "key": "drpy_js_影探[V2]",
+      "name": "影探",
+      "type": 3,
+      "api": "https://raw.fgit.cf/gaotianliuyun/gao/master/lib/drpy2.min.js",
+      "ext": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/yt.js"
+    },
 	  { 
-
 "key": "996", 
 
 "name": "996影视",

@@ -15,57 +15,6 @@
     }
   ],
   "sites": [
-	  {"key":"xyq_初恋云","name":"初恋云┃xyq","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"playerType":1,"ext":"./XYQHiker/初恋云.json",
-"jar":"./jar/xyq1218.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
-{
-      "key": "中华文化",
-      "name": "中华文化",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://github.com/wnddwc/daiweichun/blob/main/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96.json"
-    },          
-{
-      "key": "中华命理",
-      "name": "中华命理",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./中华命理.json"
-    },
-{
-      "key": "中华武术",
-      "name": "中华武术",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./中华武术.json"
-    },
-{
-      "key": "中华医药",
-      "name": "中华医药",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./中华医药.json"
-    },
-
-
-
-
-
-
-
-
-	  
   { 
 "key": "996", 
 

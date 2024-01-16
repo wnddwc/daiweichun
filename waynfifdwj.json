@@ -15,6 +15,55 @@
     }
   ],
   "sites": [
+{
+      "key": "中华文化",
+      "name": "中华文化",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./中华文化.json"
+    },          
+{
+      "key": "中华命理",
+      "name": "中华命理",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./中华命理.json"
+    },
+{
+      "key": "中华武术",
+      "name": "中华武术",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./中华武术.json"
+    },
+{
+      "key": "中华医药",
+      "name": "中华医药",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./中华医药.json"
+    },
+
+
+
+
+
+
+
+
+	  
   { 
 "key": "996", 
 

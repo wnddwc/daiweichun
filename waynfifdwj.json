@@ -15,14 +15,6 @@
     }
   ],
   "sites": [
-	      {
-      "key": "短剧one",
-      "name": "🥰┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-  "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-      "ext": "https://d.kstore.space/download/6296/json/短剧.json"
-    },
   { 
 "key": "996", 
 

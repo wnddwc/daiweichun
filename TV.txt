@@ -52,6 +52,7 @@ GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
 湖北公共HD,http://113.56.95.69:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北影视HD,http://113.56.95.69:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 🎸音乐,#genre#
+周兴哲-永不失联的爱,http://em.21dtv.com/songs/60137421.mkv
 最美的情缘,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkd3x9wUojKzHsgc.mp4
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 东莞3星酒吧劲爆,https://vd3.bdstatic.com/mda-nc91jug6hru2kas8/sc/cae_h264_delogo/1646878042944090737/mda-nc91jug6hru2kas8.mp4

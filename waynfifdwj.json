@@ -15,169 +15,7 @@
     }
   ],
   "sites": [
-  { 
-"key": "996", 
 
-"name": "996影视",
-
- "type": 3, 
-
- "filterable":   1 , 
-
-"api": "csp_XBPQ",
-
- "ext": { 
-
- "分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-
- "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}, 
-
-      "jar": "https://123.155123.xyz/Yoursmile.jar"},
-  {
-            "key": "csp_qq",
-            "name": "┃SP┃腾讯视频",
-            "type": 3,
-            "api": "csp_qq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-        },
-	   {
-            "key": "360_spider",
-            "name": "360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "",           	  "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
-        },
-        {
-            "key": "csp_iqiyi",
-            "name": "┃SP┃奇艺影视",
-            "type": 3,
-            "api": "csp_iqiyi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-        },
-        {
-            "key": "csp_mgtv",
-            "name": "┃SP┃芒果电影",
-            "type": 3,
-            "api": "csp_mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-        },
-		{
-            "key": "csp-youku",
-            "name": "┃SP┃优酷电影",
-            "type": 3,
-            "api": "csp_youku",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,                           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-        },
-    {
-      "key": "宅腐APP",
-      "name": "宅腐┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "csp_AppYsV2_YuMi",
-      "name": "YuMi☆影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "playUrl": "http://61.147.93.21:8090/index.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.12.21.186/api.php/app/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "国产剧"
-      ]
-    },
-    {
-      "key": "csp_AppYsV2_365",
-      "name": "365☆影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://154.12.21.186/api.php/app/"
-    },
-    {
-      "key": "csp_Aid",
-      "name": "急救指南",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
-    },
-    {
-      "key": "xml_快看",
-      "name": "️快看☆采集",
-      "type": 1,
-      "api": "https://kuaikan-api.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "网络电影",
-        "动画电影",
-        "动作片",
-        "冒险片",
-        "剧情片",
-        "纪录片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "灾难片",
-        "爱情片",
-        "科幻片",
-        "犯罪片",
-        "伦理片",
-        "国产剧",
-        "港台剧",
-        "日本剧",
-        "韩国剧",
-        "欧美剧",
-        "新马剧",
-        "泰剧",
-        "其他剧",
-        "国产综艺",
-        "港台综艺",
-        "日本综艺",
-        "韩国综艺",
-        "欧美综艺",
-        "国产动漫",
-        "港台动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
-    },
     {
       "key": "极速",
       "name": "️极速┃资源",
@@ -1083,6 +921,151 @@
       "searchable": 1,
       "quickSearch": 1
     },
+	 {
+            "key": "csp_qq",
+            "name": "┃SP┃腾讯视频",
+            "type": 3,
+            "api": "csp_qq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        },
+	   {
+            "key": "360_spider",
+            "name": "360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "",           	  "jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/0513.jar"
+        },
+        {
+            "key": "csp_iqiyi",
+            "name": "┃SP┃奇艺影视",
+            "type": 3,
+            "api": "csp_iqiyi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        },
+        {
+            "key": "csp_mgtv",
+            "name": "┃SP┃芒果电影",
+            "type": 3,
+            "api": "csp_mgtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        },
+		{
+            "key": "csp-youku",
+            "name": "┃SP┃优酷电影",
+            "type": 3,
+            "api": "csp_youku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,                           "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
+        },
+    {
+      "key": "宅腐APP",
+      "name": "宅腐┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "csp_AppYsV2_YuMi",
+      "name": "YuMi☆影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "playUrl": "http://61.147.93.21:8090/index.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.12.21.186/api.php/app/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "csp_AppYsV2_365",
+      "name": "365☆影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://154.12.21.186/api.php/app/"
+    },
+    {
+      "key": "csp_Aid",
+      "name": "急救指南",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
+    },
+    {
+      "key": "xml_快看",
+      "name": "️快看☆采集",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "网络电影",
+        "动画电影",
+        "动作片",
+        "冒险片",
+        "剧情片",
+        "纪录片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "犯罪片",
+        "伦理片",
+        "国产剧",
+        "港台剧",
+        "日本剧",
+        "韩国剧",
+        "欧美剧",
+        "新马剧",
+        "泰剧",
+        "其他剧",
+        "国产综艺",
+        "港台综艺",
+        "日本综艺",
+        "韩国综艺",
+        "欧美综艺",
+        "国产动漫",
+        "港台动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },  
     {
       "key": "明帝",
       "name": "明帝",

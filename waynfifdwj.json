@@ -54,37 +54,6 @@
       ]
     },
     {
-      "key": "xml_轻简",
-      "name": "轻简☆采集",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "xml_猫放",
-      "name": "猫放☆采集",
-      "type": 1,
-      "api": "https://www.mervod.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "少儿"
-      ]
-    },
-    {
       "key": "jszy",
       "name": "极速≛采集",
       "type": 1,

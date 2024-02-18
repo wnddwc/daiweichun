@@ -1006,8 +1006,16 @@
     }
   ],
 "parses": [
-        {"name":"晨曦解析","type":1,"url":"http://jiexi1.itcxo.cn/api/?key=2NTgVWfapKzXNuue0h&url=
-"}
+       {
+        "name": "NG解析",
+        "type": 1,
+        "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+{
+        "name": "ZY解析",
+        "type": 1,
+        "url": "http://115.231.220.36:8801/jx/tvbox/2.php?url="
+    }
   ],
     "flags": [
         "youku",

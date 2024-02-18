@@ -70,46 +70,6 @@
       ]
     },
     {
-      "key": "xml_腾讯采集",
-      "name": "腾讯采集",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-      "playUrl": "parse:官解",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xml_奇艺采集",
-      "name": "奇艺采集",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-      "playUrl": "parse:官解",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xml_优酷采集",
-      "name": "优酷采集",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/",
-      "playUrl": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xml_芒果采集",
-      "name": "芒果采集",
-      "type": 1,
-      "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-      "playUrl": "parse:官解",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "火狐电影",
       "name": "火狐电影",
       "type": 1,

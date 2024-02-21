@@ -4,7 +4,7 @@
 "lives": [
        {"group": "redirect","channels": [{"name": "redirect","urls": 
 ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]}]}],	
-	"sites": [
+	"sites": [{"key":"短剧网","name":"短剧网","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://tvbox.top/jar/xyq.jar"},
 {
       "key": "富二代资源",
       "name": "富二代资源",

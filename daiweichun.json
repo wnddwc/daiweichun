@@ -5,6 +5,18 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": 
 ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]}]}],	
 	"sites": [
+		 {
+      "key": "xml_光速",
+      "name": "光速短剧",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
 		{
       "key": "ksxjj",
       "name": "快手姐姐",

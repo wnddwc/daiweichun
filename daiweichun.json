@@ -671,7 +671,13 @@
         "quickSearch": 1,
         "filterable": 0
     }],
-    "parses": [{
+    "parses": [
+        {
+            "name": "小鱼解析",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=12177641&key=acqtwyAEFKNSTUVY07&url="
+        },
+        {
         "name": "NG解析",
         "type": 1,
         "url": "http://119.91.123.253:2345/Api/yun.php?url="

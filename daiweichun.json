@@ -10,6 +10,21 @@
     }],
     "sites": [
         {
+            "key": "SambaShare",
+            "name": "Samba分享",
+            "type": 3,
+            "style": {
+                "type": "list"
+            },
+            "api": "csp_SambaShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/sambashare.txt"
+        },
+        {
       "key": "xml_火狐",
       "name": "┃豪华采集┃",
       "type": 1,

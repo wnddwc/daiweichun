@@ -10,12 +10,9 @@
     }],
     "sites": [
           {      "key": "meowtv_fqdj",      "name": "番茄┃短剧",      "type": 3,      "api": "http://cdn.teyonds.com/js/drpy2.min.js",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"    }, 
-   {      "key": "meowtv_bydj",      "name": "榜一┃短剧",      "type": 3,      "api": "csp_XYQHiker",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://cdn.teyonds.com/xp/榜一短剧.json",      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"    },    
 {      "key": "meowtv_hmdj",      "name": "河马┃短剧",      "type": 3,      "api": "csp_Duanjuw",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "jar": "http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"    }, 
    {      "key": "meowtv_rxdj",      "name": "锐星┃短剧",      "type": 3,      "api": "csp_AppYsV2",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://122.228.84.103:6822/api.php/app/"    },
-{"key":"安博影视","name":"安博影视(T4)","type": 4,"api":"https://tang.serv00.net/power/ub1818","searchable": 1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-
-        
+{"key":"安博影视","name":"安博影视(T4)","type": 4,"api":"https://tang.serv00.net/power/ub1818","searchable": 1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true}, 
         {
       "key": "xml_火狐",
       "name": "┃豪华采集┃",

@@ -9,6 +9,15 @@
         }]
     }],
     "sites": [
+         {
+      "key": "一点切片",
+      "name": "一点切片",
+      "type": 1,
+      "api": "https://m3u8.movurl.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      },
 {
       "key": "49资源",
       "name": "┃49资源",

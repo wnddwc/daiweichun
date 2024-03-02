@@ -26,11 +26,11 @@
       "quickSearch": 1,
       "filterable": 1
      },
-{
-      "key": "种子短剧",
-      "name": "种子短剧",
+  {
+      "key": "U酷资源",
+      "name": "U酷资源",
       "type": 1,
-      "api": "https://zzdj.cc/api.php/provide/vod/",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

@@ -63,7 +63,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": ["电影","电视剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","动画片","动作片","喜剧片","爱情片","科幻片","预告片","恐怖片","剧情片","战争片","纪录片","国产剧","欧美剧","日剧","韩剧","台剧","港剧","泰剧","海外剧","演唱会","体育赛事","篮球","足球","影视解说","爽文短剧","4K电影"]},
-  {
+ {
       "key": "虎牙资源",
       "name": "虎牙资源",
       "type": 1,
@@ -71,8 +71,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "categories": ["电影","电视剧","马秦剧","欧美剧","日剧","韩剧","香港剧","台湾剧",记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫", "动画片",内地剧","中国动漫","日本动漫","欧美动漫","综艺","体育赛事","短剧"]},
-        {
+       "categories": ["电影","电视剧","马秦剧","欧美剧","日剧","韩剧","香港剧","台湾剧","记录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动漫", "动画片",内地剧","中国动漫","日本动漫","欧美动漫","综艺","体育赛事","短剧"]},
+  {
       "key": "速博资源",
       "name": "速博资源",
       "type": 1,
@@ -80,7 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": ["电影","电视剧","动漫","综艺",纪录片","动作片","喜剧片","爱情片","科幻片","预告片","恐怖片","剧情片","战争片","动漫电影","大陆剧","美剧","日剧","韩剧","台湾剧","港澳剧","泰剧","体育赛事","中国动漫","日本动漫","欧美动漫","短剧"]},
+      "categories": ["电影","电视剧","动漫","综艺","纪录片","动作片","喜剧片","爱情片","科幻片","预告片","恐怖片","剧情片","战争片","动漫电影","大陆剧","美剧","日剧","韩剧","台湾剧","港澳剧","泰剧","体育赛事","中国动漫","日本动漫","欧美动漫","短剧"]},
         {"key":"黑狐影视","name":"黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/taojinliang123/TVBox/main/黑狐.json","jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/1110.jar"},
         {"key":"新视觉影院","name":"新视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xbpq_%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
   {      "key": "meowtv_fqdj",      "name": "番茄┃短剧",      "type": 3,      "api": "http://cdn.teyonds.com/js/drpy2.min.js",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"    }, 

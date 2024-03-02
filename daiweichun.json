@@ -26,11 +26,11 @@
       "quickSearch": 1,
       "filterable": 1
      },
- {
-      "key": "6U资源",
-      "name": "6U资源",
+{
+      "key": "花旗资源",
+      "name": "花旗资源",
       "type": 1,
-      "api": "http://www.6uzy.cc/inc/apijson_vod.php",
+      "api": "https://seacms.huaqi.live/zyapi.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

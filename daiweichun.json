@@ -9,6 +9,26 @@
         }]
     }],
     "sites": [
+{
+      "key": "49资源",
+      "name": "┃49资源",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["电影", "连续剧", "短剧", "动漫", "综艺", "电影解说", "体育赛事"]},
+
+
+
+
+
+
+
+
+
+
+        
         {"key":"黑狐影视","name":"黑狐影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/taojinliang123/TVBox/main/黑狐.json","jar":"https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/1110.jar"},
         {"key":"新视觉影院","name":"新视觉影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xbpq_%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
   {      "key": "meowtv_fqdj",      "name": "番茄┃短剧",      "type": 3,      "api": "http://cdn.teyonds.com/js/drpy2.min.js",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://cdn.teyonds.com/js/番茄短剧.js"    }, 

@@ -9,11 +9,11 @@
         }]
     }],
     "sites": [
-           {
-      "key": "淘片资源",
-      "name": "淘片资源",
+            {
+      "key": "乐视资源",
+      "name": "乐这视资源",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "api": "https://leshizyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

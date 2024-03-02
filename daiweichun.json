@@ -18,10 +18,10 @@
       "quickSearch": 1,
       "filterable": 1},
 {
-      "key": "阿里影视",
-      "name": "┃阿里影视",
+      "key": "至圣云",
+      "name": "至圣云",
       "type": 1,
-      "api": "http://aliys.cn:90/api.php/provide/vod/",
+      "api": "http://82.156.40.118:1234/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

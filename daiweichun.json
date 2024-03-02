@@ -26,11 +26,11 @@
       "quickSearch": 1,
       "filterable": 1
      },
-{
-      "key": "花旗资源",
-      "name": "花旗资源",
+ {
+      "key": "小胡4K",
+      "name": "小胡4K",
       "type": 1,
-      "api": "https://seacms.huaqi.live/zyapi.php",
+      "api": "http://c.xn--yetu07f.icu/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

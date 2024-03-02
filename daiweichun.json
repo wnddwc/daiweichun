@@ -9,15 +9,6 @@
         }]
     }],
     "sites": [
-         {
-      "key": "一点切片",
-      "name": "一点切片",
-      "type": 1,
-      "api": "https://m3u8.movurl.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
 {
       "key": "49资源",
       "name": "┃49资源",
@@ -35,15 +26,17 @@
       "quickSearch": 1,
       "filterable": 1
      },
-    {
+     {
       "key": "U酷资源",
       "name": "U酷资源",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-      },
+      "filterable": 1,
+      "categories": ["电影", "电视剧", "动作片", "动漫", "综艺", "喜剧片", "爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","国产剧","韩剧","泰剧","动漫电影","记录片","奇幻片","犯罪片"]
+    },
+
 
 
 
@@ -266,16 +259,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "悬疑片", "奇幻片", "记录片", "短剧", "国产剧", "港台剧", "日韩剧", "欧美剧"]
-    }, {
-        "key": "xml_UK",
-        "name": "UK☆资源",
-        "type": 1,
-        "api": "https://api.ukuapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "战争片", "剧情片", "记录片", "短剧", "动漫电影", "国产剧", "港澳剧", "台湾剧", "日剧", "韩剧", "欧美剧", "泰剧"]
-    }, {
+    },  {
         "key": "高清视界",
         "name": "视界 | APP",
         "type": 3,
@@ -518,14 +502,7 @@
         "api": "https://api.tiankongapi.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
-    }, {
-        "key": "U酷资源",
-        "name": "U酷资源(优)",
-        "type": 1,
-        "api": "https://api.ukuapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
+    },  {
         "key": "39影视",
         "name": "39影视(聚)",
         "type": 1,

@@ -9,8 +9,8 @@
         }]
     }],
     "sites": [
-        {
-        "key": "则奇",
+       {
+        "key": "则奇资源",
         "name": "️极速┃则奇资源",
         "type": 1,
         "api": "https://api.zeqaht.com/api.php/provide/vod/",

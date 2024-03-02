@@ -9,7 +9,16 @@
         }]
     }],
     "sites": [
-            {
+         {
+      "key": "小胡4K",
+      "name": "小胡4K",
+      "type": 1,
+      "api": "http://c.xn--yetu07f.icu/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+     },   
+        {
       "key": "乐视资源",
       "name": "乐视资源",
       "type": 1,

@@ -281,25 +281,24 @@
         "name": "八戒资源",
         "type": 1,
         "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
-        "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1
+        "quickSearch": 1      
     }, {
         "key": "最大资源",
         "name": "最大资源",
         "type": 1,
         "api": "http://zuidazy.me/api.php/provide/vod/",
-        "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1
+        "quickSearch": 1,
+        "categories": ["电影","港剧","美剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","犯罪片","剧情片","纪录片","邵氏电影","影视解说"]
     }, {
         "key": "金鹰资源",
         "name": "金鹰资源",
         "type": 1,
         "api": "https://jyzyapi.com/provide/vod/",
-        "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1
+        "quickSearch": 1,
+        "categories": ["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","恐怖片","战争片","纪录片","科幻片","剧情片","动画片","动漫","内地剧","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","短剧","体育赛事"]
     }, {
         "key": "飘零影院",
         "name": "飘零影院",

@@ -41,14 +41,6 @@
         "searchable": 1,
         "quickSearch": 1
  },        
- {
-        "key": "步步高资源",
-        "name": "步步高资源",
-        "type": 1,
-        "api": "https://api.yparse.com/api/json",
-        "searchable": 1,
-        "quickSearch": 1
- },       
 {
         "key": "爱坤资源",
         "name": "爱坤资源",

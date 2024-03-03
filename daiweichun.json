@@ -156,26 +156,6 @@
         "filterable": 1,
         "categories": ["短剧"]
     }, {
-        "key": "jszy",
-        "name": "极速≛采集",
-        "type": 1,
-        "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-        "playUrl": "https://k.playerla.com/?url=",
-        "searchable": 1,
-        "changeable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories": ["内地剧", "动画片", "大陆综艺"]
-    }, {
-        "key": "火狐电影",
-        "name": "火狐电影",
-        "type": 1,
-        "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "categories": ["动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "灾难片", "悬疑片", "犯罪片", "奇幻片", "记录片", "短剧", "内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "台湾剧", "马泰剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]
-    }, {
         "key": "csp_xml_红牛",
         "name": "红牛",
         "type": 1,
@@ -236,11 +216,11 @@
         "ext": "https://bjson.cf/tvbox/douban.js"
     }, {
         "key": "xml_快看",
-        "name": "️快看☆资源",
+        "name": "快看",
         "type": 1,
         "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
-        "categories": ["网络电影", "动画电影", "动作片", "冒险片", "剧情片", "纪录片", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "战争片", "灾难片", "爱情片", "科幻片", "犯罪片", "伦理片", "国产剧", "港台剧", "日本剧", "韩国剧", "欧美剧", "新马剧", "泰剧", "其他剧", "国产综艺", "港台综艺", "日本综艺", "韩国综艺", "欧美综艺", "国产动漫", "短剧", "港台动漫", "日本动漫", "欧美动漫"]
-    }, {
+        "categories": ["网络电影","动画电影","动作片","冒险片", "剧情片","纪录片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","灾难片","爱情片","科幻片","犯罪片","国产剧","港台剧","日本剧","韩国剧","欧美剧","新马剧","泰剧","其他剧", "国产综艺","港台综艺","日本综艺","韩国综艺","欧美综艺","国产动漫","港台动漫","日本动漫","欧美动漫"]},
+ {
         "key": "xml_天空",
         "name": "天空☆资源",
         "type": 1,
@@ -346,14 +326,6 @@
         "searchable": 1,
         "quickSearch": 1
     },  {
-        "key": "火狐资源",
-        "name": "火狐资源",
-        "type": 1,
-        "api": "https://hhzyapi.com/api.php/provide/vod/",
-        "playUrl": "",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
         "key": "人人影视",
         "name": "人人影视",
         "type": 1,
@@ -383,14 +355,6 @@
         "name": "速博资源",
         "type": 1,
         "api": "https://subocaiji.com/api.php/provide/vod/",
-        "playUrl": "",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "虎牙资源",
-        "name": "虎牙资源",
-        "type": 1,
-        "api": "https://www.huyaapi.com/api.php/provide/vod/",
         "playUrl": "",
         "searchable": 1,
         "quickSearch": 1
@@ -493,13 +457,6 @@
         "api": "https://api.1080zyku.com/inc/api_mac10.php",
         "searchable": 0,
         "quickSearch": 0
-    }, {
-        "key": "红牛资源",
-        "name": "红牛资源(切)",
-        "type": 1,
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
     }, {
         "key": "闪电资源",
         "name": "闪电资源(切)",

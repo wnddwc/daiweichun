@@ -41,7 +41,14 @@
         "searchable": 1,
         "quickSearch": 1
  },        
-        
+{
+        "key": "快云资源",
+        "name": "快云资源",
+        "type": 1,
+        "api": "https://www.kuaiyunzy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },        
         
         
         

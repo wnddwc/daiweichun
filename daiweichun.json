@@ -17,7 +17,14 @@
         "searchable": 1,
         "quickSearch": 1
  },        
-        
+{
+        "key": "看看资源",
+        "name": "看看资源",
+        "type": 1,
+        "api": "https://zy.hikan.xyz/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },        
         
         
         

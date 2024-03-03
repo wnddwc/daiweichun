@@ -8,15 +8,7 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]
         }]
     }],
-    "sites": [
-{
-        "key": "魔都资源",
-        "name": "魔都资源",
-        "type": 1,
-        "api": "https://www.moduzy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },   
+    "sites": [  
 {
         "key": "享看资源",
         "name": "享看资源",
@@ -25,14 +17,6 @@
         "searchable": 1,
         "quickSearch": 1
  },        
-{
-        "key": "秒看资源",
-        "name": "秒看资源",
-        "type": 1,
-        "api": "https://mkzy.vip/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
         
         
         

@@ -33,10 +33,38 @@
         "searchable": 1,
         "quickSearch": 1
  },        
-        
-        
-        
-        
+{
+        "key": "速看资源",
+        "name": "速看资源",
+        "type": 1,
+        "api": "https://ziyuan.skm3u8.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },        
+ {
+        "key": "步步高资源",
+        "name": "步步高资源",
+        "type": 1,
+        "api": "https://api.yparse.com/api/json",
+        "searchable": 1,
+        "quickSearch": 1
+ },       
+{
+        "key": "爱坤资源",
+        "name": "爱坤资源",
+        "type": 1,
+        "api": "https://ikunzyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },        
+ {
+        "key": "42资源",
+        "name": "42资源",
+        "type": 1,
+        "api": "https://www.42.la/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },       
         
         
         

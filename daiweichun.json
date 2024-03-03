@@ -17,7 +17,14 @@
         "searchable": 1,
         "quickSearch": 1
  },   
-        
+{
+        "key": "享看资源",
+        "name": "享看资源",
+        "type": 1,
+        "api": "https://xkanzy10.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },        
         
         
         

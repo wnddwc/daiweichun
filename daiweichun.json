@@ -17,6 +17,14 @@
         "searchable": 1,
         "quickSearch": 1
  },
+     {
+        "key": "电影雷达",
+        "name": "电影雷达",
+        "type": 1,
+        "api": "https://www.dianyingleida.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },   
         
         
         

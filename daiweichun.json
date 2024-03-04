@@ -8,15 +8,8 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [ {
-        "key": "明帝",
-        "name": "明帝",
-        "type": 1,
-        "api": "http://cj.md214.cn/api.php/provide/vod/",
-        "playUrl": "",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
+    "sites": [
+ {
         "key": "富二代资源",
         "name": "富二代资源",
         "type": 0,
@@ -65,31 +58,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0
-    }, {
-        "key": "zp157",
-        "name": "熊猫资源",
-        "type": 0,
-        "api": "http://jcspcj8.com/api?ac=list",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
-        "key": "zp116",
-        "name": "泡芙资源",
-        "type": 0,
-        "api": "http://zmcj88.com/api?ac=list",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
-        "key": "zp128",
-        "name": "鲨鱼影视",
-        "type": 0,
-        "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
+    },{
         "key": "zp100",
         "name": "乐播",
         "type": 0,

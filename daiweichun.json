@@ -9,61 +9,7 @@
         }]
     }],
     "sites": [
-        {
-        "key": "四个圈影视",
-        "name": "四个圈影视",
-        "type": 1,
-        "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-     {
-        "key": "电影雷达",
-        "name": "电影雷达",
-        "type": 1,
-        "api": "https://www.dianyingleida.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },   
-{
-        "key": "人人影视",
-        "name": "人人影视",
-        "type": 1,
-        "api": "https://www.rrvipw.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "小小影视",
-        "name": "小小影视",
-        "type": 1,
-        "api": "http://haowywz.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "影图",
-        "name": "影图",
-        "type": 1,
-        "api": "https://cj.vodimg.top/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "新马影视",
-        "name": "新马影视",
-        "type": 1,
-        "api": "https://movie.gsl99.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },     
-        
-        
-        
-        
-        
-        
-        {
+    {
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,

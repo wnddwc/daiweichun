@@ -25,6 +25,14 @@
         "searchable": 1,
         "quickSearch": 1
  },
+{
+        "key": "花都影视",
+        "name": "花都影视",
+        "type": 1,
+        "api": "https://hdys2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

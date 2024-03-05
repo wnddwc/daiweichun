@@ -9,6 +9,31 @@
         }]
     }],
     "sites": [
+{
+        "key": "萝莉资源",
+        "name": "萝莉资源",
+        "type": 1,
+        "api": "https://192.151.223.213/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         {
         "key": "量子资源",
         "name": "量子资源",

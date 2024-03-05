@@ -17,7 +17,14 @@
         "searchable": 1,
         "quickSearch": 1
  },
-
+{
+        "key": "不卡资源",
+        "name": "不卡资源",
+        "type": 1,
+        "api": "https://www.bukazyw.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

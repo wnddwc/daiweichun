@@ -25,14 +25,7 @@
         "searchable": 1,
         "quickSearch": 1
  },
-{
-        "key": "博民资源",
-        "name": "博民资源",
-        "type": 1,
-        "api": "https://www.bominzy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
+
 
 
 

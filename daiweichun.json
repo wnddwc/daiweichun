@@ -25,7 +25,38 @@
         "searchable": 1,
         "quickSearch": 1
  },
-
+{
+        "key": "狼友会资源",
+        "name": "狼友会资源",
+        "type": 1,
+        "api": "https://api.lyhapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "KOK资源",
+        "name": "KOK资源",
+        "type": 1,
+        "api": "https://api.vodkok2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "蜜桃视频",
+        "name": "蜜桃视频",
+        "type": 1,
+        "api": "https://mtav.art/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "八天",
+        "name": "八天",
+        "type": 1,
+        "api": "https://8day.icu/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

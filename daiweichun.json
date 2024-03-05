@@ -10,10 +10,10 @@
     }],
     "sites": [
 {
-        "key": "155资源",
-        "name": "155资源",
+        "key": "黄瓜资源",
+        "name": "黄瓜资源",
         "type": 1,
-        "api": "https://155api.com/api.php/provide/vod/",
+        "api": "https://www.zy018.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
  },

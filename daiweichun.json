@@ -8,7 +8,18 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{
+    "sites": [
+            {
+      "key": "nongmin",
+      "name": "💘神仙影视 | 高清急速 公众号：神仙APP",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/nm.json"
+    },
+        {
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,

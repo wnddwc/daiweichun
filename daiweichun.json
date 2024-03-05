@@ -25,7 +25,14 @@
         "searchable": 1,
         "quickSearch": 1
  },
-
+{
+        "key": "612021",
+        "name": "612021",
+        "type": 1,
+        "api": "https://612021.xyz/api.php/provide/art/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

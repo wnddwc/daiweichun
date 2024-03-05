@@ -10,10 +10,10 @@
     }],
     "sites": [
 {
-        "key": "9色资源",
-        "name": "9色资源",
+        "key": "夜色资源",
+        "name": "夜色资源",
         "type": 1,
-        "api": "https://9szy.net/api.php/provide/vod/",
+        "api": "https://www.yszy02.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
  },

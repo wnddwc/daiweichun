@@ -10,10 +10,10 @@
     }],
     "sites": [
 {
-        "key": "黄瓜资源",
-        "name": "黄瓜资源",
+        "key": "9色资源",
+        "name": "9色资源",
         "type": 1,
-        "api": "https://www.avre04.com/api.php/provide/vod/",
+        "api": "https://9szy.net/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
  },

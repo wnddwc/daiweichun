@@ -26,10 +26,10 @@
         "quickSearch": 1
  },
 {
-        "key": "快AV资源",
-        "name": "快AV资源",
+        "key": "博民资源",
+        "name": "博民资源",
         "type": 1,
-        "api": "http://kuaiavzy.com/api.php/provide/vod/",
+        "api": "https://www.bominzy.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
  },

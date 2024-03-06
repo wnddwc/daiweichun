@@ -9,7 +9,24 @@
         }]
     }],
     "sites": [
+        {
+        "key": "99资源",
+        "name": "99资源",
+        "type": 1,
+        "api": "http://99zy.pw/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 {
+        "key": "水蜜桃",
+        "name": "水蜜桃",
+        "type": 1,
+        "api": "https://smt999.cc/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+        {
+
         "key": "色屌丝资源",
         "name": "色屌丝资源",
         "type": 1,

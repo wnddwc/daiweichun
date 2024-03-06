@@ -9,7 +9,78 @@
         }]
     }],
     "sites": [
-
+{
+        "key": "红袖资源",
+        "name": "红袖资源",
+        "type": 1,
+        "api": "https://hongxiuzy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "老色逼资源",
+        "name": "老色逼资源",
+        "type": 1,
+        "api": "https://apilsbzy1.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "橘猫资源(丝袜)",
+        "name": "橘猫资源(丝袜)",
+        "type": 1,
+        "api": "https://to.to-long.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "丝袜资源",
+        "name": "丝袜资源",
+        "type": 1,
+        "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "丝袜海外",
+        "name": "丝袜海外",
+        "type": 1,
+        "api": "https://haiwai.siwazyw.tv/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "色猫资源",
+        "name": "色猫资源",
+        "type": 1,
+        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "探探资源",
+        "name": "探探资源",
+        "type": 1,
+        "api": "https://apittzy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "色窝资源",
+        "name": "色窝资源",
+        "type": 1,
+        "api": "https://sewozyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "花魁资源",
+        "name": "花魁资源",
+        "type": 1,
+        "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

@@ -10,26 +10,10 @@
     }],
     "sites": [
 {
-        "key": "五播",
-        "name": "五播",
-        "type": 1,
-        "api": "https://5bo1.xyz/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
         "key": "91视频",
         "name": "91视频",
         "type": 1,
         "api": "https://91av.cyou/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "久爱",
-        "name": "久爱",
-        "type": 1,
-        "api": "http://92free.icu/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
  },

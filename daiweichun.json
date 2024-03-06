@@ -9,6 +9,20 @@
         }]
     }],
     "sites": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
         "key": "夜色资源",
         "name": "夜色资源",
@@ -33,21 +47,69 @@
         "searchable": 1,
         "quickSearch": 1
  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+    {
+        "key": "易看资源",
+        "name": "易看资源",
+        "type": 1,
+        "api": "https://api.yikanapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+    }, {
+        "key": "富二代资源",
+        "name": "富二代资源",
+        "type": 0,
+        "api": "http://f2dcj6.com/sapi?ac=list&pg=1",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    }, {
+        "key": "美少女",
+        "name": "美少女",
+        "type": 0,
+        "api": "https://www.msnii.com/api/xml.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, {
+        "key": "易看资源",
+        "name": "易看资源",
+        "type": 1,
+        "api": "https://api.yikanapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+    }, {
+        "key": "*白嫖资源",
+        "name": "白嫖",
+        "type": 0,
+        "api": "https://www.kxgav.com/api/xml.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    }, {
+        "key": "*淫水机资源",
+        "name": "粥水",
+        "type": 0,
+        "api": "https://www.xrbsp.com/api/xml.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    }, {
+        "key": "*香奶儿资源",
+        "name": "*香",
+        "type": 0,
+        "api": "https://www.gdlsp.com/api/xml.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    }, {
+        "key": "zp100",
+        "name": "乐播",
+        "type": 0,
+        "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0
+    }, 
         {
         "key": "量子资源",
         "name": "量子资源",
@@ -510,68 +572,6 @@
             "ratio": 3.8
         },
         "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
-    }, {
-        "key": "易看资源",
-        "name": "易看资源",
-        "type": 1,
-        "api": "https://api.yikanapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "富二代资源",
-        "name": "富二代资源",
-        "type": 0,
-        "api": "http://f2dcj6.com/sapi?ac=list&pg=1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
-        "key": "美少女",
-        "name": "美少女",
-        "type": 0,
-        "api": "https://www.msnii.com/api/xml.php",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, {
-        "key": "易看资源",
-        "name": "易看资源",
-        "type": 1,
-        "api": "https://api.yikanapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "*白嫖资源",
-        "name": "白嫖",
-        "type": 0,
-        "api": "https://www.kxgav.com/api/xml.php",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
-        "key": "*淫水机资源",
-        "name": "粥水",
-        "type": 0,
-        "api": "https://www.xrbsp.com/api/xml.php",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
-        "key": "*香奶儿资源",
-        "name": "*香",
-        "type": 0,
-        "api": "https://www.gdlsp.com/api/xml.php",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
-    }, {
-        "key": "zp100",
-        "name": "乐播",
-        "type": 0,
-        "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0
     }],
     "parses": [{
         "name": "NG解析",

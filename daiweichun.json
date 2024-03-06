@@ -10,6 +10,101 @@
     }],
     "sites": [
 
+        "key": "皇冠资源",
+        "name": "皇冠资源",
+        "type": 1,
+        "api": "https://hghhh.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "滴滴资源",
+        "name": "滴滴资源",
+        "type": 1,
+        "api": "https://api.ddapi.cc/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "雪豹资源",
+        "name": "雪豹资源",
+        "type": 1,
+        "api": "https://api.xbapi.cc/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "森林资源",
+        "name": "森林资源",
+        "type": 1,
+        "api": "https://slapibf.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "草榴资源",
+        "name": "草榴资源",
+        "type": 1,
+        "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "玉兔资源",
+        "name": "玉兔资源",
+        "type": 1,
+        "api": "https://apiyutu.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "伊人资源",
+        "name": "伊人资源",
+        "type": 1,
+        "api": "https://api.yirenziyuan.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "老鸨资源",
+        "name": "老鸨资源",
+        "type": 1,
+        "api": "http://laobaozy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "老鸭资源",
+        "name": "老鸭资源",
+        "type": 1,
+        "api": "https://api.apilyzy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "鸡坤资源",
+        "name": "鸡坤资源",
+        "type": 1,
+        "api": "https://jkunzyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "速看资源",
+        "name": "速看资源",
+        "type": 1,
+        "api": "https://ziyuan.skm3u8.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "色鸭资源",
+        "name": "色鸭资源",
+        "type": 1,
+        "api": "https://api.seyavod.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

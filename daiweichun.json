@@ -25,7 +25,38 @@
         "searchable": 1,
         "quickSearch": 1
  },
-
+{
+        "key": "色资源",
+        "name": "色资源",
+        "type": 1,
+        "api": "https://sezy.website/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "湿乐园",
+        "name": "湿乐园",
+        "type": 1,
+        "api": "https://xxavs.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "QQ传媒",
+        "name": "QQ传媒",
+        "type": 1,
+        "api": "https://qqcm.sbs/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "优异资源",
+        "name": "优异资源",
+        "type": 1,
+        "api": "https://a.uezy.pw/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

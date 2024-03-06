@@ -9,6 +9,14 @@
         }]
     }],
     "sites": [
+
+
+
+
+
+
+
+
 {
         "key": "甜蜜资源",
         "name": "甜蜜资源",
@@ -41,78 +49,6 @@
         "searchable": 1,
         "quickSearch": 1
  },
-{
-        "key": "010爱资源",
-        "name": "010爱资源",
-        "type": 1,
-        "api": "http://100.42.227.80/api/macs.php",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "抖阴视频",
-        "name": "抖阴视频",
-        "type": 1,
-        "api": "https://www.888dav.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "麻豆视频",
-        "name": "麻豆视频",
-        "type": 1,
-        "api": "http://www.madouse.la/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "蛋蛋视频",
-        "name": "蛋蛋视频",
-        "type": 1,
-        "api": "http://156.249.29.8/inc/apijson_vod.php",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "91麻豆",
-        "name": "91麻豆",
-        "type": 1,
-        "api": "https://91md.me/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "淫水机资源",
-        "name": "淫水机资源",
-        "type": 1,
-        "api": "https://www.xrbsp.com/api/json.php",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "香奶儿资源",
-        "name": "香奶儿资源",
-        "type": 1,
-        "api": "https://www.gdlsp.com/api/json.php",
-        "searchable": 1,
-        "quickSearch": 1
- },
-{
-        "key": "小湿妹资源",
-        "name": "小湿妹资源",
-        "type": 1,
-        "api": "https://www.afasu.com/api/json.php",
-        "searchable": 1,
-        "quickSearch": 1
- },
-
-
-
-
-
-
-
-
 {
         "key": "滴滴资源",
         "name": "滴滴资源",

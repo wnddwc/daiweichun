@@ -9,7 +9,38 @@
         }]
     }],
     "sites": [
-
+{
+        "key": "色屌丝资源",
+        "name": "色屌丝资源",
+        "type": 1,
+        "api": "http://sdszyapi.com/cjapi/mc10/vod/json.html",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "小姐姐资源",
+        "name": "小姐姐资源",
+        "type": 1,
+        "api": "https://xjjzyapi.com/cjapi/mc10/vod/json.html",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "52AVAV",
+        "name": "52AVAV",
+        "type": 1,
+        "api": "https://52zyapi.com/cjapi/mc10/vod/json.html",
+        "searchable": 1,
+        "quickSearch": 1
+ },
+{
+        "key": "我要啪啪",
+        "name": "我要啪啪",
+        "type": 1,
+        "api": "http://www.caiji21.com/cjapi/mc10/vod/json.html",
+        "searchable": 1,
+        "quickSearch": 1
+ },
 
 
 

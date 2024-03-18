@@ -9,14 +9,17 @@
         }]
     }],
     "sites": [
-        {
+       {
             "key": "种子短剧",
             "name": "种子短剧",
             "type": 1,
             "api": "https://zzdj.cc/api.php/provide/vod",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+            }
         },
         {
         "key": "量子资源",

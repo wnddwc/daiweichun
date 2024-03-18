@@ -10,6 +10,14 @@
     }],
     "sites": [
         {
+        "key": "种子短剧",
+        "name": "种子短剧",
+        "type": 1,
+        "api": "https://zzdj.cc/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1
+    }, 
+        {
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,

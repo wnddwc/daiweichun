@@ -9,6 +9,17 @@
         }]
     }],
     "sites": [{
+        "key": "kyB",
+        "name": "快鹰┃采集",
+        "style": {
+            "type": "rect",
+            "ratio": 0.85
+        },
+        "type": 1,
+        "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1
+    }, {
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,
@@ -774,11 +785,18 @@
         "type": 1,
         "url": "http://115.231.220.36:8801/jx/tvbox/2.php?url="
     }, {
+        "name": "kyB",
+        "type": 1,
+        "url": "https://stray.serv00.net/ky.php?url=",
+        "ext": {
+            "flag": ["kyB"]
+        }
+    }, {
         "name": "晨曦解析",
         "type": 1,
         "url": "http://jiexi1.itcxo.cn/api/?key=2NTgVWfapKzXNuue0h&url="
     }],
-    "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "xigua", "bilibili", "miaoparty", "miaoparty2", "miaoparty3", "longteng", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "乐视", "ltnb", "rx", "rongxing", "ld", "LD", "laodi", "xueren", "xfyun", "ziqie", "wuduzy", "CL4K", "xuanfeng", "1920l", "duoduozy"],
+    "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "kyB", "xigua", "bilibili", "miaoparty", "miaoparty2", "miaoparty3", "longteng", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "乐视", "ltnb", "rx", "rongxing", "ld", "LD", "laodi", "xueren", "xfyun", "ziqie", "wuduzy", "CL4K", "xuanfeng", "1920l", "duoduozy"],
     "ijk": [{
         "group": "软解码",
         "options": [{

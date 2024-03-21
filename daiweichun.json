@@ -19,18 +19,7 @@
          "quickSearch":1,
          "playUrl":"json:https://stray.serv00.net/ky.php?url="
      },
-        {
-        "key": "kyB",
-        "name": "快鹰┃采集",
-        "style": {
-            "type": "rect",
-            "ratio": 0.85
-        },
-        "type": 1,
-        "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
+      {
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,

@@ -11,7 +11,7 @@
     "sites": [
         {
          "key":"kyB",
-         "name":"快鹰采集",
+         "name":"快鹰采集一",
          "style":{"type":"rect","ratio":0.85},
          "type":1,
          "api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",

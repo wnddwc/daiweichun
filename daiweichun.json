@@ -9,6 +9,7 @@
         }]
     }],
     "sites": [
+        {"key":"采采_米星","name":"大米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#电视剧$21#动漫$22#综艺$23#福利$35","分类url":"https://dmflm.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;akd0"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
         {
             "key": "555i",
             "name": "555影视2",

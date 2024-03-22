@@ -9,6 +9,17 @@
         }]
     }],
     "sites": [
+        {
+            "key": "555i",
+            "name": "555影视2",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
+            "ext": {
+                "分类": "电影$1#电视剧$2#短剧$3#动漫$4",
+                "分类url": "https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"
+            }
+        },
     {
             "key": "555yingshi","name":"555影视","type":3,"api":"csp_XBPQ","jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
             "ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}

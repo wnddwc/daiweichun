@@ -11,7 +11,7 @@
     "sites": [
     {
             "key": "555yingshi","name":"555影视","type":3,"api":"csp_XBPQ","jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
-            "ext": {"分类":"电影$1#电视剧$2#短剧$45#动漫$4","分类url":"https://555zxdy.com/vodshow/{cateId}--------{catePg}---.html"}
+            "ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
         },
 { "key": "csp_桵空影院","name": "桵空影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"},"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar" },
              {

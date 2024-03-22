@@ -9,6 +9,7 @@
         }]
     }],
     "sites": [
+            { "key": "飞鱼影院","name": "飞鱼影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"},"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
         {
         "key": "csp_lwdy",
         "name": "老王电影[影视]_XBPQ",

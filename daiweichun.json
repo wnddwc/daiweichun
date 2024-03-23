@@ -9,7 +9,12 @@
         }]
     }],
     "sites": [
-      
+      {"key":"SeHuaTang","name":"色花堂|网盘","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy",
+                        "style": {
+                                "type": "rect",
+                                "ratio": 1.5
+                        }
+    },
         
         {
         "key": "飞鱼影院",

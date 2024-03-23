@@ -8,7 +8,8 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{"key": "csp_黄瓜TV",
+    "sites": [
+        {"key": "csp_黄瓜TV",
 "name": "黄瓜TV",
 "type": 3,
 "api": "csp_XBPQ",
@@ -27,7 +28,7 @@
 "链接前缀":"https://nbqlyfdhoe.xyz",
 "链接后缀":"",
 "跳转播放链接":"<source src=\"&&\""
-}}"jar":
+},"jar":
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
 
 

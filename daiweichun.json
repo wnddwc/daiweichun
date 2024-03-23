@@ -9,8 +9,8 @@
         }]
     }],
     "sites": [
-        {"key":"csp_Yisou","name":"🅰️阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.","jar":
-"https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/raw/b66cd66eac75f4f5f515463bb0a9306ac188a67f/jar/XYQ.jar"},
+       {"key":"csp_Yisou","name":"🅰️阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.","jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar""},
         
         
         {

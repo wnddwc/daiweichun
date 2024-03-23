@@ -8,14 +8,17 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [
-{"key":"csp_Yisou","name":"🅰️阿里易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.","jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-        
-        
-        
-        { "key": "飞鱼影院","name": "飞鱼影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"},"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-        {
+    "sites": [{
+        "key": "飞鱼影院",
+        "name": "飞鱼影院",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "ext": {
+            "分类url": "https://www.fydy8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+        },
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "csp_lwdy",
         "name": "老王电影[影视]_XBPQ",
         "type": 3,
@@ -25,8 +28,7 @@
             "分类": "电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"
         },
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },
-        { 
+    }, {
         "key": "采采_米星",
         "name": "大米",
         "type": 3,
@@ -752,49 +754,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0
-    },
-        { 
-      "key": " ♥️色花堂  ", 
-      "name": "♥️色花堂", 
-      "type": 3, 
-      "api": "csp_XBPQ", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "ext": { 
-"站名":"色花堂", 
-"主页url":"https://6lhzry.com", 
-"数组":"<div class=\"img-box cover-md\">&&</h6>", 
-"图片":"data-original=\"&&\"", 
-"标题":"<h6 class=\"title\">&&</a>", 
-"链接":"href=\"&&\"", 
-"副标题":"<div class=\"ribbon-top-left\">&&</span>", 
-"线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]", 
-"线路标题":">&&</a>", 
-"搜索url":"https://6lhzry.com/vodsearch/{wd}----------{pg}---.html", 
-"搜索模式":"1", 
-"搜索副标题":"<span class=\"score\">&&</span>", 
-//"搜索链接前缀":"https://10gaokk.com", 
-//"搜索链接后缀":"-1-1.html", 
-"搜索后缀":"/vodplay/", 
-"播放数组":"class=\"item line\">&&</div>", 
-"影片类型":"<p class=\"sub-title\">&&</p>", 
-"导演":"class=\"data\">类型：&&</p>", 
-"主演":"class=\"data\">主演：&&</p>", 
-"简介":"<div class=\"header-left\">&&</div>", 
-"播放列表":"<a&&/a>", 
-"播放标题":">&&<", 
-"播放链接":"href=\"&&\"", 
-"播放链接前缀":"https://6lhzry.com", 
-//"免嗅":"1", 
-"分类":"国产精品&日韩亚洲&自拍偷拍&欧美精品&主播视频&中文字幕&日韩无码&动漫成人&推荐视频&同性人妖&巨乳颜射&口交自慰&制服淫穴&换脸AI区&三级综艺&重味3P&强奸乱伦&精品女优&人妻系列&极骚萝莉&HEYZO&独家诱惑&首次少女&高潮喷吹", 
-"分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24", 
-"分类url":"https://6lhzry.com/vodtype/{cateId}-{catePg}.html" 
-}, 
-      "jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar 
-"  
-    },
-        {
+    }, {
         "key": "zp100",
         "name": "乐播",
         "type": 0,

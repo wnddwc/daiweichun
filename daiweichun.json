@@ -9,7 +9,8 @@
         }]
     }],
     "sites": [
-
+{"key":"Clg","name":"磁力狗","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://clg.clgvip1.xyz/","jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
 
 
 
@@ -20,8 +21,6 @@
 
 
         
-{"name": "lz","hosts": ["lz"],"regex": ["18.5333","19.52"]},
-{"name":"ff","hosts":["vip.ffzy","hd.ffzy","ffzy"],"regex":["25.0666","25.08","20.52","25.1","25.1999"]},     
         {
         "key": "飞鱼影院",
         "name": "飞鱼影院",

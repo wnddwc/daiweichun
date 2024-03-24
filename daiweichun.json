@@ -9,20 +9,8 @@
         }]
     }],
     "sites": [
-{
-            "key": "BtSearch",
-            "name": "磁力搜索",
-            "type": 3,
-            "api": "csp_BtSearch",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "null$$$null$$$1",
-            "jar":
+{"key":"BtSearch","name":"BtSearch（pg）","type":3,"api":"csp_BtSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-
-
         
         {
         "key": "飞鱼影院",

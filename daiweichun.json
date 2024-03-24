@@ -8,8 +8,7 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [  
-        {
+    "sites": [{
         "key": "飞鱼影院",
         "name": "飞鱼影院",
         "type": 3,
@@ -534,9 +533,19 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
-    },
-        {"key":"Clg","name":"📀💕磁力狗|磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
-        {
+    }, {
+        "key": "Clg",
+        "name": "📀💕磁力狗|磁力",
+        "type": 3,
+        "api": "csp_Clg",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 0,
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
+    }, {
         "key": "csp_Aid",
         "name": "急救指南",
         "type": 3,
@@ -757,29 +766,29 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0
-    },
-                {"key": "csp_黄瓜TV",
-"name": "黄瓜TV",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"请求头":"手机",
-"直接播放":"1",
-"分类url":"https://nbqlyfdhoe.xyz/vod/list.html?type_id={cateId}&page={catePg}",
-"分类":"日韩无码$1068#欧美无码$1069#中文字幕$1070#日韩有码$1071#国产自拍$1072#国产偷拍$1073#卡通动漫$1074#三级剧情$1075",
-"数组":"class=\"listpic\"&&</a>",
-"标题":"class=\"vodname\"&&</div>",
-"链接":"href=\"&&\"",
-"图片":"data-original=\"&&\"",
-"链接前缀":"https://nbqlyfdhoe.xyz",
-"链接后缀":"",
-"跳转播放链接":"<source src=\"&&\""
-},"jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-        {
+    }, {
+        "key": "csp_黄瓜TV",
+        "name": "黄瓜TV",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "请求头": "手机",
+            "直接播放": "1",
+            "分类url": "https://nbqlyfdhoe.xyz/vod/list.html?type_id={cateId}&page={catePg}",
+            "分类": "日韩无码$1068#欧美无码$1069#中文字幕$1070#日韩有码$1071#国产自拍$1072#国产偷拍$1073#卡通动漫$1074#三级剧情$1075",
+            "数组": "class=\"listpic\"&&</a>",
+            "标题": "class=\"vodname\"&&</div>",
+            "链接": "href=\"&&\"",
+            "图片": "data-original=\"&&\"",
+            "链接前缀": "https://nbqlyfdhoe.xyz",
+            "链接后缀": "",
+            "跳转播放链接": "<source src=\"&&\""
+        },
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "zp100",
         "name": "乐播",
         "type": 0,

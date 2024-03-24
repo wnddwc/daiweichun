@@ -9,6 +9,61 @@
         }]
     }],
     "sites": [
+{
+    "key": "clg",
+    "name": "🍃 | 磁力狗 | 💠",
+    "type": 3,
+    "api": "csp_Clg",
+    "searchable": 1,
+    "changeable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1"
+},
+{
+    "key": "BtSearch",
+    "name": "🍃 | BT搜索 | 💠",
+    "type": 3,
+    "api": "csp_BtSearch",
+    "searchable": 1,
+    "changeable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+},
+{
+    "key": "BtSow",
+    "name": "🍃 | BTSow | 💠",
+    "type": 3,
+    "api": "csp_BtSow",
+    "searchable": 1,
+    "changeable": 1,
+    "timeout": 60,
+    "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
         {
         "key": "飞鱼影院",
         "name": "飞鱼影院",

@@ -20,7 +20,27 @@
             "分类url": "https://www.6huo.com/vodshow/{cateId}--------{catePg}---.html"
         }
     },
-        
+    {"key": "csp_91黑料",
+"name": "91黑料",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"请求头":"手机",
+"直接播放":"1",
+"分类url":"https://kb17.oneoneno8cd345.xyz/one/vod/list.html?type_id={cateId}&page={catePg}",
+"分类":"日韩无码$1068#欧美无码$1069#中文字幕$1070#日韩有码$1071#国产自拍$1072#国产偷拍$1073#卡通动漫$1074#三级剧情$1075",
+"数组":"class=\"listpic\"&&</a>",
+"标题":"class=\"vodname\"&&</div>",
+"链接":"href=\"&&\"",
+"图片":"data-original=\"&&\"",
+"链接前缀":"https://kb17.oneoneno8cd345.xyz/one",
+"链接后缀":"",
+"跳转播放链接":"<source src=\"&&\""
+},"jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},    
         
         
         

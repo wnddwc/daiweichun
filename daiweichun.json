@@ -9,43 +9,7 @@
         }]
     }],
     "sites": [
-{"key": "csp_91黑料",
-"name": "91黑料",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": {
-"请求头":"手机",
-"直接播放":"1",
-"分类url":"https://kb17.oneoneno8cd345.xyz/one/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-"分类":"传媒系列$1068#女优$1069#日本番號$1070#国产$1071#日本有码$1072#有码精品$1073#无码精品$1074#欧美精品$1075#动漫精品$1076#韩国主播$1077#AI换脸$1078#麻豆传媒$1079#天美传媒$1080#蜜桃传媒$1081#综合探花$1082#综合番号$1083#网红黑料$1084#网曝$1085#黑料福利网$1086#必备福利$1087#帝王会所$1088",
-"数组":"class=\"listpic\"&&</a>",
-"标题":"class=\"vodname\"&&</div>",
-"链接":"href=\"&&\"",
-"图片":"data-original=\"&&\"",
-"链接前缀":"https://kb17.oneoneno8cd345.xyz/one",
-"链接后缀":"",
-"跳转播放链接":"<source src=\"&&\""
-},"jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        {
+ {
         "key": "飞鱼影院",
         "name": "飞鱼影院",
         "type": 3,

@@ -8,7 +8,36 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{
+    "sites": [
+        {
+        "key": "预告片世界",
+        "name": "预告片世界",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+        "ext": {
+            "分类": "全部电影$1#即将上映$2#素材网盘$4",
+            "分类url": "https://www.6huo.com/vodshow/{cateId}--------{catePg}---.html"
+        }
+    },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {
         "key": "飞鱼影院",
         "name": "飞鱼影院",
         "type": 3,

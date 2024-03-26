@@ -9,6 +9,17 @@
         }]
     }],
     "sites": [
+        {
+            "key": "玩你网盘",
+            "name": "玩你💯网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$./json/wogg.json"
+        },
 {"key": "Wexxpgtv","name": "红富士TV","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
 {"key": "mingriyingshi","name":" 明日TV","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
  {      "key": "飞鱼影院",

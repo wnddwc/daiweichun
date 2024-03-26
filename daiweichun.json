@@ -9,7 +9,15 @@
         }]
     }],
     "sites": [
-    {
+{"key": "Wexxpgtv","name": "红富士TV","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
+
+
+{"key": "Wexdiguatv","name":" 桃子TV","type": 3,"api": "csp_Wexdiguatv","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
+
+
+{"key": "mingriyingshi","name":" 明日TV","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
+        
+        {
         "key": "飞鱼影院",
         "name": "飞鱼影院",
         "type": 3,

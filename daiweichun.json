@@ -12,15 +12,11 @@
 {"key": "Wexxpgtv","name": "红富士TV","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
 {"key": "mingriyingshi","name":" 明日TV","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
 
-        {
-"spider":"./jar/pg.jar",
-"sites":[
-{"key":"Taohuazu","name":"桃花族🔞","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
+       {"key":"Taohuazu","name":"桃花族🔞","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 
 {"key":"SeHuaTang","name":"色花堂🔞","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy","style": {"type": "rect","ratio": 1.5}},
 
-{"key":"色播","name":"色播🔞","type":3,"api":"./json/色播.js","searchable":1,"changeable":0,"style":{"type":"list"}}}],
-
+{"key":"色播","name":"色播🔞","type":3,"api":"./json/色播.js","searchable":1,"changeable":0,"style":{"type":"list"}},
         
         {
         "key": "飞鱼影院",

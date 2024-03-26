@@ -9,6 +9,13 @@
         }]
     }],
     "sites": [
+        {
+      "key": "耐看点播",
+      "name": "👑耐看 | 优质",
+      "type": 3,
+      "viewType":2,            
+      "api": "csp_XBPQ",
+      "ext": {"分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.nkvod.us/show/{cateId}--------{catePg}---{year}.html"},     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
  {
         "key": "飞鱼影院",
         "name": "飞鱼影院",

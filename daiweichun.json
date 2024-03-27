@@ -9,14 +9,14 @@
         }]
     }],
     "sites": [
-        {
+    {
 			"key": "酷狗",
 			"name": "酷狗",
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
-			"changeable": 0
-		},
+			"changeable": 0,
+                        "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
      {
             "key": "玩你网盘",
             "name": "玩你💯网盘",

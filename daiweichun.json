@@ -8,54 +8,44 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [
-	    {"key":"可可影视","name":"可可有广💞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/klopkang/LS/raw/branch/master/可可影视.txt","jar": "https://download.kstore.space/download/3924/JAR/C1.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
-	    {
-        "key": "baipiaoys",
-        "name": "💯白嫖 ┃ 影视",
+    "sites": [{
+        "key": "酷狗",
+        "name": "酷狗",
         "type": 3,
-        "changeable": 1,
+        "api": "csp_Kugou",
         "searchable": 1,
+        "changeable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
+    }, {
+        "key": "玩你网盘",
+        "name": "玩你💯网盘",
+        "type": 3,
+        "api": "csp_Wobg",
         "quickSearch": 1,
+        "changeable": 1,
         "filterable": 1,
-        "api": "csp_XBPQ",
-        "ext": {
-            "主页url": "https://www.baipiaoys.com:9092/",
-            "副标题": "pic-text text-right\">&&</b>",
-            "搜索模式": "1",
-            "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
-            "图片": "data-original=\"&&\"",
-            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-            "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-        },
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },
-	   {
-			"key": "酷狗",
-			"name": "酷狗",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0,
-                        "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
-     {
-            "key": "玩你网盘",
-            "name": "玩你💯网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$./json/wogg.json",
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
-{"key": "Wexxpgtv","name": "红富士TV","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
-{"key": "mingriyingshi","name":" 明日TV","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
- {      "key": "飞鱼影院",
+        "timeout": 60,
+        "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://tv.yydsys.top$$$null$$$1$$$./json/wogg.json",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
+    }, {
+        "key": "Wexxpgtv",
+        "name": "红富士TV",
+        "type": 3,
+        "api": "csp_Wexxpgtv",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar",
+        "searchable": 1,
+        "changeable": 1
+    }, {
+        "key": "mingriyingshi",
+        "name": " 明日TV",
+        "type": 3,
+        "api": "csp_WexMingriys",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["电影", "电视剧"]
+    }, {
+        "key": "飞鱼影院",
         "name": "飞鱼影院",
         "type": 3,
         "api": "csp_XBPQ",
@@ -107,7 +97,30 @@
             "分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"
         },
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },  {
+    }, {
+        "key": "baipiaoys",
+        "name": "💯白嫖 ┃ 影视",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "csp_XBPQ",
+        "ext": {
+            "主页url": "https://www.baipiaoys.com",
+            "副标题": "pic-text text-right\">&&</b>",
+            "搜索模式": "1",
+            "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
+            "图片": "data-original=\"&&\"",
+            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+            "导演": "导演：&&</div>",
+            "主演": "主演：&&</div>",
+            "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+            "分类url": "https://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+        },
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "量子资源",
         "name": "量子资源",
         "type": 1,
@@ -436,15 +449,6 @@
         },
         "ext": "http://www.1080dyw.cc/api.php/v1.vod"
     }, {
-        "key": "csp_如如",
-        "name": "🏵如如┃App",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://cms.maoyingshi.cc/api.php/app/"
-    }, {
         "key": "八戒资源",
         "name": "八戒资源",
         "type": 1,
@@ -609,9 +613,18 @@
         "api": "https://naixxzy.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
-    },
-       {"key":"Taohuazu","name":"桃花族🔞","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"},
-        {
+    }, {
+        "key": "Taohuazu",
+        "name": "桃花族🔞",
+        "type": 3,
+        "api": "csp_Taohuazu",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 0,
+        "timeout": 60,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
+    }, {
         "key": "奥斯卡资源",
         "name": "奥斯卡资源",
         "type": 1,

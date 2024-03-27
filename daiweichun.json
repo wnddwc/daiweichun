@@ -9,6 +9,7 @@
         }]
     }],
     "sites": [
+	    {"key":"可可影视","name":"可可有广💞","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/klopkang/LS/raw/branch/master/可可影视.txt","jar": "https://download.kstore.space/download/3924/JAR/C1.jar;md5;BB155C3F0133BBCE4756AD52003F5968"},
 	    {
         "key": "baipiaoys",
         "name": "💯白嫖 ┃ 影视",

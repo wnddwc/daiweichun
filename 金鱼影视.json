@@ -14,7 +14,6 @@
     "影片状态":"年份：&&</p>",
     "搜索url":"https://jinyuys.com/search.html?keyword={wd}",
     "搜索模式":"1",
-    //"搜索二次截取":"<div class=\"module-items module-card-items\">&&<div class=\"fixedGroup\">",
     "搜索数组":"<div class=\"thumb\">&&</div>",
     "搜索图片":"data-original=\"&&\"",
     "搜索标题":"title=\"&&\"",

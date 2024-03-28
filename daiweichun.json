@@ -9,7 +9,7 @@
         }]
     }],
     "sites": [
-       {
+ {
         "key": "九一电影",
         "name": "九一电影",
         "type": 3,
@@ -18,8 +18,19 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E4%B9%9D%E4%B8%80%E7%94%B5%E5%BD%B1%E7%BD%91.json",
-        "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/1110.jar"
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
     },
+{
+        "key": "可可影视",
+        "name": "可可有广💞",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://agit.ai/klopkang/LS/raw/branch/master/可可影视.txt",
+        "jar": "https://download.kstore.space/download/3924/JAR/C1.jar;md5;BB155C3F0133BBCE4756AD52003F5968"
+    },  
         {
         "key": "酷狗",
         "name": "酷狗",

@@ -1,6 +1,5 @@
 {
     "主页url":"http://www.123mao.com/",
-//"头部集合": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36#Host$www.doubiekan.cn#Referer$http://www.doubiekan.cn/#Cookie$PHPSESSID=6fhvucojbmgkcdaimu8rea3490; zanpiancmszanpian_playlog=think%3A%7B%22id_101727%22%3A%7B%22log_vid%22%3A%22101727%22%2C%22log_sid%22%3A%221%22%2C%22log_pid%22%3A%221%22%2C%22log_urlname%22%3A%221%22%2C%22log_maxnum%22%3A%2212%22%2C%22log_addtime%22%3A%221711422589%22%7D%2C%22id_45708%22%3A%7B%22log_vid%22%3A%2245708%22%2C%22log_sid%22%3A0%2C%22log_pid%22%3A%2252%22%2C%22log_urlname%22%3A%2252%22%2C%22log_maxnum%22%3A%2252%22%2C%22log_addtime%22%3A%221711428844%22%7D%7D; fikker-pkXW-NQjC=Iiny0eJkOSLaDcHSnYVOBc2y4JNw0yRM; fikker-pkXW-NQjC=Iiny0eJkOSLaDcHSnYVOBc2y4JNw0yRM",
     "二次截取": "部页次&&部页次",
 	"数组": "<li>&&分类",
 	"副标题": "状态：&&<BR>",
@@ -19,7 +18,6 @@
     "简介": "",
     "导演":"影片导演：&&<BR>",
     "主演":"影片主演：&&<BR>",
-    //"线路二次截取": "<ul class=\"nav nav-tabs hidden-xs\"&&</ul>",
 	"线路数组": "<div class=\"mtop\">&&</div>",
 	"线路标题": "xe62f;</i>&&</font>",
 	"播放数组": "<div class=\"list playlist\">&&</div>",

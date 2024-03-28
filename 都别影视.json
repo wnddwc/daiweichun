@@ -8,12 +8,6 @@
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
     "搜索模式":"0",
-    //"搜索url":"/search/;post;wd={wd}",
-    //"搜索二次截取": "搜索关键词&&<div class=\"col-md-3 col-sm-12 box-main-side hidden-sm hidden-xs\">",
-    //"搜索数组": "<div class=\"details-info-min col-md-12 col-sm-12 col-xs-12 clearfix news-box-txt p-0\">&&</div>",
-    //"搜索标题": "title=\"&&\"",
-    //"搜索图片": "data-original=\"&&\"",
-    //"搜索链接": "href=\"&&\"",
     "搜索url":"/index.php?s=home-search-vod&q={wd}&limit=500",
   "jspic": "pic",
   "jsname": "vod_name",
@@ -93,4 +87,3 @@
   {"n":"2006","v":"2006"},
   {"n":"2005","v":"2005"},
   {"n":"2004","v":"2004"}]}]}
-}

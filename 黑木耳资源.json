@@ -1,7 +1,6 @@
 {
   "作者": "凯哥",
   "站名": "采集",
-  //"首页": "电影",
   "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
   "分类": "国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&冒险片&奇幻片&惊悚片&欧美剧&港剧&台剧&韩剧&日剧&泰剧&国产综艺&港台综艺&韩国综艺&日本综艺&欧美综艺&欧美动漫&日本动漫&国产动漫&古装短剧&虐恋短剧&逆袭短剧&神豪短剧&重生短剧&甜宠短剧&其他短剧",
   "分类值": "13&10&23&12&34&25&7&8&11&21&30&14&29&15&16&28&38&39&40&41&42&57&58&60&45&46&47&49&50&53&56",
@@ -34,6 +33,4 @@
   "播放链接": "链&&链+?sku=OWY3ZDA4ZjVjYzY3YmRhYjM5NTUwYzEyZWRjNjUyZWM1NjQ2ZGRjYTVhMGVkM2Nh&p=1&sign=9a69d1563936ead3677623722660c4d9",
    "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://heimuer.tv/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
   "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
-  //"倒序播放": "0",
-  //"免嗅": "0"
 }

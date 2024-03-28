@@ -8,8 +8,7 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [
-         {
+    "sites": [{
         "key": "加菲猫",
         "name": "加菲猫",
         "type": 3,
@@ -18,8 +17,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%8A%A0%E8%8F%B2%E7%8C%AB%E5%BD%B1%E8%A7%86.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-{
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "黑木耳资源",
         "name": "黑木耳资源",
         "type": 3,
@@ -28,8 +27,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%BB%91%E6%9C%A8%E8%80%B3%E8%B5%84%E6%BA%90.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-{
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "天龙影视",
         "name": "天龙影视",
         "type": 3,
@@ -38,8 +37,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A4%A9%E9%BE%99%E5%BD%B1%E8%A7%86.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
- {
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "金鱼影视",
         "name": "金鱼影视",
         "type": 3,
@@ -48,27 +47,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%87%91%E9%B1%BC%E5%BD%B1%E8%A7%86.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-{
-        "key": "都别看影视",
-        "name": "都别看影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%83%BD%E5%88%AB%E5%BD%B1%E8%A7%86.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
-
-
-
-
-
-
-
-
-        
-         {
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
+    }, {
         "key": "baipiaoys",
         "name": "💯白嫖 ┃ 影视",
         "type": 3,
@@ -91,8 +71,7 @@
             "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
         },
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    }, 
-{
+    }, {
         "key": "可可影视",
         "name": "可可有广💞",
         "type": 3,
@@ -102,8 +81,7 @@
         "filterable": 1,
         "ext": "https://agit.ai/klopkang/LS/raw/branch/master/可可影视.txt",
         "jar": "https://download.kstore.space/download/3924/JAR/C1.jar;md5;BB155C3F0133BBCE4756AD52003F5968"
-    },  
-        {
+    }, {
         "key": "酷狗",
         "name": "酷狗",
         "type": 3,

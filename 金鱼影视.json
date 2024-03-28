@@ -1,10 +1,7 @@
 {
     "作者":"凯哥",
     "站名":"金鱼影视",
-    //"主页url":"https://往往影视.com/www.wwys.pro",
-    //"请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
     "主页url":"https://jinyuys.com/",
-   // "二次截取":"<ul class=\"hl-vod-list clearfix\">&&<ul class=\"hl-page-wrap hl-text-center cleafix\">",
     "数组":"lazyload&&</a>",
     "图片":"data-original=\"&&\"",
     "标题":"title=\"&&\"",
@@ -35,7 +32,6 @@
     "嗅探词":".m3u8#.mp4?#tos-cn-i-siecs4i2o7#.mp4",
     "过滤词":"url#.m3u8.cloud#51.la#cnzz.com#baidu.com#bilibili.com",
     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-    //"免嗅":"0",
  "筛选":{
 "2":[
   {"key":"class","name":"类型","value":[

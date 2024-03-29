@@ -9,7 +9,7 @@
         }]
     }],
     "sites": [
-        {
+      {
             "key": "耐看点播",
             "name": "耐看点播",
             "type": 3,
@@ -20,9 +20,8 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$21",
-                "分类url": "https://www.nkvod.us/type/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
-            }
-        },
+                "分类url": "https://www.nkvod.us/type/{cateId}/area/{area}/page/{catePg}/year/{year}.html"},
+                  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"},
         {
         "key": "黑木耳资源",
         "name": "黑木耳资源",

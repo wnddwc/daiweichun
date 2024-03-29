@@ -8,7 +8,22 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{
+    "sites": [
+        {
+            "key": "耐看点播",
+            "name": "耐看点播",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$21",
+                "分类url": "https://www.nkvod.us/type/{cateId}/area/{area}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
         "key": "黑木耳资源",
         "name": "黑木耳资源",
         "type": 3,

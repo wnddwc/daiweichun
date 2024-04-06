@@ -11,8 +11,16 @@
     "sites": [
 { "key": "XBPQ_XSmp3", "name": "随身相声┃XBPQ", "type": 3, "searchable": 0, "style": { "type": "rect", "ratio": 1.597 }, "quickSearch": 0, "api": "csp_XBPQ", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar", "ext": { "主页url": "https://www.xsmp3.com", "数组二次截取": "<ul id=\"post_list_box\">&&</ul", "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>", "图片": "https://agit.ai/lengniuge/api/raw/branch/master/xs.jpg", "标题": "title=\"&&\"", "副标题": ">&&</a", "链接": "href=\"&&\"", "播放二次截取": "autoplay&&;</script>", "播放数组": "\\[&&\\]", "播放列表": "{&&}", "播放链接": "url*\"&&\"", "播放标题": "name*\"&&\"", "播放副标题": "artist*\"&&\"", "线路数组": "相声随身听", "线路标题": "相声随身听", "导演": "随身听", "主演": "相声明星", "简介": "相声合集", "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av", "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj" } }, 
 { "key": "XBPQ_PSmp3", "name": "随身评书┃XBPQ", "type": 3, "searchable": 0, "style": { "type": "rect", "ratio": 1.597 }, "quickSearch": 0, "api": "csp_XBPQ", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar", "ext": { "主页url": "https://www.psmp3.com", "数组二次截取": "<ul id=\"post_list_box\">&&</ul", "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>", "图片": "https://agit.ai/lengniuge/api/raw/branch/master/ps.jpg", "标题": "title=\"&&\"", "副标题": ">&&</a", "链接": "href=\"&&\"", "播放二次截取": "autoplay&&;</script>", "播放数组": "\\[&&\\]", "播放列表": "{&&}", "播放链接": "url*\"&&\"", "播放标题": "name*\"&&\"", "播放副标题": "artist*\"&&\"", "线路数组": "评书随身听", "线路标题": "评书随身听", "导演": "随身听", "主演": "评书明星", "简介": "评书合集", "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av", "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy" } },
-{"name":"iKun","type":1,"url":"https://ikdmjx.com/?url=","ext":{"flag":["iKun","ikm3u8"]}}
 {
+            "key": "iKun",
+            "name": "iKan",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+            "playerType": 2,
+             "playUrl": "https://ikdmjx.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1
+},
+        {
         "key": "黑木耳资源",
         "name": "黑木耳资源",
         "type": 3,

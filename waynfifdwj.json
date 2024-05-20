@@ -9,9 +9,9 @@
         }]
     }],
     "sites": [
-	     {
+	    {
         "key": "新感觉",
-        "name": "📺新感觉┃TV4K",
+        "name": "新感觉┃TV4K",
         "type": 1,
         "api": "http://27.54.236.201/api.php/provide/vod/",
         "searchable": 1,

@@ -10,12 +10,12 @@
     }],
     "sites": [ {
         "key": "新感觉",
-        "name": "新感觉TV4k",
+        "name": "新感觉TV",
         "type": 1,
         "api": "http://27.54.236.201/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
-        "categories": ["连续剧", "电影", "综艺", "动漫", "体育", "短剧"]
+        "categories": ["连续剧", "电影", "综艺", "动漫", "体育","少儿", "音乐",""短剧","直播","解说"]
     },{
         "key": "黑木耳资源",
         "name": "黑木耳资源",

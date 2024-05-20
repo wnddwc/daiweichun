@@ -8,17 +8,15 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]
         }]
     }],
-    "sites": [{
+    "sites": [ {
         "key": "新感觉",
-        "name": "📺新感觉┃TV4K",
-        "type": 3,
+        "name": "新感觉TV4k",
+        "type": 1,
         "api": "http://27.54.236.201/api.php/provide/vod/",
-        "playUrl": "json:http://27.54.236.201:1122/Cache/json.php?url=",
-        "timeout": 15,
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
+        "categories": ["连续剧", "电影", "综艺", "动漫", "体育", "短剧"]
+    },{
         "key": "黑木耳资源",
         "name": "黑木耳资源",
         "type": 3,

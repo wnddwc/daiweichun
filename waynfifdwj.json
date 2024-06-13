@@ -8,29 +8,26 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYudHh0"]
         }]
     }],
-    "sites": [
-{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"proxy":"proxy",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":""
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
-		},
-
-{
+    "sites": [{
+        "key": "Youtube",
+        "name": "Youtube",
+        "type": 3,
+        "api": "csp_Youtube",
+        "searchable": 1,
+        "quickSearch": 0,
+        "changeable": 0,
+        "ext": {
+            "json": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
+            "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+            "proxy": "proxy",
+            "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+            "codecs": ""
+        },
+        "style": {
+            "type": "rect",
+            "ratio": 1.5
+        }
+    }, {
         "key": "XBPQ_JQQZX",
         "name": "剧圈在线┃XBPQ",
         "type": 3,

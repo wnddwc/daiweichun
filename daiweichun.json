@@ -19,6 +19,14 @@
         "indexs": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/douban.json"
     }, {
+        "key": "网盘配置",
+        "name": "网盘及彈幕配置",
+        "type": 3,
+        "api": "csp_Config",
+        "searchable": 0,
+        "changeable": 0,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json"
+    }, {
         "key": "XBPQ_JQQZX",
         "name": "剧圈在线┃XBPQ",
         "type": 3,

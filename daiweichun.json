@@ -25,13 +25,13 @@
         "api": "csp_Config",
         "searchable": 0,
         "changeable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json"
     }, {
         "key": "Local",
         "name": "本地",
         "type": 3,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "api": "csp_Local"
     }, {
         "key": "PushShare",
@@ -43,8 +43,8 @@
         "changeable": 1,
         "filterable": 0,
         "timeout": 60,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$.https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
         "style": {
             "type": "list",
             "ratio": 1.1
@@ -57,10 +57,10 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "filterable": 0,
         "timeout": 60,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$.https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.txt$$$db$$$1",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.txt$$$db$$$1",
         "style": {
             "type": "list",
             "ratio": 1.1

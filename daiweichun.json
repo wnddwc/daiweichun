@@ -28,6 +28,12 @@
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
     }, {
+        "key": "Local",
+        "name": "本地",
+        "type": 3,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "api": "csp_Local"
+    }, {
         "key": "XBPQ_JQQZX",
         "name": "剧圈在线┃XBPQ",
         "type": 3,

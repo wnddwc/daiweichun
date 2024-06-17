@@ -16,7 +16,36 @@
         "searchable": 0,
         "changeable": 0,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json"
-    }, {
+    },
+{"key":"YunSo","name":"小云搜索|网盘搜索","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://www.yunso.net$$$null$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+{"key":"YunPanOne","name":"云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$null$$$proxy$$$1"},	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    {
         "key": "Gaoqing",
         "name": "中国高清网|网盘",
         "type": 3,

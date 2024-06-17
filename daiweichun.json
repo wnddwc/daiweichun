@@ -44,7 +44,7 @@
         "filterable": 0,
         "timeout": 60,
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$/https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
         "style": {
             "type": "list",
             "ratio": 1.1

@@ -1,6 +1,6 @@
 {
     "wallpaper": "",
-    "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
     "lives": [{
         "group": "redirect",
         "channels": [{
@@ -9,6 +9,17 @@
         }]
     }],
     "sites": [{
+        "key": "drpy_js_磁力熊",
+        "name": "磁力熊[js]|索引",
+        "type": 3,
+        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy2.min.js",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/cilixiongp.js",
+        "playerType": "1",
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 1,
+        "indexs": 1
+    }, {
         "key": "XBPQ_JQQZX",
         "name": "剧圈在线┃XBPQ",
         "type": 3,

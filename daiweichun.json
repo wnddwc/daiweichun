@@ -9,7 +9,7 @@
         }]
     }],
     "sites": [
-{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",,
+{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
@@ -54,8 +54,7 @@
 				"筛选": "1",
 				"类型": "喜剧$22#动作$23#战争$25#爱情$26#悬疑$27#武侠$28#科幻$30#冒险$31#警匪$32#动画$33#惊悚$34#犯罪$35#恐怖$36#剧情$37#历史$38#纪录$39#传记$40#歌舞$41||国产剧$14#欧美剧$15#港台剧$16#日韩剧$62#其他剧$68||国产动漫$75#日韩动漫$76#欧美动漫$77#港台动漫$78#其他动漫$80||国产综艺$69#港台综艺$70#日韩综艺$72#欧美综艺$73#其他综艺$74"
 				}
-		},	    
-	    
+		},
 	    
 	    
 	    

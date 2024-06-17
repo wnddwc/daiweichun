@@ -50,6 +50,18 @@
             "ratio": 1.1
         }
     }, {
+        "key": "SambaShare",
+        "name": "Samba分享",
+        "type": 3,
+        "api": "csp_SambaShare",
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0,
+        "filterable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/sambashare.txt"
+    }, {
         "key": "Local",
         "name": "本地",
         "type": 3,

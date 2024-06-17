@@ -9,56 +9,117 @@
         }]
     }],
     "sites": [{
-        "key": "豆瓣",
-        "name": "豆瓣",
+        "key": "ThunderShare",
+        "name": "迅雷云盘分享",
         "type": 3,
-        "api": "csp_Douban",
+        "api": "csp_ThunderShare",
         "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0,
+        "filterable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/thundershare.txt",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
+        "key": "PikPakShare",
+        "name": "PikPak分享",
+        "type": 3,
+        "api": "csp_PikPakShare",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pikpakclass.template.json$$$.https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pikpakclass.json.db.gz",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
+        "key": "网盘配置",
+        "name": "网盘及彈幕配置",
+        "type": 3,
+        "api": "csp_Config",
+        "searchable": 0,
+        "changeable": 0,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
+    }, {
+        "key": "Local",
+        "name": "本地",
+        "type": 3,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "api": "csp_Local"
+    }, {
+        "key": "PushShare",
+        "name": "我的资源分享",
+        "type": 3,
+        "api": "csp_PushShare",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 0,
+        "timeout": 60,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
+        "key": "AliShare",
+        "name": "阿里云盘影视分享",
+        "type": 3,
+        "api": "csp_AliShare",
+        "searchable": 1,
+        "quickSearch": 1,
         "changeable": 1,
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "indexs": 1,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/douban.json"
-    }, 
-{
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-	"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
-		},
-{"key":"Local","name":"本地","type":3,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar","api":"csp_Local"},
-{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar", "filterable":0, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-{"key":"AliShareEBook","name":"阿里云盘书籍分享","type":3,"api":"csp_AliShare","searchable":0,"quickSearch":0, "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar","changeable":0, "filterable":0, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.ebook.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":0,"quickSearch":0, "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar","changeable":0, "filterable":0, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/quarkshare.txt",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-
-
- {
+        "filterable": 0,
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.txt$$$db$$$1",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
+        "key": "AliShareEBook",
+        "name": "阿里云盘书籍分享",
+        "type": 3,
+        "api": "csp_AliShare",
+        "searchable": 0,
+        "quickSearch": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "changeable": 0,
+        "filterable": 0,
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.ebook.txt$$$db$$$1",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
+        "key": "QuarkShare",
+        "name": "夸克云盘分享",
+        "type": 3,
+        "api": "csp_QuarkShare",
+        "searchable": 0,
+        "quickSearch": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "changeable": 0,
+        "filterable": 0,
+        "timeout": 60,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/quarkshare.txt",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
         "key": "XBPQ_JQQZX",
         "name": "剧圈在线┃XBPQ",
         "type": 3,
@@ -736,6 +797,16 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+    }, {
+        "key": "豆瓣",
+        "name": "豆瓣",
+        "type": 3,
+        "api": "csp_Douban",
+        "searchable": 0,
+        "changeable": 1,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "indexs": 1,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/douban.json"
     }, {
         "key": "Clg",
         "name": "📀💕磁力狗|磁力",

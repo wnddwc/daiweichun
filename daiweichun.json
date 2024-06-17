@@ -16,7 +16,6 @@
         "searchable": 0,
         "changeable": 0,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
     }, {
         "key": "ThunderShare",
         "name": "迅雷云盘分享",
@@ -26,7 +25,6 @@
         "quickSearch": 0,
         "changeable": 0,
         "filterable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "timeout": 60,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/thundershare.txt",
         "style": {
@@ -42,7 +40,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "timeout": 60,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pikpakclass.template.json$$$.https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pikpakclass.json.db.gz",
         "style": {
@@ -58,14 +55,12 @@
         "quickSearch": 0,
         "changeable": 0,
         "filterable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "timeout": 60,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/sambashare.txt"
     }, {
         "key": "Local",
         "name": "本地",
         "type": 3,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "api": "csp_Local"
     }, {
         "key": "PushShare",
@@ -77,7 +72,6 @@
         "changeable": 1,
         "filterable": 0,
         "timeout": 60,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pushshare.txt$$$db$$$1",
         "style": {
             "type": "list",
@@ -91,7 +85,6 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "filterable": 0,
         "timeout": 60,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/alishare.txt$$$db$$$1",
@@ -106,7 +99,6 @@
         "api": "csp_AliShare",
         "searchable": 0,
         "quickSearch": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "changeable": 0,
         "filterable": 0,
         "timeout": 60,
@@ -122,7 +114,6 @@
         "api": "csp_QuarkShare",
         "searchable": 0,
         "quickSearch": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "changeable": 0,
         "filterable": 0,
         "timeout": 60,
@@ -136,7 +127,6 @@
         "name": "剧圈在线┃XBPQ",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
         "ext": {
             "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
             "分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"

@@ -1,6 +1,6 @@
 {
     "wallpaper": "",
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+    "spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
     "lives": [{
         "group": "redirect",
         "channels": [{

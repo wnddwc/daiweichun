@@ -87,15 +87,7 @@
 				"经典片"
 			]
 		},
-		{
-			"key": "快帆",
-			"name": "快帆",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},	    
+
 	    
 	    
 	    

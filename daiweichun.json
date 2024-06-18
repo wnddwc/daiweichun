@@ -43,7 +43,15 @@
 {"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		
+{
+			"key": "獨播",
+			"name": "獨播 | 海外",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
+			"searchable": 1,
+			"changeable": 0,
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/duboku.json$$$proxy"
+		},		
 	    
 	    
 	    

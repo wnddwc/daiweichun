@@ -87,7 +87,65 @@
 				"经典片"
 			]
 		},
-
+{
+			"key": "櫻花",
+			"name": "櫻花",
+			"type": 3,
+			"api": "csp_Ying",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "巴士",
+			"name": "巴士",
+			"type": 3,
+			"api": "csp_Dm84",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "異界",
+			"name": "異界",
+			"type": 3,
+			"api": "csp_Ysj",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "短剧",
+			"name": "短剧",
+			"type": 3,
+			"api": "csp_Duanju",
+			"searchable": 0,
+			"changeable": 1,
+			"ext":"https://www.duanjutv.icu"
+		},
+		{
+			"key":"MV_vod",
+			"name":"电视┃MTV",
+			"type":1,
+			"api": "https://mv.wogg.link/mv/vod",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "Iktv",
+			"name": "KTV",
+			"type": 3,
+			"api": "csp_Iktv",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{
+			"key": "Yinyuetai",
+			"name": "音悦台",
+			"type": 3,
+			"api": "csp_Yinyuetai",
+			"searchable": 1,
+			"changeable": 0
+		},
+		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json"},
 	    
 	    
 	    

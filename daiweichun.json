@@ -9,12 +9,6 @@
         }]
     }],
     "sites": [
-{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		}, 
 {
 			"key": "JustLive",
 			"name": "JustLive",

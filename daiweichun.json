@@ -9,7 +9,12 @@
         }]
     }],
     "sites": [
-    
+    		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/yyets.js", "quickSearch":1, "changeable":1, "timeout":60,
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
 	    
 	    
 	    

@@ -8,17 +8,7 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{
-        "key": "海洋听书js",
-        "name": "🎧海洋┃听书",
-        "type": 3,
-        "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy2.min.js",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/haiyangtingshu.js",
-        "style": {
-            "type": "rect",
-            "ratio": 1
-        }
-    }, {
+    "sites": [ {
         "key": "快看",
         "name": "快看",
         "type": 3,

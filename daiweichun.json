@@ -8,7 +8,40 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [ {
+    "sites": [
+        {
+            "key": "ting",
+            "name": "休闲|听书",
+            "type": 3,
+            "api": "csp_BookTing",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "https://m.365ting.com
+        },
+        {
+            "key": "music",
+            "name": "休闲|音乐",
+            "type": 3,
+            "api": "csp_Music",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {
         "key": "快看",
         "name": "快看",
         "type": 3,

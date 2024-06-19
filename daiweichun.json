@@ -10,38 +10,6 @@
     }],
     "sites": [
         {
-            "key": "ting",
-            "name": "休闲|听书",
-            "type": 3,
-            "api": "csp_BookTing",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://m.365ting.com"
-        },
-        {
-            "key": "music",
-            "name": "休闲|音乐",
-            "type": 3,
-            "api": "csp_Music",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        {
         "key": "快看",
         "name": "快看",
         "type": 3,

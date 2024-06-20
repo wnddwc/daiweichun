@@ -1,9 +1,13 @@
 {
-    "recommend":"LIST:最新|推荐,官方频道",
+    "recommend":"LIST:最新|推荐,官方频道,GETTRENDS",
 	"class":[
 		{
 			"type_id":"LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z,家电维修@",
 			"type_name":"YouTube(频道)"
+		},
+		{
+			"type_id":"GETTRENDS",
+			"type_name":"时下流行"
 		},
 		{
 			"type_id":"Full YouTube 动画片",
@@ -30,7 +34,7 @@
 			"type_name":"纪录片"
 		},
 		{
-			"type_id":"Full YouTube 音乐🎶",
+			"type_id":"音乐",
 			"type_name":"音乐"
 		},
 		{
@@ -63,7 +67,7 @@
 		}
 	],
 	"filters":{
-	    "LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z":[
+	    "LIST:Full YouTube,李子柒 Liziqi @cnliziqi,老高与小茉 @laogao,李永乐老师 @TchLiyongle,滇西小哥 @dianxixiaoge,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,老肉杂谈 @老肉杂谈,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小颖美食 @XiaoYingFood,野外求生 primitivetechnology9550 @primitivetechnology9550,科普 Mr Beast@MrBeast,航天大学 Airforceproud95 @Airforceproud95,世界大战 TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常,健康1+1 @user-mr5bh4bk8z,家电维修@":[
 	        {
 				"key":"time",
 				"name":"时间",
@@ -499,12 +503,15 @@
 				"value":[
 					{"n":"默认YouTube影视","v":"Complete tertiary film Láimheán na tíorthaime leatbhaile Full YouTube Movie"},
 					{"n":"英叔","v":"Full 林正英,英叔"},
+					{"n":"金庸武侠","v":"Full 金庸武侠 电影 剧集"},
+					{"n":"前线影院","v":"Full 前线影院 ASIA MOVIE"},
+					{"n":"尖峰影院","v":"Full 尖峰影院 Gun Battle ASIA MOVIE"},
 					{"n":"电影大剧院","v":"电影大剧院 1905 Movie Theater"},
 					{"n":"港台三级片","v":"hdr 香港 澳门 台湾 新加坡 马来西亚 泰国 三级片"},
 					{"n":"邵氏经典","v":"hdr 邵氏经典武侠电影"},
 					{"n":"8号电影","v":"@8-hkmovie 8号电影院 - HK Movie"},
 					{"n":"Chinese Dramas","v":"@chinesedramas3560 Chinese Dramas"},
-					{"n":"追剧杂货铺","v":"@DramaGrocery 追剧杂货铺"},
+					{"n":"追剧杂货舖","v":"@DramaGrocery 追剧杂货铺"},
 					{"n":"中国热门高清电视","v":"@chinahdtv8788 中国热门高清电视 China HDTV"},
 					{"n":"影视剧汇踪","v":"影视剧汇踪"},
 					{"n":"Movies china","v":"Movies china"},
@@ -514,7 +521,7 @@
 					{"n":"Chinese Movie Theater","v":"Chinese Movie Theater"},
 					{"n":"腾讯","v":"腾讯 电影"},
 					{"n":"爱奇艺","v":"爱奇艺 电影"},
-					{"n":"优酷","v":"优酷 电影"},
+					{"n":"优酷","v":"Full YOUKU MOVIE-Get APP now 优酷 电影"},
 					{"n":"芒果","v":"芒果TV 电影"},
 					{"n":"搜狐","v":"搜狐 电影"},
 					{"n":"Netflix","v":"netflix Full movie 电影"},
@@ -932,7 +939,7 @@
 				]
 			}
 		],
-		"Full YouTube 音乐🎶":[
+		"音乐":[
 		    {
 				"key":"time",
 				"name":"时间",
@@ -1051,6 +1058,7 @@
 				"key":"tid",
 				"name":"歌手",
 				"value":[
+				    {"n":"华星唱片","v":"华星唱片 Capital Artists Official Channel"},
 				    {"n":"迈克尔杰克逊","v":"迈克尔杰克逊 演唱会，巡演 音乐"},
 					{"n":"张玮伽","v":"张玮伽 演唱会 巡演 音乐"},
 					{"n":"孙露","v":"孙露 演唱会 巡演 音乐"},
@@ -1059,7 +1067,7 @@
 					{"n":"刀郎","v":"刀郎 演唱会 巡演 音乐"},
 					{"n":"S.H.E","v":"S.H.E 演唱会 巡演 音乐"},
 					{"n":"慕容晓晓","v":"慕容晓晓 演唱会 巡演 音乐"},
-					{"n":"东方红艳","v":"东方红艳 演唱会 巡演 音乐"},
+					{"n":"东方红豔","v":"东方红豔 演唱会 巡演 音乐"},
 					{"n":"孟庭苇","v":"孟庭苇 演唱会 巡演 音乐"},
 					{"n":"斯琴高丽","v":"斯琴高丽 演唱会 巡演 音乐"},
 					{"n":"程响","v":"程响 演唱会 巡演 音乐"},
@@ -1188,7 +1196,7 @@
 				]
 			}
 		],
-		"LIST:Full YouTube 时尚潮流":[
+		"Full YouTube 时尚潮流":[
 		    {
 				"key":"tid",
 				"name":"时装秀",
@@ -1326,42 +1334,45 @@
 				"key":"tid",
 				"name":"医学",
 				"value":[
+				    {"n":"中国医学百科全书","v":"中国医学百科全书·蒙医学"},
+				    {"n":"百享生活频道","v":"@BesTV_Life"},
 				    {"n":"医科大学","v":"流产视频,分娩视频,子宫切除,手术,麻醉,解刨,护士,医生,教学,护理,卫生,视厅,教材,妇科,x光,b超,录像,anesthesia Medical university"}
 				]
 			}
 		],
-		"LIST:Full YouTube 解说":[
+		"Full YouTube 解说":[
 			{
 				"key":"tid",
 				"name":"频道主",
 				"value":[
 				    {"n":"宇哥侃故事","v":"@yuge"},
-				    {"n":"零度解说","v":"@lingdujieshuo"}
+				    {"n":"零度解说","v":"@lingdujieshuo"},
+				    {"n":"柚子同学","v":"柚子同学来啦"}
 				]
 			}
 		],
-		"16k HDR":[
+		"16K HDR FPS":[
 		    {
 				"key":"tid",
 				"name":"风景",
 				"value":[
-				    {"n":"运动","v":"GoPro,女翼装飞行,极限自行车运动"},
-				    {"n":"风景","v":"hdr 大自然"},
-				    {"n":"Links TV频道主","v":"@linksphotograph Links TV hdr"},
-				    {"n":"放松","v":"hdr 放松"},
-				    {"n":"动物世界","v":"hdr Carnivorous Animals 动物世界"},
-				    {"n":"深海世界","v":"hdr Invertebrate Fish 深海世界"},
-				    {"n":"飞禽走兽","v":"hdr Birds of Prey Columbiform Birds Passerine Birds"},
-				    {"n":"生物世界","v":"hdr Amphibians Reptiles 生物世界"}
+				    {"n":"运动","v":"HDR GoPro,女翼装飞行,极限自行车运动"},
+				    {"n":"风景","v":"HDR 大自然"},
+				    {"n":"Links TV频道主","v":"@linksphotograph Links TV HDR"},
+				    {"n":"放鬆","v":"HDR 放鬆"},
+				    {"n":"动物世界","v":"HDR Carnivorous Animals 动物世界"},
+				    {"n":"深海世界","v":"HDR Invertebrate Fish 深海世界"},
+				    {"n":"飞禽走兽","v":"HDR Birds of Prey Columbiform Birds Passerine Birds"},
+				    {"n":"生物世界","v":"HDR Amphibians Reptiles 生物世界"}
 				]
 			}
 		],
-		"LIST:Full YouTube 宇宙":[
+		"Full YouTube 宇宙":[
 			{
 				"key":"tid",
 				"name":"科普知识",
 				"value":[
-				    {"n":"宇宙","v":"宇宙大爆炸,暗物质,恒星,引力,光子,星系演变,光年,黑洞,银河系,空间站,太空技术"},
+				    {"n":"宇宙","v":"宇宙大爆炸,暗物质,恆星,引力,光子,星系演变,光年,黑洞,银河系,空间站,太空技术"},
 				    {"n":"粒子","v":"空间粒子,宇宙磁场,四维空间,元素,量子,光波,光源,灵魂"},
 				    {"n":"层层透视大宇宙","v":"宇宙有道理 (How the Universe Works),层层透视大宇宙Strip the Cosmos"},
 				    {"n":"生物进化史","v":"怪兽档案,人类进化,微生物进化,动物进化,地球进化"},
@@ -1472,26 +1483,26 @@
 				"name":"CCTV直播",
 				"value":[
 				    {"n":"CCTV中文国际","v":"Full CCTV中文国际"},
-				    {"n":"CCTV1","v":"Full CCTV1"},
-				    {"n":"CCTV2","v":"Full CCTV2"},
-				    {"n":"CCTV3","v":"Full CCTV3"},
+				    {"n":"CCTV1综合","v":"Full CCTV1综合"},
+				    {"n":"CCTV2财经","v":"Full CCTV2财经"},
+				    {"n":"CCTV3综艺","v":"Full CCTV3综艺"},
 				    {"n":"CCTV4亚洲","v":"Full CCTV–4中文国际亚洲"},
 				    {"n":"CCTV4欧洲","v":"Full CCTV-4中文国际欧洲"},
 				    {"n":"CCTV4美州","v":"Full CCTV–4中文国际美州"},
-				    {"n":"CCTV5","v":"Full CCTV5"},
-				    {"n":"CCTV5+","v":"Full CCTV5+"},
-				    {"n":"CCTV6","v":"Full CCTV6"},
-				    {"n":"CCTV7","v":"Full CCTV7"},
-				    {"n":"CCTV8","v":"Full CCTV8"},
-				    {"n":"CCTV9","v":"Full CCTV9"},
-				    {"n":"CCTV10","v":"Full CCTV10"},
-				    {"n":"CCTV11","v":"Full CCTV11"},
-				    {"n":"CCTV12","v":"Full CCTV12"},
-				    {"n":"CCTV13","v":"Full CCTV13"},
-				    {"n":"CCTV14","v":"Full CCTV14"},
-				    {"n":"CCTV15","v":"Full CCTV15"},
-				    {"n":"CCTV16","v":"Full CCTV16"},
-				    {"n":"CCTV17","v":"Full CCTV17"}
+				    {"n":"CCTV5体育","v":"Full CCTV5体育"},
+				    {"n":"CCTV5+体育赛事","v":"Full CCTV5+体育赛事"},
+				    {"n":"CCTV6电影","v":"Full CCTV6电影"},
+				    {"n":"CCTV7国防军事","v":"Full CCTV7国防军事"},
+				    {"n":"CCTV8电视剧","v":"Full CCTV8电视剧"},
+				    {"n":"CCTV9纪录","v":"Full CCTV9纪录"},
+				    {"n":"CCTV10科教","v":"Full CCTV10科教"},
+				    {"n":"CCTV11戏曲","v":"Full CCTV11戏曲"},
+				    {"n":"CCTV12社会与法","v":"Full CCTV12社会与法"},
+				    {"n":"CCTV13新闻","v":"Full CCTV13新闻"},
+				    {"n":"CCTV14少儿","v":"Full CCTV14少儿"},
+				    {"n":"CCTV15音乐","v":"Full CCTV15音乐"},
+				    {"n":"CCTV16奥林匹克","v":"Full CCTV16奥林匹克"},
+				    {"n":"CCTV17农业农村","v":"Full CCTV17农业农村"}
 				]
 			},
 		    {

@@ -17,6 +17,9 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
+        "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+
         "ext": {
             "请求头": "手机",
             "主页url": "http://www.ppxyes.com/",
@@ -33,7 +36,7 @@
             "分类": "电影$2#电视剧$1#动漫$3#综艺$4",
             "分类url": "http://www.ppxyes.com/s/{cateId}.html"
         }
-    },        {
+    },      {
         "key": "快看",
         "name": "快看",
         "type": 3,

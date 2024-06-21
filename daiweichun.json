@@ -9,9 +9,8 @@
         }]
     }],
     "sites": [
-"key": "剧哥哥", "name": "剧哥哥", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://ry.xktv6.icu/app/lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968", "playerType": "2", "api": "csp_XBPQ", "ext": { "主页url": "https://www.jugege.cc/", "副标题": "pic-text text-right\">&&</b>", "搜索模式": "1", "搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html", "图片": "data-original=\"&&\"", "嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/", "影片类型": "<div class=\"module-info-tag\">&&立即播放", "导演": "导演：&&</div>", "主演": "主演：&&</div>", "分类": "电影$1#连续剧$2#综艺$3#动漫$4", "分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
-
-        
+{"key": "剧哥哥", "name": "剧哥哥", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "http://ry.xktv6.icu/app/lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968", "playerType": "2", "api": "csp_XBPQ", "ext": { "主页url": "https://www.jugege.cc/", "副标题": "pic-text text-right\">&&</b>", "搜索模式": "1", "搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html", "图片": "data-original=\"&&\"", "嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/", "影片类型": "<div class=\"module-info-tag\">&&立即播放", "导演": "导演：&&</div>", "主演": "主演：&&</div>", "分类": "电影$1#连续剧$2#综艺$3#动漫$4", "分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
+       
         {
         "key": "快看",
         "name": "快看",

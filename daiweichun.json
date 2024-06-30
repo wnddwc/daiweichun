@@ -26,33 +26,6 @@
                 "分类url": "https://cj.lbbb.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
             }
         },
- {
-        "key": "皮皮虾影视",
-        "name": "皮皮虾影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-        "ext": {
-            "请求头": "手机",
-            "主页url": "http://www.ppxyes.com/",
-            "数组": "",
-            "标题": "title=\"&&\"",
-            "副标题": "class=\"module-info-item\">&&</div>",
-            "链接": "",
-            "简介": "",
-            "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-            "线路标题": "<span>&&</span>",
-
-            "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
-
-            "分类": "电影$2#电视剧$1#动漫$3#综艺$4",
-            "分类url": "http://www.ppxyes.com/s/{cateId}.html"
-        }
-    },
         {
         "key": "快看",
         "name": "快看",

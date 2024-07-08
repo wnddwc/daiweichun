@@ -10,28 +10,6 @@
     }],
     "sites": [
      {
-            "key": "PTT",
-            "name": "ptt",
-            "type": 3,
-            "api": "csp_PTT",
-             "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-      "key": "nu",
-      "name": "Nuu|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-      "ext": {
-        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
-        "分类": "電影$1#劇集$2#綜藝$3#動漫$4" 
-       }
-    },
-     {
             "key": "热播",
             "name": "热播之家┃影视",
             "type": 3,

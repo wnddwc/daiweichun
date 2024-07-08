@@ -9,13 +9,15 @@
         }]
     }],
     "sites": [
-    {
+      {
         "key": "taozi",
         "name": "🚀桃子┃XBPQ",
         "type": 3,
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
+        "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
         "filterable": 1,
         "ext": {
             "主页url": "https://www.taozi007.com",
@@ -23,8 +25,7 @@
             "分类url": "https://www.taozi007.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
             "线路数组":"[不包含:4K]"
         }
-    },
-        
+    }, 
      {
             "key": "热播",
             "name": "热播之家┃影视",

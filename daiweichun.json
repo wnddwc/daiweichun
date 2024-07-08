@@ -9,7 +9,7 @@
         }]
     }],
     "sites": [
- {
+{
                  "key": "hipy_t3_cntv央视[py]",
                  "name": "cntv央视[py](hipy_t3)",
                  "type": 3,
@@ -17,6 +17,8 @@
                  "searchable": 1,
                  "quickSearch": 0,
                  "filterable": 1,
+                 "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
                  "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/cntv%E5%A4%AE%E8%A7%86.json"
     },  
      {

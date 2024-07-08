@@ -9,8 +9,8 @@
         }]
     }],
     "sites": [
-{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"jar: "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;3813C8D3B7CF27A7E7005FA551DE7B47","quickSearch":1,"filterable":0,"ext":"https://www.czzy.top"},
-
+{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1, "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar","filterable":0,"ext":"https://www.czzy.top"},
 
 
 

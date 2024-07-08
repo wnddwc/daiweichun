@@ -23,7 +23,6 @@
             "主页url": "https://www.taozi007.com",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
             "分类url": "https://www.taozi007.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ma",
-            "线路数组":"[不包含:4K]"
         }
     },
      {

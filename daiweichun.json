@@ -10,6 +10,39 @@
     }],
     "sites": [
         {
+            "key": "PTT",
+            "name": "ptt",
+            "type": 3,
+            "api": "csp_PTT",
+            "jar": "./jar/custom_spider.jar",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+      "key": "nu",
+      "name": "Nuu|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类": "電影$1#劇集$2#綜藝$3#動漫$4" 
+       }
+    },
+     {
+            "key": "热播",
+            "name": "热播之家┃影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+            }
+        },
+        {
             "key": "萝卜",
             "name": "萝卜|影视",
             "type": 3,

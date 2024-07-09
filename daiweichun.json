@@ -33,7 +33,28 @@
         "分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"
     }
 },
- 
+{
+            "key": "csp_xBPQ_电视直播1",
+            "name": "💎电视直播(不分线路)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "filterable": 0,
+            "ext": {
+                "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50",
+                "直接播放": "1",
+                "分类": "CCTV节目官网_央视网$https://tv.cctv.com#",
+                "播放数组":"live-cctv=\"&&\"",
+                "免嗅": "0",
+                "主页url": "https://tv.cctv.com/",
+                "分类url": "https://tv.cctv.com/live/cctv\"&&\"{cateId}",
+                "图片": "data-original=\"&&\"",
+                "不分线路": "1"
+            }
+        }, 
 
 
 

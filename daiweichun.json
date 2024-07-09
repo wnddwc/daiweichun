@@ -10,54 +10,30 @@
     }],
     "sites": [
 {
-            "key": "PPT",
-            "name": "❤️‍🔥〔PPT丨XP™〕",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-                "首页": "电视剧$30",
-                "数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-                "图片": "src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "副标题": "class=\"badge badge-success\">&&</span>",
-                "链接": "href=\"&&\"",
-                "搜索url": "https://ptt.red/node/search?title={wd}",
-                "搜索数组": "col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-                "搜索副标题": "class=\"badge badge-success\">&&</span>",
-                "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
-                "多线数组": "class=\"nav-item\">&&</li",
-                "多线链接": "href=\"&&\"",
-                "多线链接前缀": "https://ptt.red",
-                "多线链接后缀": "",
-                "线路数组": "class=\"nav-item\">&&</li",
-                "线路标题": "title=\"&&\"",
-                "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
-                "播放标题": ">&&</a>",
-                "播放链接": "href=\"&&\"",
-                "直接播放": "体育",
-                "分类": "电影$1#剧集$3#综艺$2#动漫$4#短剧$66#体育$53",
-                "分类url": "https://ptt.red/p/{cateId}?page={catePg}",
-                "筛选": {
-                    "20": [
-                        {
-                            "key": "class",
-                            "name": "剧情",
-                            "value": [
-                                {
-                                    "n": "全部",
-                                    "v": ""
-                                },
-                                {
-                                    "n": "喜剧",
-                                    "v": "喜剧"
-                                },
-                                {
-                                    "n": "爱情",
-                                    "v": "爱情"
-                                },
-                            ]
-                            ],
+    "key": "csp_NO视频",
+    "name": "❤️‍🔥〔NO视频丨XP™〕",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",    
+    "ext": {
+        "数组": "class=\"stui-vodlist__box&&</div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "text-right\">&&</span>",
+        "链接": "href=\"&&\"",
+        "搜索url": "",
+        "起始页":"2",
+        "线路标题": "NO视频",
+        "播放数组": "class=\"*-div&&</div>",
+        "播放列表": "class=\"btn btn-primary&&</a>",
+        "播放标题": ">&&</a>[不包含:蓝光]",
+        "播放链接": "href=\"&&\"",
+        "分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]",
+        "分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"
+    }
+},
+ 
 
 
 

@@ -70,7 +70,13 @@
         "分类值": "dianying&lianxuju&zongyi&dongman"
       }
     },
-
+{
+      "key": "樱花资源",
+      "name": "🌸樱花资源｜采集",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1
+    },
 
 
 

@@ -70,19 +70,7 @@
         "分类值": "dianying&lianxuju&zongyi&dongman"
       }
     },
-{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
-{
-            "key": "暑假快练",
-            "name": "暑假快练",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-            "主页url":"http://aakhsck.cc","分类":"日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#",
-                "分类url": "http://aakhsck.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-            }
-        },
+
 
 
 
@@ -1440,7 +1428,20 @@
                 "type": "rect",
                 "ratio": 1.33
               }
-        }, {
+        },
+        {
+            "key": "暑假快练",
+            "name": "暑假快练",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": {
+            "主页url":"http://aakhsck.cc","分类":"日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#",
+                "分类url": "http://aakhsck.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
         "key": "zp100",
         "name": "乐播",
         "type": 0,

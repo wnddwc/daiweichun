@@ -75,8 +75,12 @@
             "name": "hbo",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./XBPQ.jar",
-            "jar":
+            {
+            "key": "hbo",
+            "name": "hbo",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": 
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
             "ext": {
                 "分类": "电影$https://www.hbotv1.com/movie/#电视剧$https://www.hbotv1.com/tv/#动漫$https://www.hbotv1.com/cartoon/#综艺$https://www.hbotv1.com/variety/#",

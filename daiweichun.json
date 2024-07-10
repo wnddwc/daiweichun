@@ -70,7 +70,28 @@
         "分类值": "dianying&lianxuju&zongyi&dongman"
       }
     },
-
+ {
+      "key": "HBO",
+      "name": "HBO",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "影视！+<span class=\"detail-sketch\">&&</span>",
+        "导演": "影视",
+        "主演": "主演：&&</p>",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "影视",
+        "播放链接": "href='&&'",
+        "分类url": "https://www.hbotv1.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon",
+       
+      }
+    },
 
 
 

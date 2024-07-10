@@ -8,118 +8,104 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [
-{
-    "key": "csp_NO视频",
-    "name": "❤️‍🔥〔NO视频丨XP™〕",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",    
-    "ext": {
-        "数组": "class=\"stui-vodlist__box&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "text-right\">&&</span>",
-        "链接": "href=\"&&\"",
-        "搜索url": "",
-        "起始页":"2",
-        "线路标题": "NO视频",
-        "播放数组": "class=\"*-div&&</div>",
-        "播放列表": "class=\"btn btn-primary&&</a>",
-        "播放标题": ">&&</a>[不包含:蓝光]",
-        "播放链接": "href=\"&&\"",
-        "分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]",
-        "分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"
-    }
-},
-{
-            "key":"php_music",
-            "name":"Music",
-            "type":4,
-            "api":"https://demobe.serv00.net/music.php",
-            "searchable":1,
-            "style": {
-                "type": "rect",
-                 "ratio": 1
-              }
-        },
-{
-      "key": "热播之家",
-      "name": "热播之家",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-      "ext": {
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$5#纪录片$3#短剧$28#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#国产剧$13#港台剧$14#日韩剧$15#海外剧$16#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21",
-        "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-      }
-    },
-
-{
-      "key": "csp_mgtva",
-      "name": "木瓜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-      "ext": {
-        "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影&电视剧&综艺&动漫",
-        "分类值": "dianying&lianxuju&zongyi&dongman"
-      }
-    },        
-        {
+    "sites": [{
+        "key": "csp_NO视频",
+        "name": "❤️‍🔥〔NO视频丨XP™〕",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+            "数组": "class=\"stui-vodlist__box&&</div>",
+            "图片": "data-original=\"&&\"",
+            "标题": "title=\"&&\"",
+            "副标题": "text-right\">&&</span>",
+            "链接": "href=\"&&\"",
+            "搜索url": "",
+            "起始页": "2",
+            "线路标题": "NO视频",
+            "播放数组": "class=\"*-div&&</div>",
+            "播放列表": "class=\"btn btn-primary&&</a>",
+            "播放标题": ">&&</a>[不包含:蓝光]",
+            "播放链接": "href=\"&&\"",
+            "分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]",
+            "分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"
+        }
+    }, {
+        "key": "php_music",
+        "name": "Music",
+        "type": 4,
+        "api": "https://demobe.serv00.net/music.php",
+        "searchable": 1,
+        "style": {
+            "type": "rect",
+            "ratio": 1
+        }
+    }, {
+        "key": "热播之家",
+        "name": "热播之家",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+            "分类": "电视剧$2#电影$1#动漫$4#综艺$5#纪录片$3#短剧$28#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#国产剧$13#港台剧$14#日韩剧$15#海外剧$16#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21",
+            "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+        }
+    }, {
+        "key": "csp_mgtva",
+        "name": "木瓜影视",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+            "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+            "分类": "电影&电视剧&综艺&动漫",
+            "分类值": "dianying&lianxuju&zongyi&dongman"
+        }
+    }, {
         "key": "taozi",
         "name": "🚀桃子┃XBPQ",
         "type": 3,
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
-        "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
         "filterable": 1,
         "ext": {
             "主页url": "https://www.taozi007.com",
             "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
             "分类url": "https://www.taozi007.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ma",
-            "线路数组":"[不包含:4K]"
+            "线路数组": "[不包含:4K]"
         }
-    },
-     {
-            "key": "热播",
-            "name": "热播之家┃影视",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-                "分类url": "https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
-            }
-        },
-        {
-            "key": "萝卜",
-            "name": "萝卜|影视",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-                "主页url": "https://cj.lbbb.cc/",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "线路数组": "<div class=\"module-tab-item tab-item&&</div[排序:中萝卜>大萝卜>老萝卜]",
-                "分类url": "https://cj.lbbb.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
-            }
-        },
-        {
+    }, {
+        "key": "热播",
+        "name": "热播之家┃影视",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+            "分类url": "https://rebozj.pro/show/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+        }
+    }, {
+        "key": "萝卜",
+        "name": "萝卜|影视",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+            "主页url": "https://cj.lbbb.cc/",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+            "线路数组": "<div class=\"module-tab-item tab-item&&</div[排序:中萝卜>大萝卜>老萝卜]",
+            "分类url": "https://cj.lbbb.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
+        }
+    }, {
         "key": "快看",
         "name": "快看",
         "type": 3,
@@ -1402,32 +1388,30 @@
             "跳转播放链接": "<source src=\"&&\""
         },
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    },{
-            "key": "php_madou",
-            "name": "麻豆",
-            "type": 4,
-            "api": "https://demobe.serv00.net/madou.php",
-            "searchable": 1,
-            "quickSearch":0,
-            "filterable":0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-              }
-        },
-        {
-            "key": "暑假快练",
-            "name": "暑假快练",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-            "主页url":"http://aakhsck.cc","分类":"日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#",
-                "分类url": "http://aakhsck.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-            }
-        },
-        {
+    }, {
+        "key": "php_madou",
+        "name": "麻豆",
+        "type": 4,
+        "api": "https://demobe.serv00.net/madou.php",
+        "searchable": 1,
+        "quickSearch": 0,
+        "filterable": 0,
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        }
+    }, {
+        "key": "暑假快练",
+        "name": "暑假快练",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+            "主页url": "http://aakhsck.cc",
+            "分类": "日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#",
+            "分类url": "http://aakhsck.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+        }
+    }, {
         "key": "zp100",
         "name": "乐播",
         "type": 0,

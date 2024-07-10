@@ -70,11 +70,6 @@
         "分类值": "dianying&lianxuju&zongyi&dongman"
       }
     },
-{
-            "key": "hbo",
-            "name": "hbo",
-            "type": 3,
-            "api": "csp_XBPQ",
             {
             "key": "hbo",
             "name": "hbo",
@@ -87,7 +82,6 @@
                 "分类url": "https://www.hbotv1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
             }
         },
-
 
 
 

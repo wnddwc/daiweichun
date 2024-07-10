@@ -70,10 +70,11 @@
         "分类值": "dianying&lianxuju&zongyi&dongman"
       }
     },
-            {
+      {
             "key": "hbo",
             "name": "hbo",
             "type": 3,
+           "playurl":"https://www.hbotv1.com/player/?url=",
             "api": "csp_XBPQ",
             "jar": 
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",

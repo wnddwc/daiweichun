@@ -8,7 +8,53 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{
+    "sites": [
+{
+  "key": "csp_iolecc",
+  "name": "爱欧乐影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+  "ext": {
+    "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
+  }
+},
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {
         "key": "csp_NO视频",
         "name": "❤️‍🔥〔NO视频丨XP™〕",
         "type": 3,

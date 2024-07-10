@@ -70,14 +70,24 @@
         "分类值": "dianying&lianxuju&zongyi&dongman"
       }
     },
-{
-      "key": "樱花资源",
-      "name": "🌸樱花资源｜采集",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "searchable": 1
+{"key": "csp_ipianba",
+      "name": "片吧影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4"}},{
+      "key": "热播之家",
+      "name": "热播之家",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+      "ext": {
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$5#纪录片$3#短剧$28#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#国产剧$13#港台剧$14#日韩剧$15#海外剧$16#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21",
+        "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
     },
-
 
 
 

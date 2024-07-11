@@ -13,6 +13,7 @@
             "key": "悠凸鳖",
             "name": "悠凸鳖",
             "type": 3,
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
             "style": {
                 "type": "oval",
                 "ratio": 0

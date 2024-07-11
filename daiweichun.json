@@ -9,7 +9,17 @@
         }]
     }],
     "sites": [
-
+{
+            "key": "悠凸鳖",
+            "name": "悠凸鳖",
+            "type": 3,
+            "style": {
+                "type": "oval",
+                "ratio": 0
+            },
+            "api": "https://qu.ax/ssBJ.js",
+            "ext": "https://dpaste.org/x0gR2/raw"
+        },
 
 
 

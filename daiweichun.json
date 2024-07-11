@@ -9,18 +9,7 @@
         }]
     }],
     "sites": [
-{
-            "key": "悠凸鳖",
-            "name": "悠凸鳖",
-            "type": 3,
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-            "style": {
-                "type": "oval",
-                "ratio": 0
-            },
-            "api": "https://qu.ax/ssBJ.js",
-            "ext": "https://dpaste.org/x0gR2/raw"
-        },
+
 
 
 

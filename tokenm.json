@@ -58,10 +58,5 @@
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
 "libxl_url":"./libxl_thunder_sdk.so",
-"youtube_proxy":"proxy",
-"singbox_url":"./sing-box.gz",
-"singbox_subscribe_url":"",
-"singbox_clash2singbox_url":"./clash2singbox.gz",
-"singbox_template_url":"./singbox.json",
-"singbox_wgcf_json_url":"./wgcf2singbox.json"
+"youtube_proxy":""
 }

@@ -18,9 +18,7 @@
             "quickSearch": 0,
             "changeable": 0,
 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-            "ext": {
-                "json": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/B%E7%AB%99.json",
-            }
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/B%E7%AB%99.json"
         },
 
 {
@@ -46,7 +44,7 @@
                 "链接": "https://shise.me/player.html?id=+href=\"video.html?id=&&\"",
                 "跳转播放链接": "",
                 "分类url": "https://shise.me/series.html?id={cateId}&page={catePg};;z",
-                "分类": "情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05"
+                "分类": "情色电影$61c4d9b653b6d#中文AV$63824a975d8ae#日本AV$6206216719462#模特私拍$6030196781d85#业余拍摄$617d3e7acdcc8#糖心Vlog$61014080dbfde#其他影片$60192e83c9e05",
             }
         },
 

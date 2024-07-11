@@ -17,17 +17,19 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
             "ext": {
                 "json": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/B%E7%AB%99.json",
-                "cookie": ""
             }
         },
+
 {
             "key": "视色",
             "name": "视色",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+             "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,

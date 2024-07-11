@@ -8,18 +8,31 @@
             "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9taXJyb3IuZ2hwcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3duZGR3Yy9kYWl3ZWljaHVuL21haW4vVFYwLnR4dA=="]
         }]
     }],
-    "sites": [{
-        "key": "蜡笔网盘",
-        "name": "蜡笔|网盘",
-        "type": 3,
-        "api": "csp_Wobg",
-        "quickSearch": 1,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 60,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://duopan.fun/$$$proxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wogg.json"
-    }, {
+    "sites": [
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {
         "key": "csp_NO视频",
         "name": "❤️‍🔥〔NO视频丨XP™〕",
         "type": 3,

@@ -19,7 +19,19 @@
             "changeable": 0,
 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"},
-        
+  {
+      "key": "nu",
+      "name": "Nuu|XBPQ",
+      "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "ext": {
+        "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+        "分类": "https://json-api.heimuer.xyz/api/list" 
+      }
+    },      
         
         
         

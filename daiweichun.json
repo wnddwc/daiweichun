@@ -19,7 +19,22 @@
             "changeable": 0,
 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"},
-
+{
+            "key": "pronlulu",
+            "name": "🔞pronlulu(T)",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+                  "style":{ "type":"rect", "ratio":1.55 },
+            "ext": {
+                "直接播放": "1",
+                     "页面代理": "127.0.0.1:10172",
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://www.pornlulu.com/cat/{cateId}?page={catePg}",
+                "分类": "国产自拍$263#中文字幕$48#日本有码$269国产情色460#日本无码$270#国产精品$249强奸乱伦$13#欧美精品$260#制服诱惑$92#萝莉少女$103#成人动漫$274#美女主播$264#亞洲有码$105#国产主播$268#国产视频$304#巨乳美乳$93#欧美极品$266#自拍偷拍$28#骑兵有码$261#无码专区$254#抖阴视频$25"
+            }
+        },
   
         
         

@@ -24,8 +24,7 @@
             "name": "🔞pronlulu(T)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
             "ext": {
                 "直接播放": "1",
                 "嗅探词": ".m3u8#.mp4",

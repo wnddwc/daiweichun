@@ -19,7 +19,15 @@
             "changeable": 0,
 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"},
-
+{
+			"key": "应用商店",
+			"name": "应用商店",
+			"type": 3,
+			"api": "csp_Market",
+			"searchable": 0,
+			"changeable": 0,
+			"ext": "https://fm.t4tv.hz.cz/json/market.json"
+		},
   
         
         

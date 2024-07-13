@@ -44,18 +44,7 @@
                 "分类url": "https://www.hapetv.com/vod-show/{cateId}-{area}-------{catePg}---{year}/"
              }
         },
-{
-            "key": "soporn",
-            "name": "🔞soporn(T)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-                "简介": "name=\"description\" content=\"&&\"/>",
-                "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"
-            }
-        },       
+      
         
         
         
@@ -1561,7 +1550,18 @@
             "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
             "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
         }
-    }, {
+    },{
+            "key": "soporn",
+            "name": "🔞soporn(T)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": {
+                "简介": "name=\"description\" content=\"&&\"/>",
+                "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"
+            }
+        },  {
         "key": "zp100",
         "name": "乐播",
         "type": 0,

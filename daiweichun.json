@@ -44,7 +44,20 @@
                 "分类url": "https://www.hapetv.com/vod-show/{cateId}-{area}-------{catePg}---{year}/"
              }
         },
-        
+{
+            "key": "soporn",
+            "name": "🔞soporn(T)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": "index.m3u8",
+                "简介": "name=\"description\" content=\"&&\"/>",
+                "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"
+            }
+        },        
         
         
         

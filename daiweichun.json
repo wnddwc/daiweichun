@@ -26,7 +26,23 @@
                                 "ratio": 1.1
                         }
     },
-  
+ { "key": "heiliao",
+            "name": "黑料吃瓜",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext":{
+            "分类":"今日吃瓜$6#今日热搜$7#热门大瓜$8#黑料历史$10#独家爆料$9",
+             "分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html",
+          
+            "直接播放":"1"
+            }
+        }, 
         
         
         

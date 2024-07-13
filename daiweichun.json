@@ -19,85 +19,8 @@
             "changeable": 0,
 "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"},
-{"key":"SeHuaTang","name":"色花堂|磁力","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
-"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$null$$$proxy",
-                        "style": {
-                                "type": "list",
-                                "ratio": 1.1
-                        }
-    },
- { "key": "heiliao",
-            "name": "黑料吃瓜",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext":{
-            "分类":"今日吃瓜$6#今日热搜$7#热门大瓜$8#黑料历史$10#独家爆料$9",
-             "分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html",
-          
-            "直接播放":"1"
-            }
-        }, 
- {
-            "key": "pronlulu",
-            "name": "🔞pronlulu(T)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-                "直接播放": "1",
-                "嗅探词": ".m3u8#.mp4",
-                "分类url": "https://www.pornlulu.com/cat/{cateId}?page={catePg}",
-                "分类": "國產自拍$263#中文字幕$48#日本有碼$269國產情色460#日本無碼$270#國產精品$249強姦亂倫$13#歐美精品$260#制服誘惑$92#蘿莉少女$103#成人動漫$274#美女主播$264#亞洲有碼$105#國產主播$268#國產視頻$304#巨乳美乳$93#歐美極品$266#自拍偷拍$28#騎兵有碼$261#無碼專區$254#抖陰視頻$25"
-            }
-        },       
- {
-            "key": "13AV",
-            "name": "🔞13AV",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "ext": {
-                "直接播放": "1",
-                "嗅探词": "index.m3u8",
-                "简介": "name=\"description\" content=\"&&\"/>",
-                "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
-                "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
-            }
-        },       
-     {
-            "key": "玩偶",
-            "name": "🍎姐姐🍎",
-            "type": 3,
-            "api": "csp_Doll",
-            "searchable": 1,
-            "recordable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.309
-            },
-            "ext": "proxy"
-        },   
-   {
-            "key": "Jable",
-            "name": "㊙️Jable",
-            "type": 3,
-            "api": "csp_Jable",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "proxy",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },     
+       
+       
         
         
         
@@ -1522,7 +1445,61 @@
             "分类": "日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#",
             "分类url": "http://aakhsck.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
         }
-    }, {
+    },
+        {"key":"SeHuaTang","name":"色花堂|磁力","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
+"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$null$$$proxy",
+                        "style": {
+                                "type": "list",
+                                "ratio": 1.1
+                        }
+    },
+ { "key": "heiliao",
+            "name": "黑料吃瓜",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext":{
+            "分类":"今日吃瓜$6#今日热搜$7#热门大瓜$8#黑料历史$10#独家爆料$9",
+             "分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html",
+          
+            "直接播放":"1"
+            }
+        }, 
+ {
+            "key": "pronlulu",
+            "name": "🔞pronlulu(T)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://www.pornlulu.com/cat/{cateId}?page={catePg}",
+                "分类": "國產自拍$263#中文字幕$48#日本有碼$269國產情色460#日本無碼$270#國產精品$249強姦亂倫$13#歐美精品$260#制服誘惑$92#蘿莉少女$103#成人動漫$274#美女主播$264#亞洲有碼$105#國產主播$268#國產視頻$304#巨乳美乳$93#歐美極品$266#自拍偷拍$28#騎兵有碼$261#無碼專區$254#抖陰視頻$25"
+            }
+        },       
+ {
+            "key": "13AV",
+            "name": "🔞13AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": {
+                "直接播放": "1",
+                "嗅探词": "index.m3u8",
+                "简介": "name=\"description\" content=\"&&\"/>",
+                "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
+                "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
+            }
+        },
+        {
         "key": "zp100",
         "name": "乐播",
         "type": 0,

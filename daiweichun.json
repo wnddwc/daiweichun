@@ -18,17 +18,63 @@
         "changeable": 0,
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"
-    }, {
-        "key": "csp_xpath_hl",
-        "name": "黑料(XP)",
-        "type": 3,
-        "api": "csp_XPath",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/hl.json"
-    }, {
+    }, 
+{
+    "key": "csp_xpath_hl",
+    "name": "黑料(XP)",
+    "type": 3,
+    "api": "csp_XPath",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
+    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/hl.json"
+},
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {
         "key": "csp_NO视频",
         "name": "❤️‍🔥〔NO视频丨XP™〕",
         "type": 3,

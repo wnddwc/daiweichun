@@ -19,7 +19,51 @@
             "filterable": 1,
             "ext": " http://122.228.84.103:5825/api.php/app/"
         },  
-        
+{
+            "proxy": "proxy",
+            "key": "AList",
+            "name": "❤小雅",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "style": {
+                    "type": "oval",
+                    "ratio": 1.485
+                },
+                "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
+                "drives": [
+                    {
+                        "name": "9T",
+                        "server": "https://drive.mc.ci",
+                        "params": [
+                            {
+                                "path": "/OneDrive",
+                                "pass": "mcci"
+                            },
+                            {
+                                "path": "/115Cloud",
+                                "pass": "mcci"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "【4K点播】☞按片名首字母↓往下翻页",
+                        "server": "https://pan.ecve.cn"
+                    },
+                    {
+                        "name": "星梦",
+                        "server": "https://pan.bashroot.top"
+                    }
+                ]
+            }
+        },        
         
         
         

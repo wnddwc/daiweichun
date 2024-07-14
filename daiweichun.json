@@ -44,7 +44,28 @@
                 "分类url": "https://www.hapetv.com/vod-show/{cateId}-{area}-------{catePg}---{year}/"
              }
         },
-      
+ {
+            "key": "555电影",
+            "name": "💕555电影",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": {
+                "主页url": "https://5srn5.com/",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "播放链接": "href=\"&&\"",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "线路数组": "<div class=\"module-tab-item&&</div>",
+                "线路标题": "<span>&&</small>",
+                "分类url": "https://c5ine.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#福利$124"
+            }
+        },     
         
         
         
@@ -712,17 +733,8 @@
             "分类url": "https://dmflm.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;akd0"
         },
         "jar": "https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"
-    }, {
-        "key": "555yingshi",
-        "name": "555影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar",
-        "ext": {
-            "分类": "电影$1#电视剧$2#动漫$4",
-            "分类url": "https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"
-        }
-    }, {
+    }, 
+     {
         "key": "csp_桵空影院",
         "name": "桵空影院",
         "type": 3,

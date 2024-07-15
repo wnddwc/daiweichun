@@ -32,6 +32,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Excel%E6%95%99%E7%A8%8B.json"},
         
         

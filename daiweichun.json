@@ -34,7 +34,19 @@
             "changeable": 0,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Excel%E6%95%99%E7%A8%8B.json"},
-        
+  {
+    "key": "全看网",
+    "name": "❤️‍🔥〔全看网丨XP™〕",
+    "type": 3,
+    "api": "csp_XBPQ",
+     "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+    "ext": {
+        "分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html",
+        "分类": "电影&剧集&综艺&动漫",
+        "分类值": "1&2&3&4"
+    }
+},      
         
         
         

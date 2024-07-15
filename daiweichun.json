@@ -1555,42 +1555,11 @@
         "api": "http://fhapi9.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
-    }, { "key": "Taohuazu",
-        "name": "桃花族🔞",
-        "type": 3,
-        "api": "csp_Taohuazu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 0,
-        "timeout": 60,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
-    }, {
-        "key": "奥斯卡资源",
-        "name": "奥斯卡资源",
-        "type": 1,
-        "api": "https://aosikazy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "色南国资源",
-        "name": "色南国资源",
-        "type": 1,
-        "api": "https://api.sexnguon.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
+    },  {
         "key": "滴滴资源",
         "name": "滴滴资源",
         "type": 1,
         "api": "https://api.ddapi.cc/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "玉兔资源",
-        "name": "玉兔资源",
-        "type": 1,
-        "api": "https://apiyutu.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
     }, {
@@ -1633,27 +1602,6 @@
         "name": "探探资源",
         "type": 1,
         "api": "https://apittzy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "91视频",
-        "name": "91视频",
-        "type": 1,
-        "api": "https://91av.cyou/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "天美AV",
-        "name": "天美AV",
-        "type": 1,
-        "api": "https://tmav.art/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "色资源",
-        "name": "色资源",
-        "type": 1,
-        "api": "https://sezy.website/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
     }, {

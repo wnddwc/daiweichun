@@ -23,7 +23,14 @@
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar", "ext": {"副标题": "pack-prb hidden\">&&</span>","线路数组": "channelname swiper-slide&&</a>","分类url":"https://348z.com/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$55#国产剧$13#电视剧$2#电影$1#动漫$4#综艺$3"}},      
 { "key": "歪片星球", "name": "歪片星球", "type":3,"api":"csp_XBPQ", "jar":
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍:+module-info-introduction-content\">&&</div>","跳转播放链接":"src=\"/player/?url=&&\"","分类url":"https://waipian14.com/show-{cateId}-{area}--{class}-----{catePg}---{year}/","分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},        
-     
+ {
+      "key": "*抖阴视频",
+      "name": "*抖阴视频",
+      "type": 1,
+      "api": "https://www.888dav.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },     
         
         
         

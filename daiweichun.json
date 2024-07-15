@@ -34,74 +34,7 @@
             "changeable": 0,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Excel%E6%95%99%E7%A8%8B.json"},
-{ "key": "nu", 
-    "name": "Nuu|XBPQ", 
-    "type": 3, 
-    "api": "csp_XBPQ", 
-    "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-    "ext": "https://github.com/shawn82/tvbox/raw/master/lib/nuu.json" 
-},
-
-{
-            "key": "可达影视",
-            "name": "可达影视",
-            "type": 3,
-            "playerType": 2,
-            "playUrl": "https://kedays.org/play/?url=",
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "主页url": "https://kedays.org",
-                "首页": "120",
-                "起始页": "1",
-                "数组": "pic\">&&</li>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "text-overflow\">&&</p >",
-                "链接": "href=\"&&\"",
-                "简介": "pb-10*>&&</p >",
-                "线路数组": "data-target=\"#ewave-playlist&&</li>",
-                "线路标题": ">&&<em>[不包含:线路1]",
-                "倒序": "0",
-                "播放数组": "ewave-playlist-content&&</ul>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-                "跳转解析": "默认$https://kedays.org/play/?url=",
-                "嗅探词": ".mp4#.m3u8#.flv",
-                "搜索模式": "1",
-                "搜索url": "/so/{wd}----------{pg}---.html",
-                "搜索数组": "pic\">&&</li>",
-                "搜索副标题": "text-overflow\">&&</p >",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://kedays.org/shaixuan/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影&剧集&综艺&动漫&少儿&短剧",
-                "分类值": "dianying&lianxuju&zongyi&dongman&shaoer&duanju"
-            }
-        },       
-{
-    "key": "天启",
-    "name": "天启 | 影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-    "ext": {
-        "站名": "天启影视",
-        "主页url": "https://www.sxmzie.com/",
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-        "分类url": "https://www.sxmzie.com/by/{cateId}.html",
-        "分类": "高清电影$1#电视剧大全$2#综艺节目$3#樱花动漫$4",
-        "数组": "<li class=\"fed-list-item&&</li>",
-        "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>"
-    }
-},        
+        
         
         
         

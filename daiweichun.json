@@ -34,7 +34,8 @@
             "changeable": 0,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Excel%E6%95%99%E7%A8%8B.json"},
-        
+ {"key":"一号兔影视","name":"一号兔影视","type":3,"api":"csp_XBPQ","jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar","ext":{"分类url": "http://www.1haotu.com/weihu{cateId}-{area}-------{catePg}---{year}[http://www.1haotu.com/weihu{cateId}-{area}-------{catePg}---{year}]","跳转播放链接":"<iframe border*src=\"&&\"","播放链接前缀":"http://www.1haotu.com", "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$30#MV专区$36"}},       
         
         
         

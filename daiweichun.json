@@ -23,30 +23,7 @@
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar", "ext": {"副标题": "pack-prb hidden\">&&</span>","线路数组": "channelname swiper-slide&&</a>","分类url":"https://348z.com/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$55#国产剧$13#电视剧$2#电影$1#动漫$4#综艺$3"}},      
 { "key": "歪片星球", "name": "歪片星球", "type":3,"api":"csp_XBPQ", "jar":
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍:+module-info-introduction-content\">&&</div>","跳转播放链接":"src=\"/player/?url=&&\"","分类url":"https://waipian14.com/show-{cateId}-{area}--{class}-----{catePg}---{year}/","分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},        
- {
-            "key": "Excel教程",
-            "name": "Excel教程| Bili",
-            "type": 3,
-            "jar":"./jar/custom_spider.jar",
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Excel%E6%95%99%E7%A8%8B.json"},
-  {
-    "key": "全看网",
-    "name": "❤️‍🔥〔全看网丨XP™〕",
-    "type": 3,
-    "api": "csp_XBPQ",
-     "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-    "ext": {
-        "分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html",
-        "分类": "电影&剧集&综艺&动漫",
-        "分类值": "1&2&3&4"
-    }
-},      
+      
         
         
         
@@ -79,17 +56,7 @@
         
         
         
-   {
-        "key": "B站",
-        "name": "B站 | Bili[jar]",
-        "type": 3,
-        "api": "csp_Bili",
-        "searchable": 1,
-        "quickSearch": 0,
-        "changeable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"
-    }, 
+   
  {
             "key": "哈皮TV",
             "name": "哈皮TV（搜索图片炸裂）",
@@ -1232,6 +1199,27 @@
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
         "indexs": 1,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/douban.json"
+    }, {
+            "key": "Excel教程",
+            "name": "Excel教程| Bili",
+            "type": 3,
+            "jar":"./jar/custom_spider.jar",
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Excel%E6%95%99%E7%A8%8B.json"},
+ {
+        "key": "B站",
+        "name": "B站 | Bili[jar]",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 1,
+        "quickSearch": 0,
+        "changeable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/customspider.jar",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/bili.json"
     }, {
         "key": "Clg",
         "name": "📀💕磁力狗|磁力",

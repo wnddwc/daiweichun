@@ -46,19 +46,6 @@
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
     "ext": "https://github.com/shawn82/tvbox/raw/master/lib/nuu.json" 
 },
-
-  { "key": "天启", "name": "天启 | 影视", "type": 3, "api": "csp_XBPQ", "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar", "ext": {"站名": "天启影视",
-    "主页url": "https://www.sxmzie.com/",
-    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-    "分类url": "https://www.sxmzie.com/by/{cateId}.html",
-    "分类": "高清电影$1#电视剧大全$2#综艺节目$3#樱花动漫$4",
-    
-    "数组": "<li class=\"fed-list-item&&</li>",
-    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>"
-}
- },
-
 {
             "key": "可达影视",
             "name": "可达影视",

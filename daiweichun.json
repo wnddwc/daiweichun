@@ -24,22 +24,36 @@
 { "key": "歪片星球", "name": "歪片星球", "type":3,"api":"csp_XBPQ", "jar":
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍:+module-info-introduction-content\">&&</div>","跳转播放链接":"src=\"/player/?url=&&\"","分类url":"https://waipian14.com/show-{cateId}-{area}--{class}-----{catePg}---{year}/","分类":"短剧$duanju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},        
 {
-      "key": "C影院",
-      "name": "💕C影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-       "jar":
+            "key": "GimyTV",
+            "name": "💕GimyTV",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "api": "csp_XBPQ",
+            "jar":
 "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "简介": "<p class=\"col-pd\">&&</p>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://www.c-tv6.cc/video/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
-        "分类": "电影&连续剧&综艺&动漫&爽文短剧&伦理片",
-        "分类值": "dianying&lianxuju&zongyi&dongman&shuangwenduanju&lunlipian"
-      }},
+            "ext": {
+                "主页url": "https://gimy.tv/",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</p>",
+                "线路数组": "class=\"title&&</div>",
+                "线路标题": ">&&</h3>",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://gimy.tv/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html",
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+            }
+        },
         
         
         

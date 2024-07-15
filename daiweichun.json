@@ -1263,34 +1263,10 @@
             "ratio": 3.8
         },
         "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
-    },  {
-            "key": "葡萄",
-            "name": "🔞采集.葡萄资源",
-            "type": 1,
-            "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
-            "searchable": 1
-        },
-        {
-            "key": "森林",
-            "name": "🔞采集.森林资源",
-            "type": 1,
-            "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
-        {
-            "key": "奥斯卡",
-            "name": "🔞采集.奥斯卡",
-            "type": 1,
-            "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
-        {
-            "key": "奶香m",
-            "name": "🔞采集.奶香香",
-            "type": 1,
-            "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
+    }, 
+
+
+        
 
         {
             "key": "msv ",
@@ -1332,58 +1308,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "玉兔专场",
-            "name": "🔞玉兔采集",
-            "type": 1,
-            "api": "https://apiyutu.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "精品推荐",
-                "国产精品",
-                "主播秀色",
-                "日本有码",
-                "日本无码",
-                "中文字幕",
-                "童颜巨乳",
-                "性感人妻",
-                "强奸乱伦",
-                "欧美情色",
-                "童真萝莉",
-                "三级伦理",
-                "卡通动漫",
-                "丝袜OL",
-                "口爆颜射",
-                "自拍偷拍",
-                "日本片商",
-                "Cosplay",
-                "素人自拍",
-                "台湾色情",
-                "韩国自拍",
-                "性感港姐",
-                "东南亚情色",
-                "凌辱束缚",
-                "剧情介绍",
-                "多P 3P",
-                "91系列",
-                "网红系列",
-                "野外系列",
-                "女仆系列",
-                "学生中出",
-                "性感旗袍",
-                "兽耳作品",
-                "瑜伽裤",
-                "骚货护士",
-                "及膝袜",
-                "网曝系列",
-                "麻豆传媒",
-                "女同人妖",
-                "恋腿癖"
-            ]
-        },
+     
         {
             "key": "森林专场",
             "name": "🔞森林采集",
@@ -1623,73 +1548,14 @@
                 "虚拟VR"
             ]
         },
-        
-        {
-            "key": "timizy",
-            "name": "🔞甜蜜资源 ",
-            "type": 1,
-            "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "中文字幕",
-                "日本有码",
-                "日本无码",
-                "欧美精品",
-                "强奸乱伦",
-                "制服诱惑",
-                "国产视频",
-                "激情动漫",
-                "明星换脸",
-                "抖阴视频",
-                "女优明星",
-                "网曝黑料",
-                "萝莉少女",
-                "热门头条",
-                "SM调教",
-                "精品三级",
-                "AV解说",
-                "国产传媒",
-                "同性恋区",
-                "国产主播",
-                "VP视角",
-                "滴滴探花",
-                "人妖系列",
-                "精选视频"
-            ]
-        },
-        {
-        "key": "KK写真资源",
-        "name": "KK写真资源",
-        "type": 1,
-        "api": "https://kkzy.me/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
+         {
         "key": "番号资源",
         "name": "番号资源",
         "type": 1,
         "api": "http://fhapi9.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
-    }, {
-        "key": "甜蜜资源",
-        "name": "甜蜜资源",
-        "type": 1,
-        "api": "https://timizy10.cc/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "奶香香资源",
-        "name": "奶香香资源",
-        "type": 1,
-        "api": "https://naixxzy.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1
-    }, {
-        "key": "Taohuazu",
+    }, { "key": "Taohuazu",
         "name": "桃花族🔞",
         "type": 3,
         "api": "csp_Taohuazu",

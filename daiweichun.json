@@ -136,16 +136,6 @@
             "分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"
         }
     }, {
-        "key": "php_music",
-        "name": "Music",
-        "type": 4,
-        "api": "https://demobe.serv00.net/music.php",
-        "searchable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1
-        }
-    }, {
         "key": "热播之家",
         "name": "热播之家",
         "type": 3,

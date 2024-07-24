@@ -53,7 +53,18 @@
                 "分类": "剧集$1#电影$2#动漫$3#综艺$4"
             }
         },
-
+{
+    "key": "pttred",
+    "name": "PTT | 影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+     "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pttred.json"
+},
         
         
         

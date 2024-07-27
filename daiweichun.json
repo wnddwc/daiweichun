@@ -53,7 +53,9 @@
                 "分类": "剧集$1#电影$2#动漫$3#综艺$4"
             }
         },
-
+{ "key": "88影院", "name": "88影院", "type":3,"api":"csp_XBPQ", "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar", "ext": {"数组":"<a&&module-item\">","副标题":"module-item-text\">&&</div>","简介":"小林子为您剧情介绍:+video-info-item video-info-content vod_content\">&&</div>","播放数组":"sort-item\" id=\"sort-item&&</div>",
+     "分类url":"https://www.dsx888.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4"}},
 
 
        

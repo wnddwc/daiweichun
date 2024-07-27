@@ -53,7 +53,101 @@
                 "分类": "剧集$1#电影$2#动漫$3#综艺$4"
             }
         },
-        
+{
+    "key": "pttred",
+    "name": "PTT | 影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+     "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+    "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pttred.json"
+},
+
+
+{
+            "key": "115云盘",
+            "name": "115分享",
+            "type": 3,
+            "api": "csp_P115Share",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/pg115.txt"
+        },
+        {
+            "key": "UC云盘",
+            "name": "UC分享",
+            "type": 3,
+            "api": "csp_UCShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://127.0.0.1:9978/file/XYQTVBox/uc.txt"
+        },
+
+{
+    "key": "JAVDAY",
+    "name": "JavDay",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.77
+    },
+    "ext": {
+        "主页url": "https://javday.tv/",
+        "直接播放URL": "https://javday.tv/",
+        "数组": "class=\"card\"&&</div>",
+        "图片": "src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "meta name=\"description\" content=\"&&\"",
+        "主演": "meta name=\"keywords\" content=\"&&\"",
+        "分类url": "https://javday.tv/category/{cateId}-{catePg}/",
+        "分类": "最新$Newest#熱門$Popular#無碼$Uncensored#流出$Leaked#亞洲$Asian#國產$Domestic#日韓$Japan_Korea#精選$Selected",
+        "搜索模式": "1",
+        "搜索url": "https://javday.tv/search/{wd}/",
+        "搜索数组": "class=\"card\"&&</div>",
+        "搜索图片": "src=\"&&\"",
+        "搜索标题": "alt=\"&&\"",
+        "搜索链接": "href=\"&&\""
+    }
+},
+
+
+{
+    "key": "PIGAV",
+    "name": "Pigav",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.77
+    },
+    "ext": {
+        "主页url": "https://pigav.com/",
+        "直接播放URL": "1",
+        "数组": "class=\"video-item\"&&</div>",
+        "图片": "src=\"&&\"",
+        "标题": "alt=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "meta name=\"description\" content=\"&&\"",
+        "主演": "meta name=\"keywords\" content=\"&&\"",
+        "分类url": "https://pigav.com/category/{cateId}-{catePg}/",
+        "分类": "最新$Newest#熱門$Popular#無碼$Uncensored#流出$Leaked#亞洲$Asian#國產$Domestic#日韓$Japan_Korea#精選$Selected"
+    }
+},        
         
         
         

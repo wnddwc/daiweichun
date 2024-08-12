@@ -416,16 +416,6 @@
             "ratio": 1.5
         }
     }, {
-        "key": "豆瓣",
-        "name": "豆瓣",
-        "type": 3,
-        "api": "csp_Douban",
-        "searchable": 0,
-        "changeable": 1,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "indexs": 1,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/douban.json"
-    }, {
         "key": "csp_Aid",
         "name": "急救指南",
         "type": 3,

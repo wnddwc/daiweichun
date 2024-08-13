@@ -20,30 +20,7 @@
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A4%A9%E9%BE%99%E5%BD%B1%E8%A7%86.json",
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
     }, 
- {
-        "key": "baipiaoys",
-        "name": "💯白嫖 ┃ 影视",
-        "type": 3,
-        "changeable": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "api": "csp_XBPQ",
-        "ext": {
-            "主页url": "https://www.baipiaoys.com:9092/",
-            "副标题": "pic-text text-right\">&&</b>",
-            "搜索模式": "1",
-            "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
-            "图片": "data-original=\"&&\"",
-            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-            "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
-            "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-        },
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar"
-    }, {
+  {
         "key": "酷狗",
         "name": "酷狗",
         "type": 3,

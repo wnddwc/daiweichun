@@ -26,10 +26,7 @@
    
             
       {"key":"千神观影","name":"千神观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +style=\"display:none;\"&&</div>","分类url":"https://www.56aq.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电影$1#电视剧$2#综艺$3#动漫$4"}},
-             {"key":"伊人观影","name":"伊人观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: ","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"src=\"&&\"","标题":"fed-part-eone\">&&</a>","线路数组":"fed-list-head fed-part-rows fed-padding\">&&</li>","分类url":"https://tvb.loufubao.com/vod/{catePg}/{cateId}/0/0/0/0/0/0","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-       
-      {"key":"奈飞观影","name":"奈飞观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +show-desc\" style=\"line-height: 20px;\">&&</div>","分类url":"https://www.naifei.in/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$5#电影$1#电视剧$2#综艺$3#动漫$4"}},
-       {"key":"快看观影","name":"快看观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>","分类url":"http://www.chengjuda.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+         {"key":"快看观影","name":"快看观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>","分类url":"http://www.chengjuda.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
        
            {"key": "茶杯影视","name": "茶杯影视","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +本剧主要讲述&&</div>","标题":"title=*>&&</div>","分类url": "https://hoodlumsmusic.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
 

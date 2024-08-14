@@ -9,6 +9,33 @@
         }]
     }],
     "sites": [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   {"key": "剧兔","name": "追剧兔子","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
   {"key": "河狸","name": "河狸影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
   {"key": "柠檬","name": "柠檬影视","type": 3,"api": "csp_AppYsV2","ext": "http://mf.songshu.cyou/api.php/app/"},
@@ -23,47 +50,10 @@
    {"key":"csp_mgtva","name":"木瓜影视","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
 {"key":"csp_ipianba","name":"片吧影视","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
    {"key":"bkyy","name":"布卡影视","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"线路数组":"#ewave-playlist&&</li>","分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}},
-   
-            
-      {"key":"千神观影","name":"千神观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +style=\"display:none;\"&&</div>","分类url":"https://www.56aq.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电影$1#电视剧$2#综艺$3#动漫$4"}},
+       {"key":"千神观影","name":"千神观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +style=\"display:none;\"&&</div>","分类url":"https://www.56aq.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$24#电影$1#电视剧$2#综艺$3#动漫$4"}},
          {"key":"快看观影","name":"快看观影","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>","分类url":"http://www.chengjuda.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-       
            {"key": "茶杯影视","name": "茶杯影视","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +本剧主要讲述&&</div>","标题":"title=*>&&</div>","分类url": "https://hoodlumsmusic.com/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
-
-      {"key": "西屋影视","name": "西屋影视","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","搜索url":"https://xiwutv.com/vodsearch/{wd}-------------.html","分类url": "https://xiwutv.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$39#电视剧$30#电影$20#动漫$40#综艺$45"}},
-  
-   {"key": "奈飞中文","name": "奈飞中文","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","分类url": "https://www.naifei.art/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$juji#电影$dy#动漫$dongman#综艺$zongyi"}},
-     
-      {"key": "影渣渣","name": "影渣渣","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +module-info-introduction-content\">&&</div>","分类url": "https://www.yingzhazha.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
-              {"key": "小鸭影音","name": "小鸭影音","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$30#综艺$29"}},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+      {"key": "影渣渣","name": "影渣渣","type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"小林子为您剧情介绍: +module-info-introduction-content\">&&</div>","分类url": "https://www.yingzhazha.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},        
  {
         "key": "天龙影视",
         "name": "天龙影视",

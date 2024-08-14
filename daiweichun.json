@@ -15,7 +15,6 @@
      
         { "key": "一起看影视",  "name": "一起看影视", "type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar", "ext": {"线路数组":"sb-ico-player ico-Azhan\">&&</li>","分类url":"https://www.cpldq.com/cptype/{cateId}-{catePg}.html","分类":"短剧$30#电视剧$2#国产剧$13#香港剧$14#台湾剧$32#韩剧$16#日剧$33#欧美剧$15#电影$1#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12#动漫$4#综艺$3"}},
        
-         { "key": "达达影视",  "name": "达达影视", "type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar", "ext": {"分类url":"https://www.ddgys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
                { "key": "奇趣影视",  "name": "奇趣影视", "type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar", "ext": {"分类url":"https://www.qqutv.com/qqys/{cateId}/area/{area}/page/{catePg}/year/{year}.html;;d0","分类":"电视剧$dianshiji#电影$dianying#动漫$dongmna#综艺$zongyi"}},
        
        { "key": "青苹果影视",  "name": "青苹果影视", "type": 3,"api": "csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar", "ext": {"简介":"小林子为您剧情介绍: +comment_list\">&&</ul>","线路数组":"tab_con_playlist&&</li>","分类url":"https://www.isoitc.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$39#电视剧$2#电影$1#动漫$4#动画片$35#综艺$3"}},

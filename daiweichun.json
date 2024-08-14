@@ -13,13 +13,7 @@
   {"key": "剧兔","name": "追剧兔子","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
   {"key": "河狸","name": "河狸影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
   {"key": "柠檬","name": "柠檬影视","type": 3,"api": "csp_AppYsV2","ext": "http://mf.songshu.cyou/api.php/app/"},
-  {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},
-  {"key": "银河","name": "银河影视","type": 3,"api": "csp_AppYsV2","ext": "http://134.175.219.46/mogai_api.php/v1.vod"},
-{"key":"良品短剧","name":"良品短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},   
-{"key":"精品短剧","name":"精品短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},
-{"key":"星芽短剧","name":"星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"荐片","name":"荐片影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
-{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1},
+
 
 
 

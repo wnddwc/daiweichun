@@ -9,6 +9,42 @@
         }]
     }],
     "sites": [
+    { "key": "csp_Ikan","name": "爱看影视","type": 3,"api": "csp_Ikan", "searchable": 1,"quickSearch": 1,"filterable": 1, "changeable": 0},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
  {
         "key": "天龙影视",
         "name": "天龙影视",

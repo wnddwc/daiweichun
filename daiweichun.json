@@ -9,8 +9,6 @@
         }]
     }],
     "sites": [
- {"key":"天龙影院","name":"天龙影院","type":1,"api":"http://www.82mao.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","台湾剧","韩国剧","日本剧","欧美剧","泰国剧","海外剧","纪录片","微电影","经典系列","TVB专区","综艺片"]},
- {"key":"华为影院","name":"华为影院","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","playUrl":"https://player.hw8.lol/player?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港剧","台剧","韩剧","日剧","欧美剧","泰剧","国产动漫","纪录片","日韩动漫","欧美动漫","国产综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},          
         
         
         
@@ -58,7 +56,7 @@
         
         
         
-        
+ {"key":"华为影院","name":"华为影院","type":1,"api":"https://cjhwba.com/api.php/provide/vod/?ac=list","playUrl":"https://player.hw8.lol/player?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","国产剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港剧","台剧","韩剧","日剧","欧美剧","泰剧","国产动漫","纪录片","日韩动漫","欧美动漫","国产综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},        
         {
         "key": "韩剧网",
         "name": "韩剧网",

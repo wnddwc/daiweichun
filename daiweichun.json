@@ -1,8 +1,7 @@
 {
     "wallpaper": "",
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
-  "lives":[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-    "sites": [
+"lives":[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],    "sites": [
         
         
         

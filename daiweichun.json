@@ -10,7 +10,40 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-    "sites": [{
+    "sites": [
+{
+        "key": "Youtube",
+        "name": "Youtube",
+        "type": 3,
+        "api": "csp_Youtube",
+        "searchable": 1,
+        "quickSearch": 0,
+        "changeable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "ext": {
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
+            "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+            "proxy": "proxy",
+            "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+            "codecs": ""
+        },
+        "style": {
+            "type": "rect",
+            "ratio": 1.5
+        }
+    },
+
+
+
+
+
+
+
+
+
+
+
+{
         "key": "华为影院",
         "name": "华为影院",
         "type": 1,
@@ -886,26 +919,6 @@
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
     }, {
-        "key": "Youtube",
-        "name": "Youtube",
-        "type": 3,
-        "api": "csp_Youtube",
-        "searchable": 1,
-        "quickSearch": 0,
-        "changeable": 0,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "ext": {
-            "json": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
-            "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-            "proxy": "proxy",
-            "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-            "codecs": ""
-        },
-        "style": {
-            "type": "rect",
-            "ratio": 1.5
-        }
-    },{
         "key": "csp_Aid",
         "name": "急救指南",
         "type": 3,

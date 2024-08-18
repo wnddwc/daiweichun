@@ -918,7 +918,21 @@
             "ratio": 3.8
         },
         "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
-    }, {
+    },
+        {
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+        {
         "key": "msv ",
         "name": "🔞美少女 ",
         "type": 0,

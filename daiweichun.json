@@ -17,7 +17,17 @@
 				"ratio": 1.1
 			}
 		},	    
-	    
+{
+			"key": "小米网盘",
+			"name": "小米|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wogg.json$$$XIAOMI"
+		},	    
 	    
 	    
 	    

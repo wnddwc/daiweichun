@@ -10,39 +10,47 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-    "sites": [
-{"key":"115Share","name":"115云盘分享","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1, "changeable":1, "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar","filterable":0, "timeout":120, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://github.com/wnddwc/daiweichun/blob/main/115share.txt$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},	    
-{
-			"key": "小米网盘",
-			"name": "小米|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-                        "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wogg.json$$$XIAOMI"
-		},      {
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-		        "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
-		}],
+    "sites": [{
+        "key": "115Share",
+        "name": "115云盘分享",
+        "type": 3,
+        "api": "csp_P115Share",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "filterable": 0,
+        "timeout": 120,
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://github.com/wnddwc/daiweichun/blob/main/115share.txt$$$db$$$1",
+        "style": {
+            "type": "list",
+            "ratio": 1.1
+        }
+    }, {
+        "key": "小米网盘",
+        "name": "小米|网盘",
+        "type": 3,
+        "api": "csp_Wobg",
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 60,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wogg.json$$$XIAOMI"
+    }, {
+        "key": "网盘配置",
+        "name": "网盘及彈幕配置",
+        "type": 3,
+        "api": "csp_Config",
+        "searchable": 0,
+        "changeable": 0,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+        "style": {
+            "type": "rect",
+            "ratio": 1.5
+        }
+    }],
     "parses": [{
         "name": "kyB",
         "type": 1,

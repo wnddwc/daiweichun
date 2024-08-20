@@ -22,14 +22,14 @@
         "commonConfig": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/peizhi.json"
       }
     },
-        {
+{
       "key": "网盘集合",
       "name": "网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,
       "filterable": 0,
-      "switchable": 0,
+      "switchable": 0,     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
       "ext": {
         "commonConfig": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/peizhi.json",
         "share": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E7%BD%91%E7%9B%98%E9%9B%86%E5%90%88.json"

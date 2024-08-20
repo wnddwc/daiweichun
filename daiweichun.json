@@ -803,28 +803,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_桃子影视",
-            "name": "👶桃子☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/桃子影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_全看网",
-            "name": "👶全看☆网网(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/全看网.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_奇优影院",
             "name": "👶奇优☆影院(XHiker)",
             "type": 3,
@@ -836,39 +814,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_农民影视",
-            "name": "👶农民☆香版(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/农民影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_蜜果视界",
-            "name": "👶蜜果☆视界(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/蜜果视界.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_帽子影院",
-            "name": "👶帽子☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/帽子影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_可可影视",
             "name": "👶可可☆影视(XHiker)",
             "type": 3,
@@ -877,83 +822,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/可可影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_酒客影视",
-            "name": "👶酒客☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/酒客影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_蜂鸟影院",
-            "name": "👶蜂鸟☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/蜂鸟影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_白嫖影视",
-            "name": "👶白嫖☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/白嫖影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_FreeOK3",
-            "name": "👶FreeOK☆香版(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/FreeOK.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_520影视",
-            "name": "👶520☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/520影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_448影视",
-            "name": "👶448☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/448影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_777影视",
-            "name": "👶777☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/777影视.json",
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
@@ -979,61 +847,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_真不卡",
-            "name": "👶不卡☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/真不卡影院2.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_奇趣",
-            "name": "👶奇趣☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/奇趣影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_易看视频",
-            "name": "👶易看☆视频(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/易看视频.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_龙龙影视",
-            "name": "👶龙龙☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/龙龙影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_哩咕TV",
-            "name": "👶哩咕☆TV(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/哩咕TV.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_快看影视",
             "name": "👶快看☆影视(XHiker)",
             "type": 3,
@@ -1042,17 +855,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/快看影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_干饭影视",
-            "name": "👶干饭☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/干饭影视.json",
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
@@ -1067,61 +869,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_橙汁影视",
-            "name": "👶橙汁☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/橙汁影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_2068影院",
-            "name": "👶2068☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/2068影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_新视觉影院",
-            "name": "👶视觉☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/新视觉影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_HDmoli",
-            "name": "👶HD☆moli(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/HDmoli.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_爱优影视",
-            "name": "👶爱优☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/爱优影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_白嫖者联盟",
             "name": "👶嫖者☆联盟(XHiker)",
             "type": 3,
@@ -1130,28 +877,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/白嫖者联盟.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_看看影视",
-            "name": "👶看看☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/看看影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_欧帝影视",
-            "name": "👶欧帝☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/欧帝影视.json",
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
@@ -1185,39 +910,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/兄弟影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_映迷影视",
-            "name": "👶映迷☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/映迷影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_两个BT",
-            "name": "👶两个☆BT(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/两个BT.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_皮皮虾搜索",
-            "name": "👶皮虾☆搜索(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/皮皮虾搜索.json",
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
@@ -1265,17 +957,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_业余影视",
-            "name": "👶业余☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/业余影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_一起看影院",
             "name": "👶一起☆影院(XHiker)",
             "type": 3,
@@ -1295,50 +976,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/影视大全.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_孜然影视",
-            "name": "👶孜然☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/孜然影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_地瓜影院",
-            "name": "👶地瓜☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/地瓜影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_兰花影院",
-            "name": "👶兰花☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/兰花影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_金刚影院",
-            "name": "👶金刚☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/金刚影院.json",
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
@@ -1386,61 +1023,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_片吧影院",
-            "name": "👶片吧☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/片吧影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_不休影院",
-            "name": "👶不休☆影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/不休影院.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_WeTV",
-            "name": "👶WeTV☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/WeTV.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_明帝影视",
-            "name": "👶明帝☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/明帝影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_洋芋片",
-            "name": "👶洋芋☆影视(XHikerR)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/洋芋片.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_时代电影网",
             "name": "👶时代☆电影(XHiker)",
             "type": 3,
@@ -1452,39 +1034,6 @@
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {
-            "key": "csp_XYQHiker_快影视",
-            "name": "👶快影☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/快影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_55看",
-            "name": "👶55看☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/55看影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_无心影视网",
-            "name": "👶无心☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/无心影视网.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
             "key": "csp_XYQHiker_大师兄影视",
             "name": "👶师兄☆影视(XHiker)",
             "type": 3,
@@ -1493,39 +1042,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/大师兄影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_3456影视",
-            "name": "👶3456☆影视(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/3456影视.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "csp_XYQHiker_神马电影网",
-            "name": "👶神马☆电影(XHikerR)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/神马电影网.json",
-            "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-        },
-        {
-            "key": "XYQHiker_真不卡影院",
-            "name": "🌸真不卡影院(XHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/真不卡影院.json",
             "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
         },
         {

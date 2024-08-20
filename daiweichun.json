@@ -10,23 +10,34 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-    "sites": [{
-        "key": "115Share",
-        "name": "115云盘分享",
-        "type": 3,
-        "api": "csp_P115Share",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-        "filterable": 0,
-        "timeout": 120,
-        "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mirror.ghproxy.com/https://github.com/wnddwc/daiweichun/blob/main/115share.txt$$$db$$$1",
-        "style": {
-            "type": "list",
-            "ratio": 1.1
-        }
-    }, {
+    "sites": [
+        {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar
+      "ext": {
+        "commonConfig": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/peizhi.json"
+      }
+    },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        {
         "key": "网盘配置",
         "name": "网盘及彈幕配置",
         "type": 3,

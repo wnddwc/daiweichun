@@ -11,13 +11,13 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-        {
+          {
       "key": "ConfigCenter",
       "name": "配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
       "searchable": 0,
-      "changeable": 0,    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar
+      "changeable": 0,    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
       "ext": {
         "commonConfig": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/peizhi.json"
       }

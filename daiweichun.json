@@ -32,7 +32,7 @@
       "switchable": 0,     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
       "ext": {
         "commonConfig": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/peizhi.json",
-        "share": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E7%BD%91%E7%9B%98%E9%9B%86%E5%90%88.json"
+        "share": https://mirror.ghproxy.com/https://github.com/wnddwc/daiweichun/blob/main/115share.txt"
       }
     },
         

@@ -2323,6 +2323,184 @@
         }
     }],
     "parses": [{
+        "name": "Json轮询（推荐）",
+        "type": 2,
+        "url": "Sequence"
+    }, {
+        "name": "Web并发",
+        "type": 3,
+        "url": "WebParallel"
+    }, {
+        "name": "Json并发",
+        "type": 2,
+        "url": "Parallel"
+    }, 
+    {    
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "摸鱼测压",
+      "type": 1,
+      "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+    }
+    },
+      {
+        "name": "NG解析",
+        "type": 1,
+        "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+        "name": "一点影视",
+        "type": 0,
+        "url": "https://play.movurl.xyz/?url="
+    } ,
+    {
+        "name": "云解析",
+        "type": 0,
+        "url": "https://yparse.ik9.cc/index.php?url="
+    } ,
+    {
+        "name": "M3U8无广告解析",
+        "type": 0,
+        "url": "https://jx.m3u8.tv/jiexi/?url="
+    } ,
+    {
+        "name": "圣圣云",
+        "type": 0,
+        "url": "http://82.156.40.118:1234/jx/?url="
+    } ,
+    {
+        "name": "BlibliPlayer",
+        "type": 0,
+        "url": "https://jx.oftens.top/player/?url="
+    } ,
+    {
+        "name": "阳途解析",
+        "type": 0,
+        "url": "https://jx.yangtu.top/?url="
+    } ,
+    {
+        "name": "弹幕解析",
+        "type": 0,
+        "url": "https://dmjx.m3u8.tv/?url="
+    } ,
+    {
+        "name": "超快解析",
+        "type": 0,
+        "url": "https://www.ckplayer.vip/jiexi/?url="
+    } ,
+    {
+        "name": "麒麟解析",
+        "type": 0,
+        "url": "https://jx.haokantv.cyou/player/?url="
+    } ,
+    {
+        "name": "JY解析",
+        "type": 0,
+        "url": "https://jx.playerjy.com/?url="
+    } ,
+    {
+        "name": "盘古解析",
+        "type": 0,
+        "url": "https://www.pangujiexi.com/jiexi/?url="
+    } ,
+    {
+        "name": "8090",
+        "type": 0,
+        "url": "https://www.8090.la/8090/?url="
+    } ,
+     {
+        "name": "JSONPlayer",
+        "type": 0,
+        "url": "https://jx.777jiexi.com/player/?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
+        }
+    } ,{ 
+        "name": "夜幕解析",
+        "type": 0,
+        "url": "https://www.yemu.xyz/?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
+        }
+    }, {
+        "name": "BL解析",
+        "type": 0,
+        "url": "https://vip.bljiex.com/?v=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
+        }
+    }, {
+        "name": "8090G",
+        "type": 0,
+        "url": "https://www.8090g.cn/?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
+        }
+    }, {
+        "name": "左岸解析",
+        "type": 0,
+        "url": "https://jx.jsonplayer.com/player/?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
+        }
+    }, {
+        "name": "晨光解析",
+        "type": 0,
+        "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
+        "ext": {
+            "flag": ["youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯"]
+        }
+    }, {
+        "name": "虾米解析",
+        "type": 0,
+        "url": "https://jx.xmflv.com/?url=",
+        "ext": {
+            "flag": ["youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯"]
+        }
+    }, {
+        "name": "饭团解析",
+        "type": 0,
+        "url": "https://www.fantuantva.com/jiexi/jiexi-gf/?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "bilibili", "哔哩哔哩", "哔哩", "letv", "乐视", "sohu"]
+        }
+    }, {
+        "name": "爱豆解析",
+        "type": 0,
+        "url": "https://jx.aidouer.net/?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
+        }
+    },{
         "name": "kyB",
         "type": 1,
         "url": "https://stray.serv00.net/ky.php?url=",

@@ -64,7 +64,7 @@
 "singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
-"pan115_cookie":"acw_tc=784e2caa17242006004344792e75b2f23dbd3c636577fa01702e1c536be0ea; Hm_lvt_8e02c7c5c255d2341ccd67e73d6b8063=1724200601; Hm_lpvt_8e02c7c5c255d2341ccd67e73d6b8063=1724200601; HMACCOUNT=B023345B10088445",
+"pan115_cookie":"",
 "pan115_thread_limit":0,
 "pan115_vip_thread_limit":0,
 "pan115_is_vip":false,

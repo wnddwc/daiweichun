@@ -11,7 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
- {"key": "速播资源1","name": "速播资源","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/at/json","playurl": "https://subojiexi.com/play/?url="},        
         
         
         

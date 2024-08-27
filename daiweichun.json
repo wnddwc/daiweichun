@@ -15,7 +15,7 @@
 			"key": "速播资源",
 			"name": "速播┃资源",
 			"type": 1,
-			"api": "https://subocaiji.com/api.php/provide/vod",
+			"api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/xml",
 			"categories": [
 				"电影",
 				"电视剧",

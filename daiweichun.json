@@ -11,7 +11,22 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-      
+{
+			"key": "速播资源",
+			"name": "速播┃资源",
+			"type": 1,
+			"api": " https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/xml",
+			"categories": [
+				"电影",
+				"电视剧",
+				"动漫",
+				"综艺",
+				"纪录片",
+				"短剧片"
+			],
+			"searchable": 1,
+			"quickSearch": 1
+		},      
         
         
         

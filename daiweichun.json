@@ -11,8 +11,7 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-{"key":"速播资源","name":"速播资源1","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","动作片","动作片","动作片","动作片","动作片","大陆剧","大陆剧","大陆剧","大陆剧","大陆剧","动漫","综艺","纪录片","短剧"]},
-        
+ {"key": "速播资源1","name": "速播资源","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/at/json","playurl": "https://subojiexi.com/play/?url="},        
         
         
         

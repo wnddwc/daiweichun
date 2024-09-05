@@ -83,7 +83,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/哔哩影视[官].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]0",
@@ -95,7 +95,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=../json/哔哩教育.json"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E6%88%91%E7%9A%84%E5%93%94%E5%93%A9%5B%E5%AE%98%5D.js?type=url&params=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%93%94%E5%93%A9%E6%95%99%E8%82%B2.json"
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]1",
@@ -4671,9 +4671,9 @@
 			"group": "redirect",
 			"channels": [
 				{
-					"name": "稳定github直播",
+					"name": "尉春直播",
 					"urls": [
-						"proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+						"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"
 					]
 				},
 				{

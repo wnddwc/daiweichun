@@ -5,17 +5,16 @@
 	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
 	"sites": [
 		{
-			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)",
-			"type": 3,
-			"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js
+            "key": "hipy_js_360影视[官]",
+            "name": "360影视[官](drpy_t3)",
+            "type": 3,         "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js
 ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/360%E5%BD%B1%E8%A7%86%5B%E5%AE%98%5D.js"
-		},
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/360%E5%BD%B1%E8%A7%86%5B%E5%AE%98%5D.js"
+        },
 		{
 			"key": "hipy_js_菜狗[官]",
 			"name": "菜狗[官](drpy_t3)",

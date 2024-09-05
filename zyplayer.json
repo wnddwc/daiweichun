@@ -7,7 +7,7 @@
 		{
             "key": "hipy_js_360影视[官]",
             "name": "360影视[官](drpy_t3)",
-            "type": 3,         "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js
+            "type": 3,         "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy2.min.js
 ",
             "searchable": 1,
             "quickSearch": 1,
@@ -19,7 +19,7 @@
 			"key": "hipy_js_菜狗[官]",
 			"name": "菜狗[官](drpy_t3)",
 			"type": 3,
-			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy2.min.js
 ",
 			"searchable": 1,
 			"quickSearch": 1,

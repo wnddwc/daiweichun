@@ -29,51 +29,56 @@
 			"key": "hipy_js_奇珍异兽[官]",
 			"name": "奇珍异兽[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/奇珍异兽[官].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_优酷[官]",
 			"name": "优酷[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/优酷[官].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E4%BC%98%E9%85%B7%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾云驾雾[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/腾云驾雾[官].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_百忙无果[官]",
 			"name": "百忙无果[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/百忙无果[官].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_哔哩影视[官]",
 			"name": "哔哩影视[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -84,7 +89,8 @@
 			"key": "hipy_js_我的哔哩[官]0",
 			"name": "哔哩教育[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -95,7 +101,8 @@
 			"key": "hipy_js_我的哔哩[官]1",
 			"name": "哔哩大全[官](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,

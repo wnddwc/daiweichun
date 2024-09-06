@@ -113,78 +113,87 @@
 			"key": "hipy_js_采集之王[合]0",
 			"name": "采王道长[合](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B%5B%E5%90%88%5D.js
+?type=url&params=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%81.json$1"
 		},
 		{
 			"key": "hipy_js_采集之王[合]1",
 			"name": "采王zy[密](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 1,
-			"ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%87%87%E9%9B%86%E4%B9%8B%E7%8E%8B%5B%E5%90%88%5D.js
+?type=url&params=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E9%87%87%E9%9B%86%5Bzy%5D%E9%9D%99%E6%80%81.json$1"
 		},
 		{
 			"key": "hipy_js_01看球[球]",
 			"name": "01看球[球](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/01看球[球].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/01%E7%9C%8B%E7%90%83%5B%E7%90%83%5D.js"
 		},
 		{
 			"key": "hipy_js_4K-AV",
 			"name": "4K-AV(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/4K-AV.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/4K-AV.js"
 		},
 		{
 			"key": "hipy_js_4k剧院",
 			"name": "4k剧院(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/4k剧院.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/4k%E5%89%A7%E9%99%A2.js"
 		},
 		{
 			"key": "hipy_js_4khdr",
 			"name": "4khdr(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/4khdr.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/4khdr.js"
 		},
 		{
 			"key": "hipy_js_6V新版[磁]",
 			"name": "6V新版[磁](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/6V新版[磁].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/6V%E6%96%B0%E7%89%88%5B%E7%A3%81%5D.js"
 		},
 		{
 			"key": "hipy_js_7猫小说[书]",

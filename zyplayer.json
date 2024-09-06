@@ -197,67 +197,73 @@
 			"key": "hipy_js_7猫小说[书]",
 			"name": "7猫小说[书](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/7猫小说[书].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/7%E7%8C%AB%E5%B0%8F%E8%AF%B4%5B%E4%B9%A6%5D.js"
 		},
 		{
 			"key": "hipy_js_8号影院",
 			"name": "8号影院(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/8号影院.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/8%E5%8F%B7%E5%BD%B1%E9%99%A2.js"
 		},
 		{
 			"key": "hipy_js_29片库[密]",
 			"name": "29片库[密](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/29片库[密].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/29%E7%89%87%E5%BA%93%5B%E5%AF%86%5D.js"
 		},
 		{
 			"key": "hipy_js_36直播[密]",
 			"name": "36直播[密](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/36直播[密].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/36%E7%9B%B4%E6%92%AD%5B%E5%AF%86%5D.js"
 		},
 		{
 			"key": "hipy_js_58动漫[漫]",
 			"name": "58动漫[漫](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/58动漫[漫].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/58%E5%8A%A8%E6%BC%AB%5B%E6%BC%AB%5D.js"
 		},
 		{
 			"key": "hipy_js_88看球[球]",
 			"name": "88看球[球](drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/drpy3.min.js",
+
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/88看球[球].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/88%E7%9C%8B%E7%90%83%5B%E7%90%83%5D.js"
 		},
 		{
 			"key": "88Pan",

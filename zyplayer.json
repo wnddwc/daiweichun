@@ -564,7 +564,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/北川影视.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%8C%97%E5%B7%9D%E5%BD%B1%E8%A7%86.js"
 		},
 		{
 			"key": "hipy_js_贝乐虎[儿]",
@@ -575,7 +575,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/贝乐虎[儿].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%B4%9D%E4%B9%90%E8%99%8E%5B%E5%84%BF%5D.js"
 		},
 		{
 			"key": "hipy_js_被窝电影",
@@ -586,7 +586,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/被窝电影.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E8%A2%AB%E7%AA%9D%E7%94%B5%E5%BD%B1.js"
 		},
 		{
 			"key": "hipy_js_笔趣阁[书]",
@@ -597,7 +597,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/笔趣阁[书].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E7%AC%94%E8%B6%A3%E9%98%81%5B%E4%B9%A6%5D.js"
 		},
 		{
 			"key": "hipy_js_笔趣阁13[书]",
@@ -608,7 +608,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/笔趣阁13[书].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E7%AC%94%E8%B6%A3%E9%98%8113%5B%E4%B9%A6%5D.js"
 		},
 		{
 			"key": "Bdys_spider",
@@ -630,7 +630,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/哔嘀影视[优].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_哔哩直播[官]",
@@ -641,7 +641,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/哔哩直播[官].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD%5B%E5%AE%98%5D.js"
 		},
 		{
 			"key": "hipy_js_播客[听]",
@@ -652,7 +652,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/播客[听].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E6%92%AD%E5%AE%A2%5B%E5%90%AC%5D.js"
 		},
 		{
 			"key": "hipy_js_博看听书[听]",
@@ -663,7 +663,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/博看听书[听].js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js"
 		},
 		{
 			"key": "hipy_js_采集之王[合]2",

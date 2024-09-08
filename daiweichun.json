@@ -11,7 +11,12 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-        
+     {
+"key": "小目标",
+"name": "小目标",
+"type": 1,
+"api": "https://tv.xmb.app/api.php/provide/vod/",
+"searchable": 1,   
         
         
         

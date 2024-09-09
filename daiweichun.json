@@ -11,24 +11,7 @@
 						"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV.txt"
 					]
 				},
-				{
-					"name": "华数2",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
-					]
-				},
-				{
-					"name": "杭州华数",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
-					]
-				},
-				{
-					"name": "云星日记直播",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
-					]
-				},
+				
 				{
 					"name": "本地嗅探器直播",
 					"urls": [

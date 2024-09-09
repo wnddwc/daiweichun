@@ -1,7 +1,7 @@
 {
     "wallpaper": "",
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
- "lives": [
+"lives": [
 		{
 			"group": "redirect",
 			"channels": [
@@ -10,7 +10,7 @@
 					"urls": [
 						"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt"
 					]
-				},	
+				},
 			]
 		}
 	],

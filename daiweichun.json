@@ -12,12 +12,7 @@
 					]
 				},
 				
-				{
-					"name": "本地嗅探器直播",
-					"urls": [
-						"proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
-					]
-				}
+				
 			]
 		}
 	],

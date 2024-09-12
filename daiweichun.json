@@ -16,7 +16,13 @@
 	],
 
     "sites": [
-
+  { "key": "爱上", "name": "爱上XBPQ", "type":3,"api":"csp_XBPQ", "jar":
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+"ext": {
+    "数组": "<div class=\"public-list-div public-list-bj\">&&<div class=\"public-list-box public-pic-b\">",
+    "播放数组": "<ul class=\"anthology-list-play size\"> &&</ul>",
+     "播放列表": "<a&&</a>",
+    "分类url":"https://23dyw.cn/vod/list.html?cate_id={class}&page={catePg}&type_id={cateId}","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
         
         
         

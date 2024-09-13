@@ -1,72 +1,16 @@
 {
     "wallpaper": "",
     "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
-"lives": [
-		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "尉春直播",
-					"urls": [
-						"proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt"
-					]
-				},
-			]
-		}
-	],
-
-    "sites": [
-{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 120,
-                     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-
-			"ext":{
-				"token":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
-	"json":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        {
+   "lives": [{
+        "name": "live",
+        "type": 0,
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }],
+    "sites": [{
         "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/jar0423%20.jar",
         "key": "csp_RinHome_ZAL",
         "name": "🏆荐片(SP)",
@@ -2067,7 +2011,33 @@
         "timeout": 60,
         "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
-    }, {
+    }, 
+{
+			"key":"Youtube",
+			"name":"Youtube",
+			"type":3,
+			"api": "csp_Youtube",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"timeout": 120,
+                     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+
+			"ext":{
+				"token":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+	"json":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":"",
+				"proxy":"",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+{
         "key": "csp_Aid",
         "name": "急救指南",
         "type": 3,
@@ -2390,117 +2360,81 @@
         "name": "Json并发",
         "type": 2,
         "url": "Parallel"
-    }, 
-    {    
-      "name": "聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "摸鱼测压",
-      "type": 1,
-      "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-    }
-    },
-      {
+    }, {
+        "name": "聚合1",
+        "type": 3,
+        "url": "Demo"
+    }, {
+        "name": "聚合0",
+        "type": 3,
+        "url": "Web"
+    }, {
+        "name": "摸鱼测压",
+        "type": 1,
+        "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
+        "ext": {
+            "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "rx", "ltnb", "bilibili", "1905", "xigua"]
+        }
+    }, {
         "name": "NG解析",
         "type": 1,
         "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
-    {
+    }, {
         "name": "一点影视",
         "type": 0,
         "url": "https://play.movurl.xyz/?url="
-    } ,
-    {
+    }, {
         "name": "云解析",
         "type": 0,
         "url": "https://yparse.ik9.cc/index.php?url="
-    } ,
-    {
+    }, {
         "name": "M3U8无广告解析",
         "type": 0,
         "url": "https://jx.m3u8.tv/jiexi/?url="
-    } ,
-    {
+    }, {
         "name": "圣圣云",
         "type": 0,
         "url": "http://82.156.40.118:1234/jx/?url="
-    } ,
-    {
+    }, {
         "name": "BlibliPlayer",
         "type": 0,
         "url": "https://jx.oftens.top/player/?url="
-    } ,
-    {
+    }, {
         "name": "阳途解析",
         "type": 0,
         "url": "https://jx.yangtu.top/?url="
-    } ,
-    {
+    }, {
         "name": "弹幕解析",
         "type": 0,
         "url": "https://dmjx.m3u8.tv/?url="
-    } ,
-    {
+    }, {
         "name": "超快解析",
         "type": 0,
         "url": "https://www.ckplayer.vip/jiexi/?url="
-    } ,
-    {
+    }, {
         "name": "麒麟解析",
         "type": 0,
         "url": "https://jx.haokantv.cyou/player/?url="
-    } ,
-    {
+    }, {
         "name": "JY解析",
         "type": 0,
         "url": "https://jx.playerjy.com/?url="
-    } ,
-    {
+    }, {
         "name": "盘古解析",
         "type": 0,
         "url": "https://www.pangujiexi.com/jiexi/?url="
-    } ,
-    {
+    }, {
         "name": "8090",
         "type": 0,
         "url": "https://www.8090.la/8090/?url="
-    } ,
-     {
+    }, {
         "name": "JSONPlayer",
         "type": 0,
         "url": "https://jx.777jiexi.com/player/?url=",
         "ext": {
             "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
         }
-    } ,{ 
+    }, {
         "name": "夜幕解析",
         "type": 0,
         "url": "https://www.yemu.xyz/?url=",
@@ -2556,7 +2490,7 @@
         "ext": {
             "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "sohu"]
         }
-    },{
+    }, {
         "name": "kyB",
         "type": 1,
         "url": "https://stray.serv00.net/ky.php?url=",

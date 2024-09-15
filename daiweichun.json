@@ -10,14 +10,11 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-    "sites": [
-{
+    "sites": [{
             "key": "csp_XBPQ_蛙蛙",
             "name": "蛙视频",
             "type": 3,
-            "api": "csp_XBPQ",
-            "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/Yoursmile.jar",
+            "api": "csp_XBPQ", "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,

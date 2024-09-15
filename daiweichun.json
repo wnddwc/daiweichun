@@ -17,8 +17,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar":
-"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
-
+"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -30,7 +29,7 @@
                 "链接": "href=\"&&\"",
                 "简介": "简介：&&</li>",
                 "分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
- "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"}},	    
+ "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"}},    
 	    
 	    
 	    

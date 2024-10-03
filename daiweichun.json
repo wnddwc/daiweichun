@@ -17,7 +17,8 @@
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
-			"changeable": 0,		"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+                    "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+			"changeable": 0,		  "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5

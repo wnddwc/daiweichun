@@ -20,6 +20,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
+            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
             "ext": {
                 "线路标题": "class=\"source-item-label\">&&</span>",
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6",

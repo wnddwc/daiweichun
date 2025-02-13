@@ -11,40 +11,7 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    {
+ {
         "jar": "https://mirror.ghproxy.com/https://github.com/taojinliang123/TVBox/raw/main/jar0423%20.jar",
         "key": "csp_RinHome_ZAL",
         "name": "🏆荐片(SP)",

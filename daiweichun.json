@@ -11,31 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-		    {
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"timeout": 120,
-                     "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-
-			"ext":{
-				"token":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
-	"json":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
-				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-				"codecs":"",
-				"proxy":"",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
 {
         "key": "一起看影视",
         "name": "一起看影视",
@@ -757,7 +732,33 @@
             "ratio": 3.8
         },
         "jar": "https://qu.ax/dDSz.jpg;md5;510FA1663F7067BD4D40DE06097202BF"
-    }, {
+    },
+{
+			"key":"Youtube",
+			"name":"Youtube",
+			"type":3,
+			"api": "csp_Youtube",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"timeout": 120,
+                     "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+
+			"ext":{
+				"token":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+	"json":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
+				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+				"codecs":"",
+				"proxy":"",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+ {
         "key": "msv ",
         "name": "🔞美少女 ",
         "type": 0,

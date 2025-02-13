@@ -1,2 +1,3 @@
 电影,#genre#
+哪吒之魔童降世,https://v.gsuus.com/play/vbmWXvGe/index.m3u8
 哪吒之魔童闹海,https://v.gsuus.com/play/BeXZB7vb/index.m3u8

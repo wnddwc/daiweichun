@@ -1,3 +1,4 @@
 最新电影,#genre#
 唐探1900,https://v.gsuus.com/play/lejzWn4e/index.m3u8
 哪吒之魔童闹海,https://v.gsuus.com/play/BeXZB7vb/index.m3u8
+蛟龙行动,https://v.gsuus.com/play/RdGBzo7b/index.m3u8

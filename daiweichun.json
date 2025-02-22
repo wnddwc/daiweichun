@@ -12,6 +12,34 @@
     }],
 	    "sites": [
 {
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    
+{
         "key": "一起看影视",
         "name": "一起看影视",
         "type": 3,

@@ -36,8 +36,17 @@
 
 
 
-
-
+{
+            "key": "短剧",
+            "name": "采集短剧",
+            "type": 1,
+            "api": "https://wwzy.tv/api.php/provide/vod/",
+            "playUrl": "",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1
+        },
 
 		    
 {

@@ -12,12 +12,6 @@
     }],
 	    "sites": [
 
-{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/quarkshare.txt",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
 
 
 

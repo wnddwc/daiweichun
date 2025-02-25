@@ -11,7 +11,17 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-
+{
+			"key": "至臻|网盘",
+			"name": "至臻|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/wogg.json$$$ZHIZHEN"
+		},
 
 
 

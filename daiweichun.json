@@ -24,7 +24,42 @@
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$.https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/wogg.json$$$ZHIZHEN"
 		},
 
+{"key":"TGYunPanLocal","name":"TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+				"json":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/tgsearch.json",
+                                "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"leoziyuan,ucpanpan,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
 
+
+		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
+			"ext":{
+				"token":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
+				"json":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/tgsearch.json",
+                                "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
+				"proxy":"noproxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
 
 
 

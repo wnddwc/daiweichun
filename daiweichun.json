@@ -12,51 +12,6 @@
     }],
 	    "sites": [
 {
-			"key": "至臻|网盘",
-			"name": "至臻|网盘",
-			"type": 3,
-			"api": "csp_Wobg",
-                        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$.https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/wogg.json$$$ZHIZHEN"
-		},
-
-
-
-
-
-
-
-{
-      "key": "csp_LaoBaiBook",
-      "name": "听书┃BOOK",
-      "type": 3,
-      "api": "csp_LaoBaiBook",
-      "playerType": 2,
-      "searchable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/mi5119.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-{
-            "key": "短剧",
-            "name": "采集短剧",
-            "type": 1,
-            "api": "https://wwzy.tv/api.php/provide/vod/",
-            "playUrl": "",
-            "playerType": 1,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1
-        },
-
-		    
-{
         "key": "一起看影视",
         "name": "一起看影视",
         "type": 3,
@@ -102,7 +57,44 @@
             "剧情": "动作片$dzp#喜剧片$xjp#爱情片$aqp#科幻片$khp#恐怖片$kbp#剧情片$jqp#战争片$zzp#惊悚片$jsp||香港剧$tvbgj#国产剧$neidi#台湾剧$taiju#欧美剧$oumei#日剧$riju#韩剧$hanju#网剧$wangju#泰剧$yataiju||大陆综艺$guozong#日韩综艺$hanzong#欧美综艺$meizong||国产动漫$guoman#日本动漫$riman#欧美动漫$meiman$动画$donghua||记录片$Jlp#经典片$Jdp#经典剧$Jdj#网大电影$wlp#国产老电影$laodianying",
             "分类": "电影$Movie#电视剧$Tv#综艺$Zy#动漫$Dm#其他$qita"
         }
-    }, {
+    },
+	{
+			"key": "至臻|网盘",
+			"name": "至臻|网盘",
+			"type": 3,
+			"api": "csp_Wobg",
+                        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+			"quickSearch": 1,
+			"changeable": 1,
+			"filterable": 1,
+			"timeout": 60,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://mihdr.top/$$$noproxy$$$1$$$.https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/wogg.json$$$ZHIZHEN"
+		},
+{
+      "key": "csp_LaoBaiBook",
+      "name": "听书┃BOOK",
+      "type": 3,
+      "api": "csp_LaoBaiBook",
+      "playerType": 2,
+      "searchable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/mi5119.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+{
+            "key": "短剧",
+            "name": "采集短剧",
+            "type": 1,
+            "api": "https://wwzy.tv/api.php/provide/vod/",
+            "playUrl": "",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1
+        },	    
+	  {
         "key": "火狼影视",
         "name": "火狼影视",
         "type": 3,

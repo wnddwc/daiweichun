@@ -12,6 +12,38 @@
     }],
 	    "sites": [
 {
+        "key": "xml_魔爪",
+        "name": "魔爪☆资源",
+        "type": 1,
+        "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+        "searchable": 1,
+        "quickSearch": 1
+       
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    
+{
         "key": "一起看影视",
         "name": "一起看影视",
         "type": 3,

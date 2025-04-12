@@ -12,6 +12,24 @@
     }],
     "sites": [
 {
+        "key": "xml_魔爪",
+        "name": "魔爪☆资源",
+        "type": 0,
+        "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "xml_电影天堂",
+        "name": "电影天堂",
+        "type": 0,
+        "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },     
+{
       "key": "csp_LaoBaiBook",
       "name": "听书┃BOOK",
       "type": 3,
@@ -662,15 +680,6 @@
         "filterable": 1,
         "ext": "https://ghfast.top/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/有声小说吧.json",
         "jar": "https://ghfast.top/https://github.com/taojinliang123/taojinliang123.github.io/raw/main/xkl0525.jar"
-    }, {
-        "jar": "https://ghfast.top/https://github.com/taojinliang123/TVBox/raw/main/jar0423%20.jar",
-        "key": "csp_TvDy",
-        "name": "👼电影天堂(SP)",
-        "type": 3,
-        "api": "csp_TvDy",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
     }, {
         "jar": "https://ghfast.top/https://github.com/taojinliang123/TVBox/raw/main/jar0423%20.jar",
         "key": "csp_DaGongRen",

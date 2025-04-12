@@ -11,15 +11,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
- {
+{
         "key": "xml_魔爪",
         "name": "魔爪☆资源",
-        "type": 1,
+        "type": 0,
         "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    }, 
+    },
 
 
 

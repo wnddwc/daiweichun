@@ -21,14 +21,14 @@
         "filterable": 1
     },  
  {
-        "key": "樱花资源",
-        "name": "樱花资源",
+        "key": "新浪资源",
+        "name": "新浪资源",
         "type": 1,
-        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+        "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },
+    },  
  {
         "key": "非凡资源",
         "name": "非凡资源",

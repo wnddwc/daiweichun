@@ -12,6 +12,15 @@
     }],
 	    "sites": [
  {
+        "key": "小猫咪资源",
+        "name": "小猫咪资源",
+        "type": 1,
+        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 		    
+ {
         "key": "U酷资源",
         "name": "U酷资源",
         "type": 1,

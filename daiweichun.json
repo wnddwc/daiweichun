@@ -11,6 +11,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
+{
+        "key": "淘片资源",
+        "name": "淘片资源",
+        "type": 1,
+        "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 		    
  {
         "key": "牛牛资源",
         "name": "牛牛资源",

@@ -77,7 +77,7 @@
 {
         "key": "优质资源",
         "name": "优质资源",
-        "type": 4,
+        "type": 1,
         "api": "https://api.yzzy-api.com/inc/api_mac10.php",
         "searchable": 1,
         "quickSearch": 1,

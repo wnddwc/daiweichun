@@ -92,10 +92,42 @@
         "quickSearch": 1,
         "filterable": 1
     },  
-
-
-
-
+ {
+        "key": "小熊影视",
+        "name": "小熊影视",
+        "type": 1,
+        "api": "http://47.94.99.16:3074/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "天翼影视",
+        "name": "天翼影视",
+        "type": 1,
+        "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
+ {
+        "key": "蜂巢片库",
+        "name": "蜂巢片库",
+        "type": 1,
+        "api": "https://api.fczy888.me/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "旺旺短剧",
+        "name": "旺旺短剧",
+        "type": 1,
+        "api": "https://api.wwzy.tv/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
 
 
 

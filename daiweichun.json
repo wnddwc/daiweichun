@@ -11,6 +11,28 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
+ {
+        "key": "115资源",
+        "name": "115资源",
+        "type": 1,
+        "api": "https://155api.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+		    
 {
         "key": "火狐资源",
         "name": "火狐资源",

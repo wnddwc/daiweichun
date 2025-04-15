@@ -11,15 +11,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-{
-        "key": "魔都资源",
-        "name": "魔都资源",
+ {
+        "key": "暴风资源",
+        "name": "暴风资源",
         "type": 1,
-        "api": "https://www.moduzy.com/api.php/provide/vod/",
+        "api": "https://bfzyapi.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },  		    
+    },		    
  {
         "key": "虎牙资源",
         "name": "虎牙资源",

@@ -56,9 +56,33 @@
         "quickSearch": 1,
         "filterable": 1
     },
-
-
-
+ {
+        "key": "如意资源",
+        "name": "如意资源",
+        "type": 1,
+        "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },  
+ {
+        "key": "无限资源",
+        "name": "无限资源",
+        "type": 1,
+        "api": "https://api.wuxianzy.net/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
+{
+        "key": "优质资源",
+        "name": "优质资源",
+        "type": 4,
+        "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
 
 
 

@@ -74,15 +74,15 @@
         "quickSearch": 1,
         "filterable": 1
     }, 
-{
-        "key": "优质资源",
-        "name": "优质资源",
+ {
+        "key": "天涯资源",
+        "name": "天涯资源",
         "type": 1,
-        "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+        "api": "https://ty.tyyszy5.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    }, 
+    },  
 
 
 

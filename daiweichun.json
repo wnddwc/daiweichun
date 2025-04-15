@@ -110,15 +110,7 @@
         "quickSearch": 1,
         "filterable": 1
     },  
-{
-        "key": "CK资源",
-        "name": "CK资源",
-        "type": 1,
-        "api": "https://ckzy.me/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 
+
 
 
 
@@ -990,7 +982,17 @@
         "api": "https://www.gdlsp.com/api/xml.php ",
         "searchable": 1,
         "changeable": 1
-    }, {
+    }, 
+{
+        "key": "CK资源",
+        "name": "CK资源",
+        "type": 1,
+        "api": "https://ckzy.me/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 	
+{
         "key": "bp ",
         "name": "🔞白嫖 ",
         "type": 0,

@@ -20,7 +20,15 @@
         "quickSearch": 1,
         "filterable": 1
     }, 
-
+ {
+        "key": "360资源",
+        "name": "360资源",
+        "type": 1,
+        "api": "https://360zy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
 
 
 

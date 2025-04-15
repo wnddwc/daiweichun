@@ -56,7 +56,15 @@
         "quickSearch": 1,
         "filterable": 1
     },  
-
+ {
+        "key": "最大资源",
+        "name": "最大资源",
+        "type": 1,
+        "api": "https://api.zuidapi.com/api.php/provide/vod/?ac=list",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },  
 
 
 

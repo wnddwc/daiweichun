@@ -47,7 +47,15 @@
         "quickSearch": 1,
         "filterable": 1
     },
-
+ {
+        "key": "影图资源",
+        "name": "影图资源",
+        "type": 1,
+        "api": "https://cj.vodimg.top/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
 
 
 

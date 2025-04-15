@@ -11,6 +11,24 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
         "key": "xml_魔爪",
         "name": "魔爪☆资源",
@@ -64,25 +82,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		    
+    }, 
 {
         "key": "一起看影视",
         "name": "一起看影视",

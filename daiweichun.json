@@ -12,6 +12,15 @@
     }],
 	    "sites": [
  {
+        "key": "牛牛资源",
+        "name": "牛牛资源",
+        "type": 1,
+        "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },  		    
+ {
         "key": "鸭鸭资源",
         "name": "鸭鸭资源",
         "type": 1,

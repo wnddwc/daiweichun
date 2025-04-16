@@ -41,7 +41,7 @@
  {
         "key": "精品葡萄资源",
         "name": "精品葡萄资源",
-        "type": 0,
+        "type": 4,
         "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
         "searchable": 1,
         "quickSearch": 1,

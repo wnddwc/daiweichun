@@ -10,7 +10,653 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [ 		    
+	    "sites": [
+{
+      "key": "drpyS_瓜子[APP]",
+      "name": "🔶瓜子┃[APP]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/瓜子[APP]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_闪电[盘]",
+      "name": "🔴闪电┃[优汐]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/闪电[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_下饭[盘]",
+      "name": "🔵下饭┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/下饭[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_多多[盘]",
+      "name": "🔵多多┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/多多[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_大玩[盘]",
+      "name": "🔵大玩┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/大玩[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_百家[盘]",
+      "name": "🔵百家┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/百家[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_蜡笔[盘]",
+      "name": "🔵蜡笔┃[云盘]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/蜡笔[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_校长[盘]",
+      "name": "🟣校长┃[夸克]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/校长[盘]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_夸克盘搜[盘]",
+      "name": "🟣盘搜┃[夸克]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/夸克盘搜[盘]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drjs_AList",
+      "name": "🗂️ALis┃[存储]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/alist.min.js",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/json/alist.json"
+    },
+    {
+      "key": "drpy2_毒蛇[优]",
+      "name": "❤️毒蛇┃[优质]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "https://zhxy.eu.org/js/毒蛇[优].js"
+    },
+    {
+      "key": "drpy2_苹果[优]",
+      "name": "❤️苹果┃[优质]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": "https://zhxy.eu.org/js/苹果[优].js"
+    },
+    {
+      "key": "drpyS_荐片[优]",
+      "name": "❤️荐片┃[优质]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/荐片[优]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "金牌.py",
+      "name": "❤️金牌┃[派储]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/PyramidStore/-/git/raw/main/plugin/html/金牌.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "drjs_4K-A",
+      "name": "❤️4K-A┃[优质]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/drpy_js/4K-A[优].js"
+    },
+    {
+      "key": "drpyS_动作交互",
+      "name": "⚙️动作┃[交互]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/动作交互",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_设置中心",
+      "name": "⚙️设置┃[中心]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/设置中心",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "more": {
+        "sourceTag": "设置,动作",
+        "actions": [
+          {
+            "name": "推送",
+            "action": "{\"actionId\":\"推送视频播放\",\"id\":\"push\",\"type\":\"input\",\"title\":\"推送视频地址进行播放\",\"tip\":\"支持网盘、官链、直链、待嗅探链接\",\"value\":\"\",\"msg\":\"请输入待推送的视频地址\",\"imageUrl\":\"https://cnb.cool/zhyadc/YsBox/-/git/raw/main/img/lives.jpg\",\"imageHeight\":200,\"imageType\":\"card_pic_3\",\"keep\":true,\"button\":4,\"width\":640,\"selectData\":\"123:=https://www.123684.com/s/oec7Vv-DggWh?ZY4K,腾讯:=https://v.qq.com/x/cover/mzc00200vkqr54u/u4100l66fas.html,爱奇艺:=http://www.iqiyi.com/v_1b0tk1b8tl8.html,夸克:=https://pan.quark.cn/s/6c8158e258f3,UC:=https://drive.uc.cn/s/59023f57d3ce4?public=1,阿里:=https://www.alipan.com/s/vgXMcowK8pQ,天翼:=https://cloud.189.cn/web/share?code=INJbU3NbqyUj,移动1:=https://yun.139.com/shareweb/#/w/i/0i5CLQ7BpV7Ai,移动2:=https://caiyun.139.com/m/i?2jexC1gcjeN7q,移动3:=https://yun.139.com/shareweb/#/w/i/2i2MoE9ZHn9p1,直链1:=https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4,嗅探1:=https://www.6080kk.cc/haokanplay/178120-1-1.html,嗅探2:=https://www.hahads.com/play/537106-3-1.html,多集:=https://v.qq.com/x/cover/m441e3rjq9kwpsc/m00253deqqo.html#https://pan.quark.cn/s/6c8158e258f3,海阔二级单线路:=H4sIAAAAAAAAA52Uy27TQBSGXwUZlsT2GefadZ+AN3ATk7qKL7guUoKQXAQFeoEG6oKaVBUFlBZFbdQ0TXAIeRjPTJwVr8AYCsNyijQbnzPfPz72p3kk6WXf8aQFibzszFsb0l2p7Ni+YfusFAe78/W383C6eC8OmnEQsEVal7NxiEebeLQ/i75oKvl6iccfZwdPWY0OhnR8+uPbdnJ2kUx7ONrAo094skMOD+ZHHbL1nIbHbCf53KdBh7RPaP+Yfm8n5x+S3gWr016TtCb03VUa2Brh6A0Nm8ngVRysk7Nt+mI3aYfk9fs0YfMERxENn+FoKw6e3KJ7V8lgyF6+YnrG9UAPTLu6ZNgrpu4ZNlJRlrXve47FWrNomgzPEdJYydYtIx1/Z0rbXTzps9zrza5ZZo1l33dXFxSFPWlyvdGom5ZeNVblsmMpa27N0SvKQ6eipEwGIINAgYKGIA+lYg7kFbfKkta8Wnpqt6sC+8Z3/kQuyXm1qDZ+RbEMt6bXFVBBQ6UMy5KXfat2O4WQMIQ4pAlDGoeywlCWQzlhKMehvDCU51BBGCpwqCgMFTlUEoZKfyFQxX+uyqkbKMGdAHEnAP0Xxa0AcZWAawHiLgH3AsRlAi4GiNsE3AwQ1wm4GiDuE/zjhrhQiLuBxI1C3A0kbhTibqAb3DK/3ZAe/wSSQMKkPgYAAA==\"}",
+            "vod_name": "推送视频播放",
+            "vod_pic": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/img/lives.jpg",
+            "vod_tag": "action"
+          },
+          {
+            "name": "连续对话",
+            "action": "{\"actionId\":\"连续对话\",\"id\":\"talk\",\"type\":\"input\",\"title\":\"连续对话\",\"tip\":\"请输入消息\",\"value\":\"\",\"msg\":\"开始新的对话\",\"button\":3,\"imageUrl\":\"https://img2.baidu.com/it/u=1206278833,3265480730&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=800\",\"imageHeight\":200,\"imageType\":\"card_pic_3\",\"keep\":true,\"width\":680,\"height\":800,\"msgType\":\"long_text\",\"httpTimeout\":60,\"canceledOnTouchOutside\":false,\"selectData\":\"新的对话:=清空AI对话记录\"}"
+          },
+          {
+            "name": "查看夸克cookie",
+            "action": "查看夸克cookie"
+          },
+          {
+            "name": "设置夸克cookie",
+            "action": "设置夸克cookie"
+          },
+          {
+            "name": "夸克扫码",
+            "action": "夸克扫码"
+          },
+          {
+            "name": "设置玩偶域名",
+            "action": "{\"actionId\":\"玩偶域名\",\"id\":\"domain\",\"type\":\"input\",\"width\":450,\"title\":\"玩偶域名\",\"tip\":\"请输入玩偶域名\",\"value\":\"\",\"msg\":\"选择或输入使用的域名\",\"selectData\":\"1:=https://www.wogg.net/,2:=https://wogg.xxooo.cf/,3:=https://wogg.888484.xyz/,4:=https://www.wogg.bf/,5:=https://woggapi.333232.xyz/\"}"
+          }
+        ]
+      },
+      "ext": ""
+    },
+    {
+      "key": "drpyS_直播转点播[合]",
+      "name": "🎁直播┃[合集]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/直播转点播[合]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9G+6vmUFXogNgC98lvhEwAAAA=="
+    },
+    {
+      "key": "drpyS_采王道长[合]",
+      "name": "🎁采王┃[合集]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/采集之王[合]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ228u5M581NOqBRFQMAcGPDNobAAAA"
+    },
+    {
+      "key": "drpyS_央视大全[官]",
+      "name": "🏠央视┃[官源]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/央视大全[官]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_腾云驾雾[官]",
+      "name": "🏠腾讯┃[官源]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/腾云驾雾[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_百忙无果[官]",
+      "name": "🏠芒果┃[官源]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/百忙无果[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_哔哩直播[官]",
+      "name": "🚀哔哩┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/哔哩直播[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_快手直播[官]",
+      "name": "🚀快手┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/快手直播[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_抖音直播[官]",
+      "name": "🚀抖音┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/抖音直播[官]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "live",
+      "name": "🚀聚合┃[直播]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/open/live_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 12,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_虎牙直播[官]",
+      "name": "🚀虎牙┃[直播]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/虎牙直播[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_博看听书[听]",
+      "name": "📻博看┃[知识]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/博看听书[听]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_相声随身听[听]",
+      "name": "📻相声┃[知识]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/相声随身听[听]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_六月听书[听]",
+      "name": "🎧️六月┃[听书]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/六月听书[听]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_种子音乐[听]",
+      "name": "🎻种子┃[音乐]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/种子音乐[听]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_KTV歌厅[听]",
+      "name": "🎻KTV┃[音乐]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/KTV歌厅[听]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_动漫巴士[漫]",
+      "name": "💮巴士┃[动漫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/动漫巴士[漫]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_番薯动漫[漫]",
+      "name": "💮番薯┃[动漫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/番薯动漫[漫]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "py_剧多短剧.py",
+      "name": "📱剧多┃[派储]",
+      "type": 3,
+      "api": "https://cnb.cool/zhyadc/PyramidStore/-/git/raw/main/plugin/app/剧多短剧APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 7,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_南风短剧[短]",
+      "name": "📱南风┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/南风短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_星芽短剧[短]",
+      "name": "📱星芽┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/星芽短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_河马短剧[短]",
+      "name": "📱河马┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/河马短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_甜圈短剧[短]",
+      "name": "📱甜圈┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/甜圈短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_聚合短剧[短]",
+      "name": "📱聚合┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/聚合短剧[短]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_蓝莓短剧[短]",
+      "name": "📱蓝莓┃[短剧]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/蓝莓短剧[短]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_哔哩大全[官]",
+      "name": "🅱️大全┃[哔哩]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/我的哔哩[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Td3q+eqYeiAUAPLR4wBEAAAA="
+    },
+    {
+      "key": "drpyS_哔哩教育[官]",
+      "name": "🅱️教育┃[哔哩]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/我的哔哩[官]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": "H4sIAAAAAAAAA9PT088qzs/Tfzp5ytPJK59NnfmiaZMeSAQAgv7xPBkAAAA="
+    },
+    {
+      "key": "drpyS_土豆[虫]",
+      "name": "🐞土豆┃[爬虫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/土豆[虫]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_爱看[虫]",
+      "name": "🐞爱看┃[爬虫]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/爱看[虫]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_TG[搜]",
+      "name": "🔎TG┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/TG[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_天逸[搜]",
+      "name": "🔎天逸┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/天逸[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_小米盘搜[搜]",
+      "name": "🔎小米┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/小米盘搜[搜]",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_搜片[搜]",
+      "name": "🔎搜片┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/搜片[搜]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_短剧[搜]",
+      "name": "🔎短剧┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/短剧[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_TL盘[搜]",
+      "name": "🔎TL盘┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/TL盘[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_123短剧[搜]",
+      "name": "🔎123短┃[搜索]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/123短剧[搜]",
+      "searchable": 1,
+      "filterable": 0,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_兔小贝[儿]",
+      "name": "👶兔小┃[儿童]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/兔小贝[儿]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_贝乐虎[儿]",
+      "name": "👶贝乐┃[儿童]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/贝乐虎[儿]",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_录像[球]",
+      "name": "⚽录像┃[体育]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/录像[球]",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_直播[球]",
+      "name": "⚽直播┃[体育]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/直播[球]",
+      "searchable": 0,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_影探[V2]",
+      "name": "🔱影探┃[V2]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/APPV2[模版]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": "H4sIAAAAAAAAA8soKSmw0tdPLq4s0cuprKwsKdNLzgMAGD3sCRUAAAA="
+    },
+    {
+      "key": "drpyS_七猫小说[书]",
+      "name": "📚七猫┃[小说]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/七猫小说[书]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_番茄小说[书]",
+      "name": "📚番茄┃[小说]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/番茄小说[书]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_古风漫画[画]",
+      "name": "🖼️古风┃[漫画]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/古风漫画[画]",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃[推送]",
+      "type": 4,
+      "api": "https://zhxy.eu.org/api/push_agent",
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
+
+		    
 {
         "key": "火狐资源",
         "name": "火狐资源",

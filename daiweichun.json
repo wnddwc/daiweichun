@@ -65,9 +65,33 @@
         "quickSearch": 1,
         "filterable": 1
     }, 
-
-
-
+ {
+        "key": "草榴资源",
+        "name": "草榴资源",
+        "type": 1,
+        "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "色南国资源",
+        "name": "色南国资源",
+        "type": 1,
+        "api": "https://api.sexnguon.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "淫水机资源",
+        "name": "淫水机资源",
+        "type": 1,
+        "api": "https://www.xrbsp.com/api/json.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
 
 
 

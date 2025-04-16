@@ -92,9 +92,33 @@
         "quickSearch": 1,
         "filterable": 1
     }, 
-
-
-
+ {
+        "key": "黄AV资源",
+        "name": "黄AV资源",
+        "type": 1,
+        "api": "https://www.pgxdy.com/api/json.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "大地资源",
+        "name": "大地资源",
+        "type": 1,
+        "api": "https://dadiapi.com/api.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
+ {
+        "key": "利来资源",
+        "name": "利来资源",
+        "type": 1,
+        "api": "http://llzxcj.com/inc/sck.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
 		    
 {
         "key": "火狐资源",

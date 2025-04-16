@@ -615,47 +615,6 @@
       "quickSearch": 1,
       "ext": "H4sIAAAAAAAAA8soKSmw0tdPLq4s0cuprKwsKdNLzgMAGD3sCRUAAAA="
     },
-    {
-      "key": "drpyS_七猫小说[书]",
-      "name": "📚七猫┃[小说]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/七猫小说[书]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_番茄小说[书]",
-      "name": "📚番茄┃[小说]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/番茄小说[书]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "drpyS_古风漫画[画]",
-      "name": "🖼️古风┃[漫画]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/古风漫画[画]",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃[推送]",
-      "type": 4,
-      "api": "https://zhxy.eu.org/api/push_agent",
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "ext": ""
-    },
-
 		    
 {
         "key": "火狐资源",

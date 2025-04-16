@@ -20,8 +20,24 @@
         "quickSearch": 1,
         "filterable": 1
     },
-
-
+ {
+        "key": "GAY资源",
+        "name": "GAY资源",
+        "type": 1,
+        "api": "https://gayapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
+ {
+        "key": "桃花资源",
+        "name": "桃花资源",
+        "type": 1,
+        "api": "https://thzy1.me/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
 
 
 

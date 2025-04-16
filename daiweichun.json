@@ -39,16 +39,23 @@
         "filterable": 1
     }, 
  {
-        "key": "精品葡萄资源",
-        "name": "精品葡萄资源",
-        "type": 4,
-        "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+        "key": "黄瓜资源",
+        "name": "黄瓜资源",
+        "type": 1,
+        "api": "https://to.to-long.com/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },  
-
-
+    },   
+ {
+        "key": "丝袜资源",
+        "name": "丝袜资源",
+        "type": 1,
+        "api": "https://www.siwazyw.tv/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
 
 
 

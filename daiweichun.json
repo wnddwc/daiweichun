@@ -11,78 +11,7 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
- {
-        "key": "奥斯卡资源",
-        "name": "奥斯卡资源",
-        "type": 1,
-        "api": "https://aosikazy2.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "X细胞资源",
-        "name": "X细胞资源",
-        "type": 1,
-        "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "搜AV资源",
-        "name": "搜AV资源",
-        "type": 1,
-        "api": "https://api.souavzy.vip/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "杏吧资源",
-        "name": "杏吧资源",
-        "type": 1,
-        "api": "https://xingba111.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "YES资源",
-        "name": "YES资源",
-        "type": 1,
-        "api": "https://www.yeszy1.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },  
- {
-        "key": "番茄资源",
-        "name": "番茄资源",
-        "type": 1,
-        "api": "https://fqzy4.me/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, 
- {
-        "key": "黄色仓库",
-        "name": "黄色仓库",
-        "type": 1,
-        "api": "https://hsckzy.vip/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
- {
-        "key": "91视频",
-        "name": "91视频",
-        "type": 1,
-        "api": "https://91av.cyou/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    },
+
 
 		    
   
@@ -1192,7 +1121,44 @@
         "api": "https://www.pgxdy.com/api/xml.php ",
         "searchable": 1,
         "changeable": 1
-    }, {
+    },
+ {
+        "key": "X细胞资源",
+        "name": "X细胞资源",
+        "type": 1,
+        "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+ {
+        "key": "YES资源",
+        "name": "YES资源",
+        "type": 1,
+        "api": "https://www.yeszy1.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },  
+ {
+        "key": "番茄资源",
+        "name": "番茄资源",
+        "type": 1,
+        "api": "https://fqzy4.me/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
+ {
+        "key": "黄色仓库",
+        "name": "黄色仓库",
+        "type": 1,
+        "api": "https://hsckzy.vip/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },		    
+{
         "key": "森林专场",
         "name": "🔞森林采集",
         "type": 1,

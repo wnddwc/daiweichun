@@ -39,14 +39,14 @@
         "filterable": 1
     }, 
  {
-        "key": "黄瓜资源",
-        "name": "黄瓜资源",
+        "key": "色猫资源",
+        "name": "色猫资源",
         "type": 1,
-        "api": "https://to.to-long.com/api.php/provide/vod/",
+        "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1
-    },   
+    },  
  {
         "key": "丝袜资源",
         "name": "丝袜资源",
@@ -56,7 +56,15 @@
         "quickSearch": 1,
         "filterable": 1
     },
-
+ {
+        "key": "玉兔资源",
+        "name": "玉兔资源",
+        "type": 1,
+        "api": "https://apiyutu.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    }, 
 
 
 

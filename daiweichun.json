@@ -11,6 +11,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
+ {
+        "key": "xml_豆瓣资源",
+        "name": "豆瓣资源",
+        "type": 0,
+        "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },		    
 {
       "key": "drpyS_瓜子[APP]",
       "name": "🔶瓜子┃[APP]",

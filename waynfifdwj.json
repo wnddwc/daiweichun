@@ -12,6 +12,37 @@
     }],
     "sites": [
 {
+            "key": "七味影院",
+            "name": "七味┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "防走丢": "https://www.qwmkv.com/",
+                "主页url": "https://www.pkmp4.xyz/",
+                "二次截取": "class=\"pic-list clearfix\"&&</ul>",
+                "数组": "<li>&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "class=\"player\"&&</ul>",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<a&&a>",
+                "播放标题": ">&&</",
+                "线路数组": "<option&&option>",
+                "线路标题": ">&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$30"
+            }
+        },	    
+{
       "key": "随客影视",
       "name": "🎥｜随客｜影视",
       "type": 3,

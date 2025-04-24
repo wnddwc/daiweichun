@@ -10,7 +10,16 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [		    
+	    "sites": [		
+{
+        "key": "xml_茅台资源",
+        "name": "茅台资源",
+        "type": 0,
+        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },	    
 {
       "key": "随客影视",
       "name": "🎥｜随客｜影视",

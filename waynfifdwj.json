@@ -12,6 +12,15 @@
     }],
     "sites": [
 {
+        "key": "xml_茅台资源",
+        "name": "茅台资源",
+        "type": 0,
+        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },	    
+{
             "key": "七味影院",
             "name": "七味┃影院",
             "type": 3,

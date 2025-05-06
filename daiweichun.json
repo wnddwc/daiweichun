@@ -11,36 +11,57 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
-{"key":"4Kdy","name":"4K电影网","type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"sketch content\">&&</p>","线路数组": "class=\"myui-panelhead active clearfix&&</div>[不包含:115]","线路标题": "class=\"title\">&&<","播放数组": "class=\"myui-downlist&&</ul>","播放列表": "<a&&</a>[不包含:复制地址]","播放链接": "href=\"&&\"","分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影&剧集&动漫","分类值": "1&2&3"}},
- {
-      "key": "J91",
-      "name": "\uD83D\uDD1E 91 | 珍惜",
-      "type": 3,
-      "api": "csp_J91",
+    {
+      "key": "zp137",
+      "name": "🔞探探资源（慢）",
+      "type": 0,
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "wmcj8.com",
+      "name": "成人07",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "Cg51",
-      "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
-      "type": 3,
-      "api": "csp_Cg51",
+      "key": "💞博天堂💞",
+      "name": "💞博天堂💞",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "bttcj.com",
+      "name": "成人04",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
     },
+
     {
-      "key": "MiMei",
-      "name": "\uD83D\uDD1E 迷妹 | 珍惜",
-      "type": 3,
-      "api": "csp_MiMei",
-      "searchable": 1,
-      "filterable": 1
+      "key": "💞探探资源💞",
+      "name": "💞探探资源💞",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
-      "key": "HiPianZhiBo",
-      "name": "\uD83D\uDD1E 嗨片直播 | 视频",
-      "type": 3,
-      "api": "csp_HiPianZhiBo",
+      "key": "feifei67.com",
+      "name": "成人22",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
     },

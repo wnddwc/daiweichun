@@ -10,62 +10,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [	
-    {
-      "key": "zp137",
-      "name": "🔞探探资源（慢）",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "wmcj8.com",
-      "name": "成人07",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "💞博天堂💞",
-      "name": "💞博天堂💞",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "bttcj.com",
-      "name": "成人04",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-
-    {
-      "key": "💞探探资源💞",
-      "name": "💞探探资源💞",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "feifei67.com",
-      "name": "成人22",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-		    
+	    "sites": [		    
 {
         "key": "xml_茅台资源",
         "name": "茅台资源",

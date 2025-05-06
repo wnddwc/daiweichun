@@ -12,6 +12,38 @@
     }],
 	    "sites": [	
 {"key":"4Kdy","name":"4K电影网","type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"sketch content\">&&</p>","线路数组": "class=\"myui-panelhead active clearfix&&</div>[不包含:115]","线路标题": "class=\"title\">&&<","播放数组": "class=\"myui-downlist&&</ul>","播放列表": "<a&&</a>[不包含:复制地址]","播放链接": "href=\"&&\"","分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影&剧集&动漫","分类值": "1&2&3"}},
+ {
+      "key": "J91",
+      "name": "\uD83D\uDD1E 91 | 珍惜",
+      "type": 3,
+      "api": "csp_J91",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Cg51",
+      "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
+      "type": 3,
+      "api": "csp_Cg51",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MiMei",
+      "name": "\uD83D\uDD1E 迷妹 | 珍惜",
+      "type": 3,
+      "api": "csp_MiMei",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "HiPianZhiBo",
+      "name": "\uD83D\uDD1E 嗨片直播 | 视频",
+      "type": 3,
+      "api": "csp_HiPianZhiBo",
+      "searchable": 1,
+      "filterable": 1
+    },
 		    
 {
         "key": "xml_茅台资源",

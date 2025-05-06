@@ -11,7 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-{"key":"4Kdy","name":"4K电影网","type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/xyqxbpq.jar","ext": {"简介":"sketch content\">&&</p>","线路数组": "class=\"myui-panelhead active clearfix&&</div>[不包含:115]","线路标题": "class=\"title\">&&<","播放数组": "class=\"myui-downlist&&</ul>","播放列表": "<a&&</a>[不包含:复制地址]","播放链接": "href=\"&&\"","分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc","分类": "电影&剧集&动漫","分类值": "1&2&3"}},	    
 {
         "key": "xml_茅台资源",
         "name": "茅台资源",

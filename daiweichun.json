@@ -10,7 +10,23 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [				    
+	    "sites": [		
+{
+            "key": "csp_GuanYing",
+            "name": "😂观影┃4K",
+            "type": 3,
+            "api": "csp_GuanYing",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "cookie": "PHPSESSID=bde14p24ecc3edgcumpdhOp
+4qr; browser_verified=98586548fb4beaf1
+813ffaa785cdfdc2",
+                "filters": "https://ghfast.top/https://github.com/wnddwc/daiweichun/blob/main/guanying.json/guanying.json",
+                "sites": "https://www.gyg.la,https://www.gyg.si,https://www.gying.net,https://www.gying.org,https://www.gying.si,https://www.gying.in"
+            }
+        },
+			
 {
         "key": "xml_茅台资源",
         "name": "茅台资源",

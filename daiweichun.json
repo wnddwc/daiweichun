@@ -11,6 +11,21 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
+ {
+            "key": "漫漫国",
+            "name": "漫漫国｜PY",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/sharkapp3.1.py/py/sharkapp3.1.py",
+            "ext": {
+                "host": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
+                "hostkey": "rectangleadsadxa",
+                "parseskey": "aassddwwxxllsx1x",
+                "listkey": "aassddwwxxllsx1x",
+                "deviceId": "",
+                "version": ""
+            }
+        },			
 {
      "key": "zhenlang",
      "name": "真狼丨影视",

@@ -12,6 +12,15 @@
     }],
     "sites": [
 {
+     "key": "zhenlang",
+     "name": "真狼丨影视",
+     "type": 3,
+     "api": "csp_XBPQ",
+      "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+     "ext": {"分类url": "https://www.zhenlang.cc"}
+        },		
+{
         "key": "xml_茅台资源",
         "name": "茅台资源",
         "type": 0,

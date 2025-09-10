@@ -20,7 +20,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.433

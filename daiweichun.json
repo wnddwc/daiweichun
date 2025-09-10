@@ -38,7 +38,7 @@
             "api": "csp_GuanYing",
             "searchable": 1,
             "changeable": 1,
-"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/CustomSpider.jar",
             "ext": {
                 "cookie": "browser_verified=9965586b09e8f14bf0fafae9adb16de7; PHPSESSID=ie4suhir2nhfqqr1s7dl02lqa7; BT_auth=ea0ayqBkcu1Kxb8qWh74alGoK712ENLXHBrfFzRhrH4y1a26R3BZON0IAAhuCHdM3BSMe2KiF2vlQRd4fyiS9KDA8IwLMMIxQO5iBAS2aXc-Ig49zgIUmcBwJViNLXaYdIVx6v0TZXkSNpyWTyqunkdef4_SvrNLjhlS8Yb-viQnXTaWrFGw2N-LzA; BT_cookietime=e763nfYKSsggr-bPUq8Ds9_AP6Bx98hJFUH_StzFlxw1yeFBXbHt",
                 "filters": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/guanying.json",

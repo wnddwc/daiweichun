@@ -12,6 +12,122 @@
     }],
     "sites": [
  {
+            "key": "哔哩直播",
+            "name": "哔哩｜直播",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.py"
+        },
+        {
+            "key": "哔哩合集",
+            "name": "哔哩｜合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
+                "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150"
+            }
+        },
+        {
+            "key": "哔哩哔哩演唱会",
+            "name": "哔哩｜音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+               "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩听书",
+            "name": "哔哩｜听书",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%90%AC%E4%B9%A6.json"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩相声",
+            "name": "哔哩｜相声",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩小品",
+            "name": "哔哩｜小品",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "哔哩哔哩戏曲",
+            "name": "哔哩｜戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },       
+ {
             "key": "漫漫国",
             "name": "漫漫国｜PY",
             "type": 3,

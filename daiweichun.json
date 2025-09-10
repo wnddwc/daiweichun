@@ -20,6 +20,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -27,6 +28,21 @@
             "ext": {
                 "json": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.json",
                 "cookie": "buvid3=DF255988-6A51-80A4-71F3-BDBAB77B379A37498infoc; b_nut=1757367237; _uuid=EADB1E9D-485F-274E-D4FD-495285E7265338371infoc; buvid_fp=e50a4defc4c08483d9e488578d518ba0; buvid4=720F7F22-0986-6FC6-3831-4F18F1B4465042731-025090905-J3ZEjEBOx2XXxeJxLGb29w%3D%3D; enable_web_push=DISABLE; home_feed_column=5; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTc2MjY0NDcsImlhdCI6MTc1NzM2NzE4NywicGx0IjotMX0.PKbs_dwvrwmNZCqe__m9JGZnqzcx5eCLLA4HfU5ZcvM; bili_ticket_expires=1757626387; SESSDATA=7f60c615%2C1772925438%2C93a87%2A92CjB3mKWHVHsFxWI07ReEK_hN2ejmZm3RySgbRWvOX940WtWHlzP3wuBJ195uVwt6paISVnc2WEplS2dmZzhZSzRJa1dqNUJqdXhDb2JpWHZlQWhjVGhFZDhtSUhpVTgxZnVRMTJZUlFQN1RzZlhqcXRwOUNlWXBNNERoZ092bTB6VUlhaG04N0VBIIEC; bili_jct=b53e40d0f60a0b9b316a99f7fa77eb55; DedeUserID=628305044; DedeUserID__ckMd5=c8b253014122d272; CURRENT_FNVAL=2000; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bp_t_offset_628305044=1110600181067284480; b_lsid=D3BA4A2A_1992EB06284; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; browser_resolution=1536-150"
+            }
+        },
+
+{
+            "key": "csp_GuanYing",
+            "name": "😂观影┃4K",
+            "type": 3,
+            "api": "csp_GuanYing",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
+            "ext": {
+                "cookie": "browser_verified=9965586b09e8f14bf0fafae9adb16de7; PHPSESSID=ie4suhir2nhfqqr1s7dl02lqa7; BT_auth=ea0ayqBkcu1Kxb8qWh74alGoK712ENLXHBrfFzRhrH4y1a26R3BZON0IAAhuCHdM3BSMe2KiF2vlQRd4fyiS9KDA8IwLMMIxQO5iBAS2aXc-Ig49zgIUmcBwJViNLXaYdIVx6v0TZXkSNpyWTyqunkdef4_SvrNLjhlS8Yb-viQnXTaWrFGw2N-LzA; BT_cookietime=e763nfYKSsggr-bPUq8Ds9_AP6Bx98hJFUH_StzFlxw1yeFBXbHt",
+                "filters": "./json/guanying.json",
+                "sites": "https://www.gying.net"
             }
         },
 

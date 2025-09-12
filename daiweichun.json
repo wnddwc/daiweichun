@@ -147,42 +147,6 @@
                 "ratio": 1.597
             }
         },
-{
-            "key": "瓜萌",
-            "name": "瓜萌｜APP",
-            "type": 3,
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://www.guahd.com/1.txt",
-                "dataKey": "8A3kPq7xZ9rT28B5",
-                "dataIv": "8A3kPq7xZ9rT28B5",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-   
-      {
-
-    "key": "紫金草",
-    "name": "紫金草┃影视",
-    "type": 3,
-   "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
-    "quickSearch": 1,
-      "api": "csp_AppSy",
-     "jar": "https://www.lequxiang.com.cn/down.php/36456a794b9f6d670931667d79bf8e9c.txt;md5;36456a794b9f6d670931667d79bf8e9c",
-        "ext": {
-        "site": "http://yuming.zjcvod.com/api.txt",
-            "siteKey":"rectangleadsadxa",
-            "listKey":"OmsqxlSSQLYswZ9L",
-            "parsesKey":"OmsqxlSSQLYswZ9L",
-            "deviceId": "",
-            "version": ""
-    }
-},
-
   { "key": "免费短剧", "name": "免费短剧", "type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar","style": {"type":"rect","ratio":1.433},"api":"csp_XBPQ", "ext":{"搜索url":"https://sm3.cc/search.php?q={wd}&page={pg}","搜索数组":"class=\"img-modbox&&/a>","搜索标题":"alt=\"&&\"","搜索副标题":"ri-time-line\"></i>&&<","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"downtab-item*\">&&/small>","线路标题":"网盘推送","播放数组":"<div class=\"content&&</a>","播放列表":"<a&&target","播放标题":"href=\"&&\"","播放链接":"href=\"&&\"[替换:http>>push://http]","免嗅":"0","分类url": "https://sm3.cc/?cate={cateId}&page={catePg}[https://sm3.cc/?cate={cateId}]","分类":"最近更新$2#短剧大全$1#预告短剧$3"}},
 
 

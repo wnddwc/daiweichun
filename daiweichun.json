@@ -166,23 +166,20 @@
 			}
 		},
 {
-            "key": "短剧蜂巢",
-            "name": "短剧蜂巢",
+            "key": "皮皮圈",
+            "name": "皮皮圈⭕",
             "type": 3,
             "api": "csp_XBPQ",
             "jar":
 "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
             "ext": {
-                "线路数组": "downtab-item*\">&&/small>",
-                "线路标题": "网盘推送",
-                "播放数组": "class=\"xiaza_ad\">&&</div>",
-                "播放标题": "href=\"&&\"",
-                "播放链接": "href=\"&&\"[替换:http>>push://http]",
-                "免嗅": "0",
-                "分类url": "https://www.duanju618.com/{cateId}/{catePg}.html",
-                "分类": "短剧$duanju"
+            "简介": "简介：&&</p>",
+            "图片": "data-echo=\"&&\"",
+            "线路数组": "javascript&&</li>",
+            "分类url": "https://www.pipiquan.cc/type/{cateId}-{catePg}.html",
+            "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
-        },
+            },
 
 
 

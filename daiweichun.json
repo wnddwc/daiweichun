@@ -180,7 +180,14 @@
             "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
             },
-
+{
+     "key": "小鸡",
+     "name": "小鸡(XBPQ)",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+     "ext": { "分类url": "https://www.time-chicken.com/;;!"} },
 
 
 

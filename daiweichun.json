@@ -12,30 +12,30 @@
     }],
 	    "sites": [		
 {
-			"key": "酷我听书[听]",
-			"name": "🎵酷我听书[听]",
-			"type": 3,
-	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-	        "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%85%B7%E6%88%91%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js"
-		},
-{
 			"key": "爱上你听书网[听]",
 			"name": "🎵爱上你听书网[听]",
 			"type": 3,
-	        "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy2.min.js",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
 			"order_num": 0,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%88%B1%E4%B8%8A%E4%BD%A0%E5%90%AC%E4%B9%A6%E7%BD%91%5B%E5%90%AC%5D.js"
 		},
 
+{
+			"key": "酷我听书[听]",
+			"name": "🎵酷我听书[听]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%85%B7%E6%88%91%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js"
+		},
 
 
 

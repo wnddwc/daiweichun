@@ -12,6 +12,47 @@
     }],
 	    "sites": [		
 {
+			"key": "酷我听书[听]",
+			"name": "🎵酷我听书[听]",
+			"type": 3,
+			"api": "./lib/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%85%B7%E6%88%91%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js"
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+{
             "key": "哔哩视频",
             "name": "哔哩｜视频",
             "type": 3,
@@ -188,37 +229,6 @@
      "jar":
 "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
      "ext": { "分类url": "https://www.time-chicken.com/;;!"} },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
-
  {
             "key": "漫漫国",
             "name": "漫漫国｜PY",

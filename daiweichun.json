@@ -27,6 +27,7 @@
 			"key": "爱上你听书网[听]",
 			"name": "🎵爱上你听书网[听]",
 			"type": 3,
+	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
 			"searchable": 1,
 			"quickSearch": 1,

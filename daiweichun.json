@@ -94,7 +94,30 @@
             "filterable": 1,
             "playerType": 2
         },
-
+{
+            "key": "剧王短剧.py",
+            "name": "剧王短剧.py",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%89%A7%E7%8E%8B%E7%9F%AD%E5%89%A7.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
+        },
+        {
+            "key": "锦鲤短剧.py",
+            "name": "锦鲤短剧.py",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%94%A6%E9%B2%A4%E7%9F%AD%E5%89%A7.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
+        },
 
 
 

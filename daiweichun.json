@@ -69,17 +69,7 @@
             "filterable": 1,
             "playerType": 2
         },
-        {
-            "key": "偷乐短剧",
-            "name": "偷乐短剧",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/TLDJ.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+   
 
 
 

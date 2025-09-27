@@ -11,6 +11,29 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         {
             "key": "界影视.py",
             "name": "界影视.py",
@@ -121,17 +144,6 @@
             "changeable": 1
         },
         {
-            "key": "听书go",
-            "name": "听书go",
-            "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=11",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
-        {
             "key": "cctv",
             "name": "cctv",
             "type": 1,
@@ -141,30 +153,7 @@
                 "ratio": 1.33
             },
             "changeable": 1
-        },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
+        },			
 {
 			"key": "星芽短剧[优]",
 			"name": "星芽短剧",

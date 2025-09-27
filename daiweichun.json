@@ -81,7 +81,67 @@
             "filterable": 1,
             "playerType": 2
         },	  
-
+ {
+			"key": "戏曲（jar）",
+			"name": "戏曲（jar）",
+			"type": 3,
+			"api": "csp_AppLY",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+			"searchable": 1,
+			"changeable": 0
+	},
+	{
+			"key": "看360（jar）",
+			"name": "看360（jar）",
+			"type": 3,
+			"api": "csp_AuthKAN360",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+			"searchable": 1,
+			"changeable": 0
+	},
+		{
+			"key": "奇优影院（jar）",
+			"name": "奇优影院（jar）",
+			"type": 3,
+			"api": "csp_Qiyou",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+			"searchable": 1,
+			"changeable": 0
+	},
+        {
+            "key": "采集",
+            "name": "采集",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "0",
+            "changeable": 1
+        },
+        {
+            "key": "听书go",
+            "name": "听书go",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=11",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "cctv",
+            "name": "cctv",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/cctv.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
 
 
 

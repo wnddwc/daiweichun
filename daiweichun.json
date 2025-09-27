@@ -118,7 +118,17 @@
             "order_num": 0,
             "ext": ""
         },
-
+{
+            "key": "猎手影视",
+            "name": "猎手｜APP",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 
 
 

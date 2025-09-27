@@ -11,6 +11,465 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
+{
+			"key": "星芽短剧[优]",
+			"name": "星芽短剧",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7%5B%E4%BC%98%5D.js"
+		},
+{
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+	"searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+  {
+            "key": "浪酷影视",
+            "name": "浪酷｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+           
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
+        },
+                {
+            "key": "咖啡",
+            "name": "咖啡丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
+                "dataIv": "37kj83zs1q16jk6t",
+                "deviceId": "",
+                "version": "101",
+                "ua": ""
+            }
+        },
+                {
+            "key": "哔滴",
+            "name": "哔滴丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
+                "dataKey": "5ae8ee4bb95ea0ce",
+                "dataIv": "5ae8ee4bb95ea0ce",
+                "deviceId": "",
+                "version": "120",
+                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+            }
+        },
+                {
+            "key": "若雪",
+            "name": "若雪丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://appcms.rx4k.top",
+                "site": "",
+                "dataKey": "ZX10ysTYZWtIJCTU",
+                "dataIv": "ZX10ysTYZWtIJCTU",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+                {
+            "key": "蓝鹰",
+            "name": "蓝鹰｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+                {
+            "key": "仓鼠",
+            "name": "仓鼠｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+                "dataKey": "da61247f5b662597",
+                "dataIv": "da61247f5b662597",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+                {
+            "key": "鲸鱼",
+            "name": "鲸鱼｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+                {
+            "key": "热剧",
+            "name": "热剧丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://www.rebovod.com",
+                "site": "",
+                "dataKey": "8191A7F47B37882F",
+                "dataIv": "8191A7F47B37882F",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+                {
+            "key": "星星",
+            "name": "星星丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "http://starani.qcanime.xyz",
+                "site": "",
+                "dataKey": "123456789StarAni",
+                "dataIv": "123456789StarAni",
+                "deviceId": "",
+                "version": "",
+                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+            }
+        },
+                {
+            "key": "像素",
+            "name": "像素丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://mcvod.top",
+                "site": "",
+                "dataKey": "cnmbknmbtounimab",
+                "dataIv": "cnmbknmbtounimab",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+                {
+            "key": "豆丁",
+            "name": "豆丁丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "http://45.66.157.77:9427",
+                "site": "",
+                "dataKey": "Xasdasd!123123dd",
+                "dataIv": "Xasdasd!123123dd",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+                {
+            "key": "斗量",
+            "name": "斗量丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
+                "dataKey": "A1akVPQmnnE4Fz9Z",
+                "dataIv": "A1akVPQmnnE4Fz9Z",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "爱看",
+            "name": "爱看丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://aikan.my",
+                "site": "",
+                "dataKey": "hzxjRSmyTmSE4ENE",
+                "dataIv": "hzxjRSmyTmSE4ENE",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "布雷",
+            "name": "布雷丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://cms.bl4k.cc",
+                "site": "",
+                "dataKey": "B7uaxcwdpX2dww82",
+                "dataIv": "B7uaxcwdpX2dww82",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "五八",
+            "name": "五八丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://dy.58ys.vip",
+                "site": "",
+                "dataKey": "JEWibY1AgWF0V1xx",
+                "dataIv": "JEWibY1AgWF0V1xx",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "外剧",
+            "name": "外剧丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://guowaiju.com",
+                "site": "",
+                "dataKey": "7xv16h7qgkrs9b1p",
+                "dataIv": "7xv16h7qgkrs9b1p",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "小猪",
+            "name": "小猪丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://xz4k.top/url.txt",
+                "dataKey": "1785acb6c963184b",
+                "dataIv": "1785acb6c963184b",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "爱影",
+            "name": "爱影丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://app.lkdyw.cn",
+                "site": "",
+                "dataKey": "e65144389e9361b5",
+                "dataIv": "e65144389e9361b5",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "云端",
+            "name": "云端｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+                "site": "",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "光影",
+            "name": "光影｜APP",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.guangyingmi.com",
+                "dataKey": "230fnsodfsdhfon2",
+                "dataIv": "230fnsodfsdhfon2",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "莱米",
+            "name": "莱米｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+                "dataKey": "ce032244d093b3e2",
+                "dataIv": "ce032244d093b3e2",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "灵虎",
+            "name": "灵虎｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "旗星",
+            "name": "旗星｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "http://ys.qist.top",
+                "site": "",
+                "dataKey": "2SWSPFxugBLPPOKo",
+                "dataIv": "2SWSPFxugBLPPOKo",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "丫丫",
+            "name": "丫丫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "云速",
+            "name": "云速｜APP",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://59.153.167.137:7788/1.json",
+                "dataKey": "4d83b87c4c5ea111",
+                "dataIv": "4d83b87c4c5ea111",
+                "deviceId": "",
+                "version": "105"
+            }
+        },
+        {
+            "key": "白蛇",
+            "name": "白蛇｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+                "dataKey": "n3l2tx5jdkp9s2c8",
+                "dataIv": "n3l2tx5jdkp9s2c8",
+                "deviceId": "",
+                "version": "361"
+            }
+        },
+                {
+            "key": "移动",
+            "name": "移动｜APP",
+            "type": 3,
+            "api": "csp_YD",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+            "searchable": 1,
+            "quickSearch": 1
+          },		
  {
 			"key": "爱上你听书网[听]",
 			"name": "🎵爱上你听书网[听]",

@@ -28,8 +28,8 @@
             "name": "热播｜APP",
             "type": 3,
             "api": "csp_AppRJ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
-            "searchable": 1,
+"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+	"searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": {

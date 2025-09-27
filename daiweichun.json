@@ -23,7 +23,19 @@
 	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7%5B%E4%BC%98%5D.js"
 		},
-
+{
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/custom_spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
 
 
 

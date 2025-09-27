@@ -11,7 +11,17 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
-
+{
+			"key": "星芽短剧[优]",
+			"name": "星芽短剧",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7%5B%E4%BC%98%5D.js"
+		},
 
 
 

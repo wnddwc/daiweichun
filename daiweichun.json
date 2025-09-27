@@ -11,19 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
-{
-            "key": "4K影视.py",
-            "name": "4K影视.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/4K%E5%BD%B1%E8%A7%86.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-            "order_num": 0,
-            "ext": ""
-        },
-       
         {
             "key": "界影视.py",
             "name": "界影视.py",

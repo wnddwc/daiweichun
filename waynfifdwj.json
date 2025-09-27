@@ -11,6 +11,114 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
+        {
+            "key": "界影视.py",
+            "name": "界影视.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%95%8C%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "ext": ""
+        },
+        {
+        "key":"drpy_js_网易公版影像",
+        "name":"聚合┃网易公版[js]",
+        "type":3,
+        "api":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+        "changeable":0,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+        "ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%BD%91%E6%98%93%E5%85%AC%E7%89%88%E5%BD%B1%E5%83%8F.js"
+        },
+        {
+            "key": "电影猎手.py",
+            "name": "电影猎手.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
+        },
+       {
+            "key": "云速影视.py",
+            "name": "云速影视.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E4%BA%91%E9%80%9F%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
+        },
+		{
+            "key": "河马短剧",
+            "name": "河马短剧",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/HMDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+ {
+            "key": "绝对影视",
+            "name": "绝对影视.py",
+            "type": 3,
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%BB%9D%E5%AF%B9%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },	  
+ {
+			"key": "戏曲（jar）",
+			"name": "戏曲（jar）",
+			"type": 3,
+			"api": "csp_AppLY",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+			"searchable": 1,
+			"changeable": 0
+	},
+	{
+			"key": "看360（jar）",
+			"name": "看360（jar）",
+			"type": 3,
+			"api": "csp_AuthKAN360",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+			"searchable": 1,
+			"changeable": 0
+	},
+		{
+			"key": "奇优影院（jar）",
+			"name": "奇优影院（jar）",
+			"type": 3,
+			"api": "csp_Qiyou",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/spider.jar",
+			"searchable": 1,
+			"changeable": 0
+	},
+        {
+            "key": "cctv",
+            "name": "cctv",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/cctv.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },		
 {
 			"key": "星芽短剧[优]",
 			"name": "星芽短剧",

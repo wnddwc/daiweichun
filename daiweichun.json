@@ -11,7 +11,16 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
-             		
+   {
+  "key": "红片网",
+  "name": "红片网",
+  "type": 3,
+  "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/redflix.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1
+},           		
 
 
 

@@ -15,6 +15,7 @@
   "key": "红片网",
   "name": "红片网",
   "type": 3,
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
   "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/redflix.py",
   "searchable": 1,
   "quickSearch": 1,

@@ -11,15 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
-{
-         "key":"沐辰爱瓜TV",
-         "name":"沐辰爱瓜TV",
-         "type":3,
-         "api":"https://tvbot.dpdns.org/py_aigua.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":1
-      },
               {
             "key": "小苹果",
             "name": "小苹果",
@@ -31,33 +22,6 @@
             },
             "changeable": 1
         },
-      {
-         "key":"嗷呜小苹果",
-         "name":"嗷呜小苹果",
-         "type":3,
-         "api":"https://tvbot.dpdns.org/py_pingguo.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":1
-      },
-      {
-         "key":"嗷呜金牌",
-         "name":"嗷呜金牌",
-         "type":3,
-         "api":"https://tvbot.dpdns.org/py_jinpai.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":1
-      },
-      {
-         "key":"嗷呜剧爸爸",
-         "name":"嗷呜剧爸爸",
-         "type":3,
-         "api":"https://tvbot.dpdns.org/py_jubaba.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":1
-      },
       {
          "key":"沐辰欧乐影院",
          "name":"沐辰欧乐影院",
@@ -78,18 +42,7 @@
       "filterable": 0,
       "changeable": 1
     },
- {
-            "key": "老张采集集合",
-            "name": "老张采集集合",
-            "type": 1,
-            "api": "http://127.0.0.1:1988/lb?lb=3",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },			
+		
 
 
 

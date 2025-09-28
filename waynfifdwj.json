@@ -11,6 +11,92 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
+ {
+            "key": "小苹果",
+            "name": "小苹果",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/pingguo.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+      {
+         "key":"沐辰欧乐影院",
+         "name":"沐辰欧乐影院",
+         "type":4,
+         "api":"https://py.doube.eu.org/spider?site=OleVod",
+         "searchable":1,
+         "quickSearch":0,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+      "key": "py_DianYingTanTang",
+      "name": "🫐电影天堂(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 1
+    },
+ {
+            "key": "腾讯视频",
+            "name": "腾讯｜视频",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.js"
+        },
+        {
+            "key": "优酷视频",
+            "name": "优酷｜视频",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "芒果｜视频",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%8A%92%E6%9E%9C%E8%A7%86%E9%A2%91.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇异｜视频",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%88%B1%E5%A5%87%E8%89%BA.js"
+        },
+        {
+            "key": "芒果TV.py",
+            "name": "芒果TV.py",
+            "type": 3,
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/Mang.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": ""
+        },
+ {
+  "key": "厂长资源",
+  "name": "厂长资源",
+  "type": 3,
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+  "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1
+},		
 {
             "key": "优酷视频.py",
             "name": "优酷视频.py",

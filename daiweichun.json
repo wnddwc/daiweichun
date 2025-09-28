@@ -11,6 +11,40 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
+ {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=4",
+	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        }, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
             "key": "影视工厂",
             "name": "影视工厂",
@@ -105,40 +139,6 @@
             "filterable": 0,
             "playerType": 2
         },
- {
-            "key": "欧乐影院",
-            "name": "欧乐影院",
-            "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=4",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        }, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         {
             "key": "界影视.py",
             "name": "界影视.py",

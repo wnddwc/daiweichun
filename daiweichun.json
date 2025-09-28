@@ -105,6 +105,18 @@
             "filterable": 0,
             "playerType": 2
         },
+ {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=4",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        }, 
 
 
 

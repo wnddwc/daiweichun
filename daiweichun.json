@@ -74,16 +74,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "速播采集",
-      "name": "速播采集",
-      "type": 1,
-      "api": "https://subocj.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-        {
+ {
       "key": "U酷采集",
       "name": "U酷采集",
       "type": 1,
@@ -119,29 +110,11 @@
       "quickSearch": 1,
       "filterable": 0
     },
-        {
-      "key": "金鹰资源采集",
-      "name": "金鹰资源采集",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
     {
       "key": "卧龙资源采集",
       "name": "卧龙资源采集",
       "type": 1,
       "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "CK资源采集",
-      "name": "CK资源采集",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -214,15 +187,6 @@
       "name": "猫眼资源采集",
       "type": 1,
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "虎牙资源网",
-      "name": "虎牙资源网",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -2103,7 +2067,17 @@
         "api": "https://api.ddapi.cc/api.php/provide/vod/",
         "searchable": 1,
         "quickSearch": 1
-    }, {
+    },
+			  {
+      "key": "CK资源采集",
+      "name": "CK资源采集",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+			{
         "key": "湿乐园",
         "name": "湿乐园",
         "type": 1,

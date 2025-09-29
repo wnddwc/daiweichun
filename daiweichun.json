@@ -49,8 +49,42 @@
 			"order_num": 0,
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%98%80%E5%93%A9%E5%98%80%E5%93%A9.js"
 		},
-
-
+{
+			"key": "饭团影视",
+			"name": "饭团影视",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.js"
+		},
+		{
+			"key": "冠建影视",
+			"name": "冠建影视",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%86%A0%E5%BB%BA%E5%BD%B1%E8%A7%86.js"
+		},
+	{
+			"key": "黑狐影院",
+			"name": "黑狐影院",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%BB%91%E7%8B%90%E5%BD%B1%E9%99%A2.js"
+		},
 
 
 

@@ -11,7 +11,43 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [		
-
+{
+			"key": "剧迷",
+			"name": "剧迷",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%89%A7%E8%BF%B7.js"
+		},
+		{
+			"key": "老王电影[自动]",
+			"name": "老王电影",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%80%81%E7%8E%8B%E7%94%B5%E5%BD%B1%5B%E8%87%AA%E5%8A%A8%5D.js"
+		},
+	
+		{
+			"key": "美剧窝",
+			"name": "美剧窝",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%BE%8E%E5%89%A7%E7%AA%9D.js"
+		},
 
 
 

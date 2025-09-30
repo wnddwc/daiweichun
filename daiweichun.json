@@ -35,6 +35,38 @@
 			"order_num": 0,
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%9B%8B%E8%9B%8B%E8%B5%9E.js"
 		},			
+
+
+
+
+
+
+
+
+{
+			"key": "达达猪",
+			"name": "达达猪",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%BE%BE%E8%BE%BE%E7%8C%AA.js"
+		},
+		{
+			"key": "蛋蛋赞",
+			"name": "蛋蛋赞",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%9B%8B%E8%9B%8B%E8%B5%9E.js"
+		},			
 {
 			"key": "剧迷",
 			"name": "剧迷",
@@ -72,14 +104,6 @@
 			"order_num": 0,
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%BE%8E%E5%89%A7%E7%AA%9D.js"
 		},
-
-
-
-
-
-
-
-
 {
 			"key": "菜狗[官]",
 			"name": "菜狗[官]",

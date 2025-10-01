@@ -146,7 +146,19 @@
             "filterable": 1,
             "playerType": 2
     },
-
+{
+            "key": "养生堂",
+            "name": "养生｜知识",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
 
 
 

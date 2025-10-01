@@ -11,18 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-{
-            "key": "🈲🔞文件播放",
-            "name": "🈲🔞文件播放",
-            "type": 4,
-            "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "/storage/emulated/0/lz/wj/18/",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        }, 
     {
       "key": "py_AiDou",
       "name": "🈲🔞AiDou(T4)",
@@ -37,31 +25,7 @@
         "ratio": 1.5
       }
     },
-	{
-      "key": "py_rou",
-      "name": "🈲🔞Rou(T3)",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14756/python/vod_rou.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-          {
-      "key": "php_madou",
-      "name": "🈲🔞麻豆(T4)",
-      "type": 4,
-      "api": "https://json.doube.eu.org/madou.php",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      }
-    },
-        {
+	  {
       "key": "py_Miss",
       "name": "🈲🔞MissAV(T4)",
       "type": 4,
@@ -71,21 +35,247 @@
       "filterable": 0,
       "changeable": 0
     },
-        {
-            "key": "Jable",
-            "name": "🈲🔞飒爽┃美媚🪜",
-            "type": 3,
-            "api": "csp_Jable",
-            "jar": "https://d.kstore.dev/download/11474/pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "ext": ""
-        },
-
-
+ {
+      "key": "越南资源",
+      "name": "🈲🔞越南资源",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "🈲🔞麻豆",
+      "name": "🈲🔞91麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "zp128",
+      "name": "🈲🔞鲨鱼影视",
+      "type": 0,
+      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞杏吧资源站",
+      "name": "🈲🔞杏吧资源站",
+      "type": 1,
+      "api": "https://xingba222.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞玉兔资源站",
+      "name": "🈲🔞玉兔资源站",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞91资源站",
+      "name": "🈲🔞91资源站",
+      "type": 1,
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞大奶子资源站",
+      "name": "🈲🔞大奶子资源站",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞细胞网资源站",
+      "name": "🈲🔞细胞网资源站",
+      "type": 1,
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞黄色仓库",
+      "name": "🈲🔞黄色仓库",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞小鸡资源",
+      "name": "🈲🔞小鸡资源",
+      "type": 1,
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞百万资源站",
+      "name": "🈲🔞百万资源站",
+      "type": 1,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞桃花资源",
+      "name": "🈲🔞桃花资源",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞优优资源网",
+      "name": "🈲🔞优优资源网",
+      "type": 1,
+      "api": "https://www.yyzywcj.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞CK伦理资源",
+      "name": "🈲🔞CK伦理资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞搜AV资源",
+      "name": "🈲🔞搜AV资源",
+      "type": 1,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞最色资源",
+      "name": "🈲🔞最色资源",
+      "type": 1,
+      "api": "https://api.zuiseapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞滴滴资源网",
+      "name": "🈲🔞滴滴资源网",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞精品X资源",
+      "name": "🈲🔞精品X资源",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞辣椒资源",
+      "name": "🈲🔞辣椒资源",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞森林资源",
+      "name": "🈲🔞森林资源",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞155资源",
+      "name": "🈲🔞155资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞乐播资源",
+      "name": "🈲🔞乐播资源",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞番号资源",
+      "name": "🈲🔞番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞快播资源",
+      "name": "🈲🔞快播资源",
+      "type": 1,
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞越南资源",
+      "name": "🈲🔞越南资源",
+      "type": 1,
+      "api": "https://api.vnzyz.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞奶香香资源",
+      "name": "🈲🔞奶香香资源",
+      "type": 1,
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞白嫖资源",
+      "name": "🈲🔞白嫖资源",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
 
 
 

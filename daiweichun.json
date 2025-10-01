@@ -73,14 +73,6 @@
             "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/56DM.js"
         },
-        {
-            "key": "NT动漫",
-            "name": "NT动漫",
-            "type": 3,
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/NTDM.js"
-        },
 		{
 			"key": "贝乐虎[儿]",
 			"name": "🐯贝乐虎[儿]",
@@ -97,7 +89,7 @@
 			"key": "兔小贝[儿]",
 			"name": "🐇兔小贝[儿]",
 			"type": 3,
-                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -105,7 +97,6 @@
 			"order_num": 0,
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D%5B%E5%84%BF%5D.js"
 		},
-	
 		{
 		"key":"drpy_js_DJ音乐",
 		"name":"🎵DJ音乐[js]",
@@ -118,7 +109,43 @@
         "filterable": 1,
 		"ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/DJ%E9%9F%B3%E4%B9%90.js"
 		},
-
+{
+		"key":"drpy_js_蜻蜓FM",
+		"name":"🎵蜻蜓FM[js]",
+		"type":3,
+               "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+		"api":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+		"changeable":0,
+		"searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+		"ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%9C%BB%E8%9C%93FM.js"
+		},
+		{
+			"key": "🎵清风DJ[听]",
+			"name": "🎵清风DJ[听]",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%B8%85%E9%A3%8EDJ%5B%E5%90%AC%5D.js"
+		},
+	
+		    {
+            "key": "YYmp3音乐网.py",
+            "name": "YYmp3音乐网.py",
+            "type": 3,
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/YYMP3%E9%9F%B3%E4%B9%90%E7%BD%91.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
 
 
 

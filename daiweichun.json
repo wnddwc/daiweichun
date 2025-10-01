@@ -12,6 +12,41 @@
     }],
 	    "sites": [
 {
+			"key": "有声听书网[听]",
+			"name": "🎵有声听书网[听]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js
+",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%9C%89%E5%A3%B0%E5%90%AC%E4%B9%A6%E7%BD%91%5B%E5%90%AC%5D.js"
+		},
+		{
+			"key": "i275听书[听]",
+			"name": "🎵i275听书[听]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js
+",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/i275%E5%90%AC%E4%B9%A6%5B%E5%90%AC%5D.js"
+		},
+{
+			"key": "随机电影",
+			"name": "随机电影",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%9A%8F%E6%9C%BA%E7%94%B5%E5%BD%B1.js"
+		},			
+{
       "key": "csp_NIVODvip",
       "name": "泥视频(json)",
       "type": 3,

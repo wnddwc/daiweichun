@@ -143,15 +143,6 @@
       "filterable": 0
     },
     {
-      "key": "🈲🔞搜AV资源",
-      "name": "🈲🔞搜AV资源",
-      "type": 1,
-      "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🈲🔞最色资源",
       "name": "🈲🔞最色资源",
       "type": 1,
@@ -165,15 +156,6 @@
       "name": "🈲🔞滴滴资源网",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🈲🔞精品X资源",
-      "name": "🈲🔞精品X资源",
-      "type": 1,
-      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -219,15 +201,6 @@
       "name": "🈲🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "🈲🔞快播资源",
-      "name": "🈲🔞快播资源",
-      "type": 1,
-      "api": "https://gayapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0

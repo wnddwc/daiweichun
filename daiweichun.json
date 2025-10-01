@@ -113,7 +113,53 @@
       "searchable": 1,
       "quickSearch": 0
     },
-
+{
+         "key":"🈲🔞幸资源站",
+         "name":"🈲🔞幸资源站",
+         "type":1,
+         "api":"https://xzybb1.com/api.php/provide/vod/?ac=list",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+        },
+        {
+      "key": "🈲🔞avdb",
+      "name": "🈲🔞avdb(老張)｜GO",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/228_1.php",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+         "key":"🈲🔞悟空资源站",
+         "name":"🈲🔞悟空资源站",
+         "type":1,
+         "api":"https://wukongzyz.com/api.php/provide/vod/?ac=list",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+    },
+    {
+         "key":"🈲🔞大地X资源站",
+         "name":"🈲🔞大地X资源站",
+         "type":0,
+         "api":"https://dadiapi.com/api.php/provide/vod/",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+    },
+    {
+         "key":"🈲🔞奥斯卡",
+         "name":"🈲🔞奥斯卡",
+          "type": 1,
+          "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 0,
+          "header": {
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+            }
+        },
 
 
 

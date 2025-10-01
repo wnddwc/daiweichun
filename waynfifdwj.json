@@ -11,6 +11,22 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
+  {
+      "key": "csp_小鴨影音TV",
+      "name": "小鸭高清",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://777tv.ai/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "電影$1#電視劇$2#綜藝$29#動漫$30",
+        "地区": "美國&歐美&韓國&中國大陸&大陸&內地&日本&臺灣&香港&泰國&英國&新加坡&其他"
+      }
+    },		
 {
 			"key": "优酷[官]",
 			"name": "优酷[官]",

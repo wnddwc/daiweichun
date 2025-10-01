@@ -11,42 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-{
-			"key": "南瓜影视",
-			"name": "南瓜影视",
-			"type": 3,
-                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86.js"
-		},
-		{
-			"key": "南瓜影视[优]",
-			"name": "南瓜影视[优]",
-			"type": 3,
-                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%8D%97%E7%93%9C%E5%BD%B1%E8%A7%86%5B%E4%BC%98%5D.js"
-		},
-		{
-			"key": "泡泡影院",
-			"name": "泡泡影院",
-			"type": 3,
-                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%B3%A1%E6%B3%A1%E5%BD%B1%E9%99%A2.js"
-		},
 			{
 			"key": "优酷[官]",
 			"name": "优酷[官]",

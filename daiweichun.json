@@ -11,7 +11,108 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-   
+    {
+      "key": "🈲🔞美少女资源",
+      "name": "🈲🔞美少女资源",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞淫水机资源",
+      "name": "🈲🔞淫水机资源",
+      "type": 1,
+      "api": "https://www.xrbsp.com/api/json.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞香奶儿资源",
+      "name": "🈲🔞香奶儿资源",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "🈲🔞Jkun资源",
+      "name": "🈲🔞Jkun资源",
+      "type": 1,
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+        {
+      "key": "🈲🔞番茄资源",
+      "name": "🈲🔞番茄资源",
+      "type": 1,
+      "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "kxgav.com",
+      "name": "🈲🔞开心果资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🈲🔞湿乐园",
+      "name": "🈲🔞湿乐园",
+      "type": 1,
+      "api": "https://xxavs.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+{
+      "key": "🈲🔞优异资源",
+      "name": "🈲🔞优异资源",
+      "type": 1,
+      "api": "https://a.uezy.pw/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "🈲🔞橘猫影视",
+      "name": "🈲🔞橘猫影视",
+      "type": 1,
+      "api": "https://to.to-long.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "🈲🔞丝袜资源",
+      "name": "🈲🔞丝袜资源",
+      "type": 1,
+      "api": "https://siwazyw.tv/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "🈲🔞黄AV资源",
+      "name": "🈲🔞黄AV资源",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "🈲🔞百花资源",
+      "name": "🈲🔞百花资源",
+      "type": 1,
+      "api": "https://bhziyuan.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
 
 
 

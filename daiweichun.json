@@ -59,17 +59,7 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
     },
-    {
-      "key": "py_NIVOD.CC",
-      "name": "泥視頻高清(py)",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/py_nivod_cc.py",
-	  "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
+    
    
 
 

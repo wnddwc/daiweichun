@@ -11,7 +11,15 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-			{
+			
+
+
+
+
+
+
+
+{
 			"key": "优酷[官]",
 			"name": "优酷[官]",
 			"type": 3,
@@ -71,25 +79,6 @@
 			"order_num": 0,
 			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%8C%97%E5%B7%9D%E5%BD%B1%E8%A7%86.js"
 		},
-{
-			"key": "电影先生",
-			"name": "电影先生",
-			"type": 3,
-                       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.js"
-		},
-
-
-
-
-
-
-
 {
 			"key": "达达猪",
 			"name": "达达猪",

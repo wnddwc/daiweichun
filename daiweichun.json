@@ -12,6 +12,104 @@
     }],
 	    "sites": [
 {
+            "key": "🈲🔞文件播放",
+            "name": "🈲🔞文件播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=8",
+            "ext": "/storage/emulated/0/lz/wj/18/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        }, 
+    {
+      "key": "py_AiDou",
+      "name": "🈲🔞AiDou(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=AiDou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+	{
+      "key": "py_rou",
+      "name": "🈲🔞Rou(T3)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/vod_rou.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+          {
+      "key": "php_madou",
+      "name": "🈲🔞麻豆(T4)",
+      "type": 4,
+      "api": "https://json.doube.eu.org/madou.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+        {
+      "key": "py_Miss",
+      "name": "🈲🔞MissAV(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Miss",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+        {
+            "key": "Jable",
+            "name": "🈲🔞飒爽┃美媚🪜",
+            "type": 3,
+            "api": "csp_Jable",
+            "jar": "https://d.kstore.dev/download/11474/pg.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": ""
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+{
             "key": "猎手影视",
             "name": "猎手影视",
             "type": 3,

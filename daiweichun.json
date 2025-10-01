@@ -44,23 +44,6 @@
       "quickSearch": 0
     },
     {
-      "key": "🈲🔞麻豆",
-      "name": "🈲🔞91麻豆",
-      "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "zp128",
-      "name": "🈲🔞鲨鱼影视",
-      "type": 0,
-      "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "🈲🔞杏吧资源站",
       "name": "🈲🔞杏吧资源站",
       "type": 1,

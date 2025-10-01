@@ -47,7 +47,88 @@
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
     },
-    
+{
+			"key": "歪片星球[资]",
+			"name": "歪片星球",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js
+",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%AD%AA%E7%89%87%E6%98%9F%E7%90%83%5B%E8%B5%84%5D.js"
+		},
+		{
+			"key": "我播",
+			"name": "我播",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js
+",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E6%88%91%E6%92%AD.js"
+		},
+		{
+			"key": "西瓜影院",
+			"name": "西瓜影院",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js
+",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%A5%BF%E7%93%9C%E5%BD%B1%E9%99%A2.js"
+		},
+		{
+			"key": "小白菜电影",
+			"name": "小白菜电影",
+			"type": 3,
+                        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js
+",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%B0%8F%E7%99%BD%E8%8F%9C%E7%94%B5%E5%BD%B1.js"
+		},
+{
+    	"key":"Guazi",
+    	"name":"瓜子影视",
+    	"type":3,
+    	"api":"csp_Guazi",
+    	"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+    	"quickSearch":1,
+    	"changeable":1,
+    	"filterable":1, 
+    	"timeout":60, 
+    	"ext":""
+    	},
+   {
+			"key": "異界",
+			"name": "異界影视",
+			"type": 3,
+			"api": "csp_Ysj",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
+			"searchable": 1,
+			"changeable": 0
+		},
+			{
+			"key": "银河动漫",
+			"name": "银河动漫",
+			"type": 3,
+			"api": "csp_YHDM",
+			"jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/fm.jar",
+			"searchable": 1,
+			"changeable": 0
+		},    
    
 
 

@@ -69,7 +69,86 @@
     "剧情": ""
 }
         },		
-
+ {
+            "key": "🈲🔞911",
+            "name": "🈲🔞911",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/911.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        
+    {
+            "key": "🈲🔞四虎影视",
+            "name": "🈲🔞四虎视频",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E5%9B%9B%E8%99%8E%E8%A7%86%E9%A2%91.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+        {
+            "key": "🈲🔞一个区",
+            "name": "🈲🔞一个区",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E4%B8%80%E4%B8%AA%E5%8C%BA.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+  
+	
+        {
+            "key": "🈲🔞香蕉",
+            "name": "🈲🔞香蕉",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E9%A6%99%E8%95%89.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+    {
+            "key": "🈲🔞Pornhub.py",
+            "name": "🈲🔞Pornhub.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/Pornhub.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+    {
+            "key": "🈲🔞撸先生.py",
+            "name": "🈲🔞撸先生.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/lav.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
+        {
+            "key": "🈲🔞肉视频.py",
+            "name": "🈲🔞肉视频.py",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/rou.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+    },
   
 
 

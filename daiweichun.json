@@ -11,30 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [
-        	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
 {
             "key": "猎手影视",
             "name": "猎手影视",
@@ -82,13 +58,6 @@
 	"api":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/drpy3.min.js",
     "ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/%E8%8F%9C%E7%8B%97.js"
     },
-        {
-            "key": "零度",
-            "name": "零度影视",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/lingdu.py"
-        },
-		
 		{
             "key": "56动漫",
             "name": "56动漫",

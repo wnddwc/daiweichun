@@ -10,18 +10,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [
-{
-            "key": "肉视频.py",
-            "name": "肉视频.py",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/refs/heads/main/py_rou.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": ""
-        },		
+	    "sites": [	
        {
             "key": "奇优_XBPQ",
             "name": "奇优影院",

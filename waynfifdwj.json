@@ -11,7 +11,35 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
-  {
+  {      
+          "key": "狂人追剧",
+          "name": "狂人追剧_XBPQ",
+          "type": 3,
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "api": "csp_XBPQ",
+          "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+        "ext": {
+           "请求头": "User-Agent:Mozilla/5.0 (Linux; Android 15; 23078RKD5C Build/AP3A.240617.008) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6778.260 Mobile Safari/537.36",
+           "跳转播放链接": "data-url=\"&&\"#(拼接:https://www.kpkuang.fun{playUrl})",
+          "简介": "以下是剧情简介：&&</div>",
+          "导演": "导演：&&</p>",
+          "主演": "主演：&&</p>",
+          "影片类型": "分类：&&</p>", 
+          "图片": "data-original=\"&&\"",
+          "标题": "title=\"&&\"",
+          "副标题": "sea_subtitle\">&&<",        
+          "播放链接": "href=\"&&\"",
+          "线路数组": "fed-drop-btns fed-padding fed-col-xs4 fed-col-md2&&/a>[不包含:线路1]",
+           "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-{by}------{catePg}---{year}--.html",
+           "搜索图片": "data-original=\"&&\"",         
+           "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$37"
+          }
+        },
+		{
             "key": "奇优_XBPQ",
             "name": "奇优影院",
             "type": 3,

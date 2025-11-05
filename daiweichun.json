@@ -11,6 +11,30 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
 	    "sites": [	
+{
+            "key": "csp_SOAV",
+            "name": "✈️SOAV视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://777115.xyz",
+                "搜索url": "https://777115.xyz/?s={wd}",
+                "数组": "data-video-id=&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "</i>&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "",
+                "分类url": "https://777115.xyz/{cateId}/page/{catePg}/;;z",
+                "分类": "探花約炮$%e6%8e%a2%e8%8a%b1%e7%b4%84%e7%82%ae#日韓视频$%e6%97%a5%e9%9f%a9%e8%a7%86%e9%a2%91#国产嫩妹$%e5%9c%8b%e7%94%a2%e5%ab%a9%e5%a6%b9#歐美專區$%e6%ad%90%e7%be%8e%e4%b8%ad%e5%ad%97#國產視頻$%e5%9b%bd%e4%ba%a7%e8%a7%86%e9%a2%91#網紅主播$%e7%b6%b2%e7%b4%85%e4%b8%bb%e6%92%ad#吃瓜黑料$%e5%90%83%e7%93%9c%e9%bb%91%e6%96%99#日本无码$%e6%97%a5%e6%9c%ac%e6%97%a0%e7%a0%81"
+            }
+        },			
 {      
           "key": "狂人追剧",
           "name": "狂人追剧_XBPQ",

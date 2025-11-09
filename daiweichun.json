@@ -10,7 +10,20 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
-	    "sites": [			
+	    "sites": [	
+{
+    "key":"芝麻影视",
+    "name":"芝麻影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":
+"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+    "ext":{        
+   "简介": "class=\"data\" >&&</div>",
+     "搜索url": "https://www.zhimatv.cc/search/--/?wd={wd}submit=",
+       "分类url":"https://www.zhimatv.cc/type/{cateId}-{catePg}/",
+        "分类":"电影$2#电视剧$1#动漫$3"}
+},			
 {      
           "key": "狂人追剧",
           "name": "狂人追剧_XBPQ",

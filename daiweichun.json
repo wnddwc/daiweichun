@@ -20,6 +20,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"timeout": 120,
+	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
 			"ext":{
 				"token":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
 				"json":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/youtube.json",
@@ -42,6 +43,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
+	        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar",
 			"ext":"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json",
 			"style": {
 				"type": "rect",

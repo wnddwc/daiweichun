@@ -62,7 +62,7 @@
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false,
 "libxl_url":"./libxlsdk.tar.xz",
-"youtube_proxy":"proxy",
+"youtube_proxy":"",
 "singbox_url":"./sing-box.tar.xz",
 "singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./clash2singbox.tar.xz",

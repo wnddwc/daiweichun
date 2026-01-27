@@ -11,8 +11,6 @@
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "sites": [
- { "key": "沙雕动漫", "name": "沙雕动漫", "type":3,"style": {"type":"rect","ratio":1.433},"api":"csp_XBPQ","jar":
-"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar", "ext": {"简介":"小林子为您剧情介绍:+<p>&&</p>","首页":"0","线路标题":"panel-heading\">&&</div>","分类url":"http://www.jibai5.com/vodtype/{cateId}-{catePg}.html","分类":"沙雕动漫$22"}},		
 	{
             "key": "聚合短剧",
             "name": "聚合短剧",
